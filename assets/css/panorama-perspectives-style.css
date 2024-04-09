@@ -1,0 +1,61 @@
+/* special styles for Panorama Perspectives Blog  */
+
+.highlight-color {
+    color: #008080;
+}
+
+.web-dev-color {
+    color: #177A8D; /* Teal */
+}
+
+.freelancing-color {
+    color: #483D8B; /* Dark Slate Blue */
+}
+
+.studying-color {
+    color: #4B0082; /* Indigo */
+}
+
+.travel-color {
+    color: #556B2F; /* Dark Olive Green */
+}
+
+.time-management-color {
+    color: #FF8C00; /* Dark Orange */
+}
+
+.personal-dev-color {
+    color: #8B0000; /* Dark Red */
+}
+
+.sports-color {
+    color: #00008B; /* Dark Blue */
+}
+
+.other-color {
+    color: #404040; /* Dark Gray */
+}
+
+
+
+/**
+cookie banner
+*/
+
+#cookie-banner {
+    display: block;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    box-shadow: 0px -2px 10px rgba(0, 0, 0, 0.2);
+    color: white;
+    background-color: rgb(54, 69, 79);
+    padding: 10px;
+    border-radius: 5px;
+    z-index: 999;
+    font-size: 70%
+}
+
+
+

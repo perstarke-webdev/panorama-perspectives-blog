@@ -8,6 +8,5 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-@import "perstarke-webdev-site.css";
-@import "grid.css";
+@import "panorama-perspectives-style.css";
 @import 'all.css'; // fontawesome
