@@ -3,7 +3,7 @@ title: "How I VERY successfully used ChatGPT for Exam Preparation - and how it c
 permalink: /posts/chatgpt-for-exam-prep
 layout: single
 header:
-  overlay_image: /images/photos/sydney-2.webp
+  overlay_image: /images/photos/sydney-11.webp
   overlay_filter: rgba(0, 0, 0, 0.6)
 excerpt: "Studying for exams can be a daunting task, but my recent experience with an oral exam was transformed by an unlikely ally - ChatGPT. In this post, I'll share how I utilized ChatGPT to prepare for my exam effectively and how it can help you as well."
 ---
@@ -131,4 +131,3 @@ First, this helped in gaining even better understanding, second, ChatGPT summari
 
 
 I wish you a lot of success for your next exam :)
-

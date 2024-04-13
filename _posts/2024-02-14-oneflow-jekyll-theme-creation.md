@@ -2,6 +2,9 @@
 title: "Building OneFlow: Crafting an Effortless Jekyll Theme for One-Pager Websites"
 permalink: /posts/oneflow-jekyll-theme-creation
 layout: single
+header:
+    overlay_image: /images/photos/sydney-11.webp
+    overlay_filter: rgba(0, 0, 0, 0.6)
 excerpt: "Join me on the journey of crafting OneFlow, a Jekyll theme designed for seamless One-Pager websites. Why did I choose a GitHub repository over the conventional official theme route? The answer is as straightforward as OneFlow's structure. Let's delve into the code and explore why this laid-back approach aligns with my vision."
 ---
 

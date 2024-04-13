@@ -2,6 +2,9 @@
 title: "Exploring the Homepage Canvas: A Guide to Strategic Website Planning"
 permalink: /posts/homepage-canvas
 layout: single
+header:
+    overlay_image: /images/photos/sydney-3.webp
+    overlay_filter: rgba(0, 0, 0, 0.6)
 excerpt: "In the realm of website development, having a clear roadmap can make all the difference between a successful project and one that falls short of expectations. Clear communication between web developers and clients is essential, not only for satisfying results, but also for enjoyable teamwork.
     This is where the Homepage Canvas comes into play - a versatile tool designed to simplify communication, enhance collaboration and help with collecting and structuring ideas, wishes and preferences for website projects."
 ---
@@ -50,5 +53,4 @@ streamlining the design and development process, significantly reducing revision
 
 
 ## What are you waiting for?
-Whether you are a web developer looking for a way to optimize communication with your clients, or you are looking for a new website for yourself, [give the Homepage Canvas a try!](https://perstarke-webdev.de/canvas) 
-
+Whether you are a web developer looking for a way to optimize communication with your clients, or you are looking for a new website for yourself, [give the Homepage Canvas a try!](https://perstarke-webdev.de/canvas)
