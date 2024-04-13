@@ -2,6 +2,9 @@
 title: "Exploring the Homepage Canvas: A Guide to Strategic Website Planning"
 permalink: /posts/homepage-canvas
 layout: single
+tags: 
+    - web-development
+    - IT
 header:
     overlay_image: /images/photos/sydney-3.webp
     overlay_filter: rgba(0, 0, 0, 0.6)

@@ -2,6 +2,9 @@
 title: "Recipe Recommender - My Bachelor Thesis"
 permalink: /posts/bachelorthesis-recipe-recommender
 layout: single
+tags:
+  - web-development
+  - other
 header:
   overlay_image: /images/photos/sydney-3.webp
   overlay_filter: rgba(0, 0, 0, 0.6)

@@ -2,6 +2,7 @@
 title: "Building OneFlow: Crafting an Effortless Jekyll Theme for One-Pager Websites"
 permalink: /posts/oneflow-jekyll-theme-creation
 layout: single
+tags: web-development
 header:
     overlay_image: /images/photos/sydney-11.webp
     overlay_filter: rgba(0, 0, 0, 0.6)

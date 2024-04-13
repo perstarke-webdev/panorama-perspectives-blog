@@ -2,6 +2,9 @@
 title: "The Homepage Canvas on 'Informatik-Aktuell'-magazine"
 permalink: /posts/homepage-canvas-informatik-aktuell
 layout: single
+tags:
+    - web-development
+    - IT
 header:
     overlay_image: /images/photos/sydney-3.webp
     overlay_filter: rgba(0, 0, 0, 0.6)
