@@ -4,6 +4,7 @@ permalink: /posts/bachelorthesis-recipe-recommender
 layout: single
 tags:
   - web-development
+  - IT
   - other
 header:
   overlay_image: /images/photos/sydney-3.webp

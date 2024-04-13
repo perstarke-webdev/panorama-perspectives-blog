@@ -1,39 +1,39 @@
 /* special styles for Panorama Perspectives Blog  */
 
 .highlight-color {
-    color: #008080;
+    color: #008080 !important;
 }
 
 .web-dev-color {
-    color: #177A8D; /* Teal */
+    color: #177A8D !important; /* Teal */
 }
 
 .freelancing-color {
-    color: #483D8B; /* Dark Slate Blue */
+    color: #483D8B !important; /* Dark Slate Blue */
 }
 
 .studying-color {
-    color: #4B0082; /* Indigo */
+    color: #4B0082 !important; /* Indigo */
 }
 
 .travel-color {
-    color: #556B2F; /* Dark Olive Green */
+    color: #556B2F !important; /* Dark Olive Green */
 }
 
 .time-management-color {
-    color: #FF8C00; /* Dark Orange */
+    color: #FF8C00 !important; /* Dark Orange */
 }
 
 .personal-dev-color {
-    color: #8B0000; /* Dark Red */
+    color: #8B0000 !important; /* Dark Red */
 }
 
 .sports-color {
-    color: #00008B; /* Dark Blue */
+    color: #00008B !important; /* Dark Blue */
 }
 
 .other-color {
-    color: #404040; /* Dark Gray */
+    color: #404040 !important; /* Dark Gray */
 }
 
 .bold {

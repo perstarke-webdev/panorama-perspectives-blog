@@ -16,14 +16,70 @@ header:
 
     {% if post.tags contains 'time-management' %}
 
-    <h3>
-        <a href="{{ post.permalink }}"
-           rel="noopener noreferrer nofollow"
-           target="_blank">
-            {{ post.title }}
-        </a>
-    </h3>
-    <p>{{ post.excerpt }}</p>
+<h3>
+    <a href="{{ post.permalink }}"
+       rel="noopener noreferrer nofollow"
+       target="_blank">
+        {{ post.title }}
+    </a>
+</h3>
+<p>
+    <i class="fa fa-tags"></i>
+    {% for tag in post.tags %}
+
+
+    {% if tag == "freelancing" %}
+    <a href="/freelancing" class="freelancing-color">
+        #freelancing
+    </a>&nbsp;
+    {% endif %}
+
+    {% if tag == "traveling" %}
+    <a href="/traveling" class="travel-color">
+        #traveling
+    </a>&nbsp;
+    {% endif %}
+
+    {% if tag == "time-management" %}
+    <a href="/time-management" class="time-management-color">
+        #time-management
+    </a>&nbsp;
+    {% endif %}
+
+    {% if tag == "web-development" %}
+    <a href="/web-development" class="web-dev-color">
+        #web-development
+    </a>&nbsp;
+    {% endif %}
+
+    {% if tag == "IT" %}
+    <a href="/web-development" class="web-dev-color">
+        #IT
+    </a>&nbsp;
+    {% endif %}
+
+    {% if tag == "competitive-sports" %}
+    <a href="/competitive-sports" class="sports-color">
+        #competitive-sports
+    </a>&nbsp;
+    {% endif %}
+
+    {% if tag == "personal-development" %}
+    <a href="/personal-development" class="personal-dev-color">
+        #personal-development
+    </a>&nbsp;
+    {% endif %}
+
+    {% if tag == "other" %}
+    <a href="/other" class="other-color">
+        #other
+    </a>&nbsp;
+    {% endif %}
+
+
+    {% endfor %}
+</p>
+<p>{{ post.excerpt }}</p>
 
     {% endif %}
 
