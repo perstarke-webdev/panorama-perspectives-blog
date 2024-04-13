@@ -1,9 +1,12 @@
 ---
-layout: single
-title: Impressum und Datenschutz
+layout: splash
+title: Imprint & Privacy
 permalink: /imprint
 author_profile: false
 ---
+<br><br>
+Due to german laws I need to include this imprint & privacy notice in german.
+If you need a translation, refer to any translation tool or contact me.
 
 #### Anbieter und Verantwortliche Person
 Per Starke, Willi-Lauf Allee 43, D-50858 Köln
@@ -12,7 +15,7 @@ Per Starke, Willi-Lauf Allee 43, D-50858 Köln
 #### Kontakt
 Telefon: +49 160 93268817
 <br>
-e-Mail: per_at_starke-team.de
+e-Mail: info_at_perstarke-webdev.de
 <br>
 
 
@@ -78,7 +81,3 @@ Auf dieser Webseite wird FontAwesome allerdings lokal gehostet und somit keine D
 
 #### Widerruf, Änderungen, Berichtigungen und Aktualisierungen
 Der Nutzer hat das Recht, auf Antrag unentgeltlich Auskunft zu erhalten über die personenbezogenen Daten, die über ihn gespeichert wurden. Zusätzlich hat der Nutzer das Recht auf Berichtigung unrichtiger Daten, Sperrung und Löschung seiner personenbezogenen Daten, soweit dem keine gesetzliche Aufbewahrungspflicht entgegensteht.<br />
-
-#### Quelle
-Danke an Hr Rechtsanwalt Thomas Schwenke:<br>
-<a href="http://rechtsanwalt-schwenke.de/smmr-buch/datenschutz-muster-generator-fuer-webseiten-blogs-und-social-media/"><strong>Datenschutz-Muster von Rechtsanwalt Thomas Schwenke - I LAW it</strong></a>
