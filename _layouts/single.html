@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
-  {% include page__hero.html %}
+  {% include page__hero_post.html %}
 {% elsif page.header.video.id and page.header.video.provider %}
   {% include page__hero_video.html %}
 {% endif %}
@@ -47,18 +47,22 @@ layout: default
           </aside>
         {% endif %}
         {{ content }}
-        {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+
+        <br>
+        <a href="#" class="btn btn--success" onclick="copyToClipboard()">
+          Share this post!
+        </a>
+
       </section>
 
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
         {% endif %}
-        {% include page__taxonomy.html %}
         {% include page__date.html %}
-      </footer>
 
-      {% if page.share %}{% include social-share.html %}{% endif %}
+
+      </footer>
 
       {% include post_pagination.html %}
     </div>
@@ -93,3 +97,18 @@ layout: default
     </div>
   {% endif %}
 </div>
+
+
+
+
+<script>
+function copyToClipboard() {
+  const el = document.createElement('textarea');
+  el.value = window.location.href;
+  document.body.appendChild(el);
+  el.select();
+  document.execCommand('copy');
+  document.body.removeChild(el);
+  alert('URL copied to clipboard. Open Instagram / Email / Twitter or whatever you prefer using and paste the link. Thank you so much!');
+}
+</script>
