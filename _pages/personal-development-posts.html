@@ -1,0 +1,35 @@
+---
+title: Posts about Personal Development
+layout: splash_personal
+permalink: /personal-development
+header:
+    overlay_image: /images/photos/sydney-1.webp
+    overlay_filter: rgba(0, 0, 0, 0.6)
+    actions:
+        - label: "Check out all other posts"
+          url: "/posts"
+---
+
+{% assign posts = site.posts | sort: 'date' | reverse %}
+
+{% for post in posts %}
+
+    {% if post.tags contains 'personal-development' %}
+
+    <h3>
+        <a href="{{ post.permalink }}"
+           rel="noopener noreferrer nofollow"
+           target="_blank">
+            {{ post.title }}
+        </a>
+    </h3>
+    <p>{{ post.excerpt }}</p>
+
+    {% endif %}
+
+
+
+
+
+
+{% endfor %}

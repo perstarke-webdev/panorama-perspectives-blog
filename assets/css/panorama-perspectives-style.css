@@ -43,112 +43,112 @@
 
 /* Web Development Button */
 .btn-web-dev {
-    color: white;
+    color: white !important;
     background-color: #177A8D; /* Teal */
     border: 2px solid #0F4C5C; /* Slightly darker than the inside */
     transition: background-color 0.3s, border-color 0.3s;
 }
 
 .btn-web-dev:hover {
-    color: white;
+    color: white !important;
     background-color: #12676E; /* Slightly darker on hover */
     border-color: #0B3F4E; /* Slightly darker on hover */
 }
 
 /* Freelancing Button */
 .btn-freelancing {
-    color: white;
+    color: white !important;
     background-color: #483D8B; /* Dark Slate Blue */
     border: 2px solid #1D1B4C; /* Slightly darker than the inside */
     transition: background-color 0.3s, border-color 0.3s;
 }
 
 .btn-freelancing:hover {
-    color: white;
+    color: white !important;
     background-color: #322E68; /* Slightly darker on hover */
     border-color: #0F0D3A; /* Slightly darker on hover */
 }
 
 /* Studying Button */
 .btn-studying {
-    color: white;
+    color: white !important;
     background-color: #4B0082; /* Indigo */
     border: 2px solid #220033; /* Slightly darker than the inside */
     transition: background-color 0.3s, border-color 0.3s;
 }
 
 .btn-studying:hover {
-    color: white;
+    color: white !important;
     background-color: #3B005B; /* Slightly darker on hover */
     border-color: #190029; /* Slightly darker on hover */
 }
 
 /* Travel Button */
 .btn-travel {
-    color: white;
+    color: white !important;
     background-color: #556B2F; /* Dark Olive Green */
     border: 2px solid #2B3A15; /* Slightly darker than the inside */
     transition: background-color 0.3s, border-color 0.3s;
 }
 
 .btn-travel:hover {
-    color: white;
+    color: white !important;
     background-color: #405F22; /* Slightly darker on hover */
     border-color: #1F3C11; /* Slightly darker on hover */
 }
 
 /* Time Management Button */
 .btn-time-management {
-    color: white;
+    color: white !important;
     background-color: #FF8C00; /* Dark Orange */
     border: 2px solid #A64D00; /* Slightly darker than the inside */
     transition: background-color 0.3s, border-color 0.3s;
 }
 
 .btn-time-management:hover {
-    color: white;
+    color: white !important;
     background-color: #C97500; /* Slightly darker on hover */
     border-color: #8A3F00; /* Slightly darker on hover */
 }
 
 /* Personal Development Button */
 .btn-personal-dev {
-    color: white;
+    color: white !important;
     background-color: #8B0000; /* Dark Red */
     border: 2px solid #4B0000; /* Slightly darker than the inside */
     transition: background-color 0.3s, border-color 0.3s;
 }
 
 .btn-personal-dev:hover {
-    color: white;
+    color: white !important;
     background-color: #6B0000; /* Slightly darker on hover */
     border-color: #3B0000; /* Slightly darker on hover */
 }
 
 /* Sports Button */
 .btn-sports {
-    color: white;
+    color: white !important;
     background-color: #00008B; /* Dark Blue */
     border: 2px solid #000044; /* Slightly darker than the inside */
     transition: background-color 0.3s, border-color 0.3s;
 }
 
 .btn-sports:hover {
-    color: white;
+    color: white !important;
     background-color: #000066; /* Slightly darker on hover */
     border-color: #000033; /* Slightly darker on hover */
 }
 
 /* Other Button */
 .btn-other {
-    color: white;
+    color: white !important;
     background-color: #404040; /* Dark Gray */
     border: 2px solid #202020; /* Slightly darker than the inside */
     transition: background-color 0.3s, border-color 0.3s;
 }
 
 .btn-other:hover {
-    color: white;
+    color: white !important;
     background-color: #303030; /* Slightly darker on hover */
     border-color: #101010; /* Slightly darker on hover */
 }

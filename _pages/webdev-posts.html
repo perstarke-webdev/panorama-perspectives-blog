@@ -1,0 +1,35 @@
+---
+title: Posts about Web Development / IT
+layout: splash_webdev
+permalink: /web-development
+header:
+    overlay_image: /images/photos/sydney-2.webp
+    overlay_filter: rgba(0, 0, 0, 0.6)
+    actions:
+        - label: "Check out all other posts"
+          url: "/posts"
+        - label: "Check out my web development website"
+          url: "https://perstarke-webdev.de/en"
+---
+
+{% assign posts = site.posts | sort: 'date' | reverse %}
+
+{% for post in posts %}
+
+    {% if post.tags contains 'web-development' or post.tags contains 'IT' %}
+
+    <h3>
+        <a href="{{ post.permalink }}"
+           rel="noopener noreferrer nofollow"
+           target="_blank">
+            {{ post.title }}
+        </a>
+    </h3>
+    <p>{{ post.excerpt }}</p>
+
+    {% endif %}
+
+
+
+
+{% endfor %}
