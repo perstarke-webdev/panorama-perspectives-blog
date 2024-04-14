@@ -30,6 +30,12 @@ I hope you find something here that resonates just as strongly with you. Enough 
     Thank you!
 </div>
 
+<div class="notice--danger">
+    Most of these books are available in English and German (and other languages), some sadly are not available in English.
+    If that is the case, I clearly marked that!
+</div>
+
+<br>
 <h1 class="highlight-color">Books</h1>
 
 ## The 7 Habits of Highly Effective People
@@ -49,6 +55,19 @@ finding what fulfills you and discovering your purpose can lead to a happier lif
 Although this concept might seem evident, many never pursue it. 
 This book provides practical insights and inspiration to help you embark on that journey of self-discovery.
 
+## Feel-Good Productivity: How to Do More of What Matters to You
+***Ali Abdaal***   
+*[Get the book](https://amzn.to/3TZpApT)*  
+I've been a fan of Ali's videos long before picking up this book, 
+and his approach resonates deeply with me. 
+The philosophy is simple yet profound: make work, studying, and life as enjoyable as possible to 
+maximize productivity in areas that truly matter to you. 
+This book is packed with experiments, actionable tips, and personalized strategies to explore.
+It’s evident that Ali takes his own advice, which I really appreciate.
+I think no book ever contained more things that I directly and easily could (and did) start to apply to my own life. 
+It’s one of my top recommendations for anyone looking to enhance their productivity with a positive twist.
+
+
 ## Can't Hurt Me: Master Your Mind and Defy the Odds
 ***David Goggins***   
 *[Get the book](https://amzn.to/49BE9pe)*  
@@ -67,31 +86,80 @@ While there have been controversies around Peterson's personal conduct,
 the insights in the book can still offer valuable perspectives. 
 I find the 12 rules so practical that I keep a summary of them on my door as a daily reminder.
 
-## Test-Book 1
-***Author***   
-*[Get the book](#)*  
-Description of the book
+## Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones
+***James Clear***   
+*[Get the book](https://amzn.to/49BTMgF)*  
+Really digs into how small changes can make a big impact on our daily lives. 
+The book is filled with practical strategies that helped me improve my positive routines and 
+actually do break my bad habits.
+I've found the tips so helpful that I've subscribed to Clear's email newsletter, 
+which sends reminders and further advice every few days, which helps me to stick to the lessons I learned from the book.
 
-## Test-Book 1
-***Author***   
-*[Get the book](#)*  
-Description of the book
+
+## (Not available in English, sadly) Drei Fragen: Wer bin ich? Wohin gehe ich? Und mit wem?
+***Jorge Bucay***   
+*[Get the book](https://amzn.to/4apytQB)*  
+The title translates as *"Three questions: Who am I? Where am I going? And with whom?"*.  
+I love how Bucay gets straight to the point and gives helpful advice to answer these vital life questions.  
+Even though I do not fully agree with all statements in the book, especially the first half of it
+was quite transformative for me and had such a significant impact that I definitely wanted to include it in this list.
+
+## The Personal MBA: Master the Art of Business
+***Josh Kaufman***   
+*[Get the book](https://amzn.to/4cYs8gu)*  
+This book provides a comprehensive overview of essential business concepts across multiple domains including 
+entrepreneurship, product development, marketing, sales, and more. 
+Reading it not only expanded my understanding and sparked new ideas but also turned it into a go-to reference 
+that sits right next to my desk now. 
+I experienced this as a valuable resource for inspiration and quick look-ups, 
+packed with insights on everything from negotiation and finance to leadership and operations management.
+
+## Sell Like Crazy: How To Get As Many Clients, Customers and Sales As You Can Possibly Handle
+***Sabri Suby***   
+*[Get the book](https://amzn.to/49w1GYU)*  
+Despite its overtly salesy title and style of writing, which might be off-putting for some, 
+this book provided me with unique insights that I haven't found elsewhere in such a comprehensive manner. 
+If you're exploring marketing, this is definitely worth checking out. 
+Look past the aggressive sales tone, and you'll discover a wealth of practical advice that goes beyond 
+the basic marketing tips commonly found in videos and blog posts.
+
+## (Not available in English, sadly) Neurowebdesign – Wie Hirnforschung und Psychologie das Webdesign beeinflussen
+***Jonas Reggelin***   
+*[Get the book](https://amzn.to/3W10XM6)*  
+Over 90% of our decisions are made unconsciously, making it incredibly beneficial to tailor web design 
+based on brain research. This book offers an in-depth look at the intersection of neuroscience and web design, 
+providing both theoretical insights and practical advice. My clients and I have gained significant benefits 
+from the approaches detailed in this book. If you’re interested in enhancing your website’s effectiveness 
+through psychology, this is a must-read.
+
+## Hello World: How to be Human in the Age of the Machine
+***Hannah Fry***   
+*[Get the book](https://amzn.to/4cXDeCt)*  
+In the age of artificial intelligence (AI) and algorithms, pressing questions arise that we need to address. 
+The book presents dilemmas such as 
+*"You are accused of a crime. Who would you rather determined your fate - a human or a machine?"* and 
+*"Which driverless car do you buy - one that prioritizes your life in the event of a crash or one 
+that reacts to save as many lives as possible?"* 
+These are not just theoretical questions; we are nearing a point where such decisions will become reality. 
+This makes delving into the implications of AI and technology crucial, 
+and Fry’s book provides an extremely valuable exploration of these topics.
+
+## (Not available in English, sadly) Ethik in KI und Robotik
+***Christoph Bartneck, Christoph Lütge, Alan R. Wagner, Sean Welsh***   
+*[Get the book](https://amzn.to/3vTLKBY)*  
+As our lives become increasingly impacted by AI and robotics, 
+the ethical considerations of these technologies become more pressing. 
+From autonomous vehicles on our roads to robots in healthcare and algorithms making critical decisions, 
+the scope of AI and robotics in our daily lives is ever-growing. 
+This book offers an essential introduction to the ethics involved, 
+presenting complex issues in an accessible manner without requiring prior expertise. 
+It’s a great read for anyone interested in understanding the ethical landscape of modern technology.
 
 
+
+<br>
 <h1 class="highlight-color">Podcasts</h1>
 
-## Test-Book 1
-***Author***   
-*[Get the book](#)*  
-Description of the book   
+To be done
 
-## Test-Book 1
-***Author***   
-*[Get the book](#)*  
-Description of the book   
-
-## Test-Book 1
-***Author***   
-*[Get the book](#)*  
-Description of the book   
 
