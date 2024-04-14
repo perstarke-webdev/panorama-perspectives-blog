@@ -1,5 +1,5 @@
 ---
-title: "My book and podcast recommendations for you"
+title: "My Book and Podcast Recommendations for You"
 permalink: /posts/books-and-podcasts
 layout: single
 tags:
