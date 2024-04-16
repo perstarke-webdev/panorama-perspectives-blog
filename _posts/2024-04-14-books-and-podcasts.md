@@ -160,6 +160,57 @@ It’s a great read for anyone interested in understanding the ethical landscape
 <br>
 <h1 class="highlight-color">Podcasts</h1>
 
-To be done
+## The Mindset Mentor
+***Rob Dial***   
+*[Listen on Spotify](https://open.spotify.com/show/706hylM6zaDW8LrrYxcggQ?si=7fca70a7373c4529)*  
+*"The Mindset Mentor podcast is designed for anyone desiring motivation, direction, and focus in life."*  
+That’s how it's described in the show notes, 
+and it captures the essence perfectly. 
+This podcast was my initial foray into personal development, 
+laying the groundwork for a deeper exploration of the subject that has profoundly influenced my life. 
+While I've since diversified my listening and reading habits, 
+I regularly return to both new and old episodes of The Mindset Mentor. 
+Some episodes serve as a valuable reminder of the principles I strive to live by, 
+while others introduce fresh ideas and perspectives.
 
+## 20 Minute Books
+*[Listen on Spotify](https://open.spotify.com/show/0DCr5p9xsdBceiAtaPbW5Y?si=45685dc1adf8420e)*  
+This Podcast offers quick, insightful summaries of books,
+functioning similarly to services like [Blinkist](https://www.blinkist.com/en/), 
+but since it's available on Spotify, it integrates seamlessly with my existing subscriptions. 
+While I prefer the depth that reading full books provides, 
+these concise summaries are incredibly valuable. 
+They allow me to cover more ground—listening is easy during car drives, walks, or even while cleaning. 
+If a summary grabs my attention, I can always decide to read the full book later. 
+I also appreciate revisiting summaries of books I’ve read to refresh their key concepts. 
+Additionally, this podcast is perfect for briefly exploring new topics and ideas without committing 
+to a full-length book.
 
+## The Profitable Travel Blogger Podcast
+***Jessie Festa***  
+*[Listen on Spotify](https://open.spotify.com/show/3DfSZbkrDFIX2eyimODSCY?si=329557d153fb4949)*  
+This is a standout resource for anyone interested in the intersection of blogging, traveling, and working remotely.
+This podcast resonates deeply with me as it aligns with my own interests in these areas. 
+After exploring various blogging-related podcasts and finding many lacking in substance or simply unappealing, 
+discovering this podcast was a relief. The insights offered are genuinely valuable, 
+making it a favorite I regularly return to with enthusiasm.
+
+## The Freelancer Podcast
+***Kyle Prinsloo***  
+*[Listen on Spotify](https://open.spotify.com/show/27oYFuQyf6VZ18bKP0ffPB?si=010ffa9ec5204324)*  
+This one truly lives up to its tagline, 
+*"Freelancing and marketing nuggets for web designers, without the fluff."* 
+It delivers precisely what it promises: straightforward, valuable content with no unnecessary filler. 
+Although it primarily targets freelancers in web development, 
+the insights provided are broadly applicable, benefiting freelancers across various fields as well as 
+web developers who aren't freelancing. 
+This makes it a standout resource for anyone looking to enhance their freelancing skills.
+
+## Soul sisters in sydney
+*[Listen on Spotify](https://open.spotify.com/show/6Uhn7JW7TaYwkd13YWOb1Q?si=1d79847458634011)*  
+This one is kind of a hidden gem.
+It's not very famous and was hard to find, but I really enjoy it a lot. 
+Like my blog, this podcast isn't just about sharing expertise; it's more about sharing personal and relatable 
+experiences. It covers everything from traveling and life in Australia to self development, friendship, 
+and finding the right work/life balance. Sadly, it looks like no new episodes have been added since 2022, 
+and there are only a few episodes available, but the ones that are there are definitely worth a listen
