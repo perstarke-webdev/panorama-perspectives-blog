@@ -8,8 +8,11 @@ tags:
 header:
     overlay_image: /images/photos/sydney-3.webp
     overlay_filter: rgba(0, 0, 0, 0.6)
+
 excerpt: "The Homepage Canvas I developed has now been published in the renowned magazine 'Informatik-Aktuell'!"
 ---
+
+<link rel="canonical" href="https://blog.perstarke-webdev.de/posts/homepage-canvas-informatik-aktuell">
 
 The Homepage Canvas I developed has now been published in the renowned magazine 'Informatik-Aktuell'! (In German).
 

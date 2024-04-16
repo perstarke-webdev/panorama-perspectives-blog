@@ -12,6 +12,8 @@ header:
 excerpt: "I wrote my Bachelor Thesis about algorithms for personalized recipe recommendations - here are some insights!"
 ---
 
+<link rel="canonical" href="https://blog.perstarke-webdev.de/posts/bachelorthesis-recipe-recommender">
+
 ## Summary
 
 My bachelor thesis investigated the effectiveness of algorithms for personalized recipe recommendations. 

@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "Home"
+  - title: "Welcome!"
     url: /
-  - title: "Posts"
+  - title: "All posts"
     url: /posts
   - title: "Per Starke Web Dev"
     url: "https://perstarke-webdev.de/en"
