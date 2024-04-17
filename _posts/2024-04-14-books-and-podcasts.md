@@ -114,6 +114,24 @@ that sits right next to my desk now.
 I experienced this as a valuable resource for inspiration and quick look-ups, 
 packed with insights on everything from negotiation and finance to leadership and operations management.
 
+## Level Up: Get Focused, Stop Procrastinating and Upgrade Your Life
+***Rob Dial***   
+*[Get the book](https://amzn.to/49CC0K5)*  
+Rob Dial’s podcast *"The Mindset Mentor"*(see below) was my introduction to self development, 
+creating a special connection for me. Motivated by numerous podcast episodes, 
+I decided to dive into his book, and I'm glad I made that choice. 
+Unlike his podcast, which often focuses on specific topics, **Level Up** provides a 
+comprehensive overview of various strategies essential for achieving your goals, whatever they may be. 
+While many chapters revisited concepts familiar from the podcast or other books, 
+integrating them into a broader context was highly beneficial. 
+Additionally, some sections offered new insights I hadn't encountered elsewhere. 
+Overall, this book is an excellent resource, offering actionable advice and a straightforward approach to success
+(whatever success personally means for you).
+It serves as both a valuable refresher for those familiar with the subject of personal development 
+and a solid foundation for newcomers looking to delve deeper.
+
+
+
 ## Sell Like Crazy: How To Get As Many Clients, Customers and Sales As You Can Possibly Handle
 ***Sabri Suby***   
 *[Get the book](https://amzn.to/49w1GYU)*  
@@ -156,7 +174,6 @@ presenting complex issues in an accessible manner without requiring prior expert
 It’s a great read for anyone interested in understanding the ethical landscape of modern technology.
 
 
-
 <br>
 <h1 class="highlight-color">Podcasts</h1>
 
@@ -185,6 +202,18 @@ If a summary grabs my attention, I can always decide to read the full book later
 I also appreciate revisiting summaries of books I’ve read to refresh their key concepts. 
 Additionally, this podcast is perfect for briefly exploring new topics and ideas without committing 
 to a full-length book.
+
+## Guided Sleep Meditation & Sleep Hypnosis from Sleep Cove
+***Sleep Hypnosis, Meditations and Bedtime Stories***   
+*[Listen on Spotify](https://open.spotify.com/show/5mSCDO2x32DwnwDdtYvM6L?si=035a45cdc6834a26)*  
+We all know how crucial good sleep is for our bodies and brains to function properly. 
+There are various strategies to improve sleep, and one lesser-known approach is guided sleep meditations. 
+I’ve tried many different ones and have seen a significant improvement in how quickly I fall asleep 
+and the overall quality of my sleep.
+Out of all the options I’ve explored, the Sleep Cove Podcast has been the most effective for me. 
+I particularly enjoy the [*"Deep Relaxing Sleep Hypnosis"* episode](https://open.spotify.com/episode/68Btgjm4RTWhAIEKUKkpf8?si=d84b8118c2c44bec), 
+which has become my go-to nightly routine. 
+It’s definitely worth trying if you’re looking for a new way to enhance your sleep. My experiences have been very positive!
 
 ## The Profitable Travel Blogger Podcast
 ***Jessie Festa***  
