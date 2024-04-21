@@ -320,7 +320,7 @@ actively promote your services.
 
 <div class="notice--primary center">
 What I just started, which I think will be really helpful but I haven’t tried it out for too long,
-so I am excited how this will turn out, is instead of offering a referal bonus in money, 
+so I am excited how this will turn out, is instead of offering a referral bonus in money, 
 I offer clients that successfully refer me on to help them with promoting their website on social media for free,
 which is something I normally offer as a paid service.
 </div>
