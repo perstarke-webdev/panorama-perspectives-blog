@@ -16,7 +16,7 @@ In the previous post, we covered the foundational, long-term strategies necessar
 freelance business. Today, we'll switch gears and focus on **short-term strategies** that can help you 
 acquire clients immediately. Whether you're just starting out or looking to expand your client base quickly, 
 I designed these tips to give you practical steps that you can implement right away.
-I regularly apply these tips myself and have gleaned many lessons that I’m eager to share with you.
+I regularly apply these tips myself and have learned many lessons that I’m eager to share with you.
 
 It's essential to have a solid foundation in place, which we discussed in the first part of this series. 
 If you haven't yet, I highly recommend [checking that out](/posts/finding-web-development-freelancing-clients-one) 
@@ -35,6 +35,9 @@ Begin by identifying businesses within your niche that either lack a web presenc
 could significantly improve their current one. 
 Tools like Google Maps, search engines, and social media platforms are invaluable for this task. 
 They allow you to pinpoint businesses that either don't have a website or have one that falls short of modern web standards.
+Once you've found a potential client to reach out to, go fo it!
+You can contact them via social media or email, or alternatively - if it's a local business - just walk by and talk
+to them in person. However, I strongly advise against just calling. Many people feel annoyed by that. 
 
 ### Crafting Your Approach
 
@@ -47,7 +50,7 @@ Always remember, the key is to be direct and to the point to maintain the prospe
 
 Include a personal touch in your message—explain who you are, what you do, and why you are interested in working with them. This personal connection can make a significant difference.
 
-###Example of Effective Outreach
+### Example of Effective Outreach
 
 For instance, one of my earlier successes involved a local vegan restaurant. 
 I discovered them through a Google Maps search for vegan eateries without websites. 
@@ -345,15 +348,29 @@ For those who prefer building relationships and crafting bespoke solutions,
 other strategies discussed in this series may prove more effective and satisfying.
 
 # Be Responsive and Authentic
-###Respond Promptly
 
-Speed is crucial in communication, especially when it comes to potential clients. A delayed response can imply disinterest or unreliability. Ensure you reply promptly to inquiries, showing potential clients that you are attentive and eager to engage.
+### Respond Promptly
+
+Speed is crucial in communication, especially when it comes to potential clients. 
+A delayed response can imply disinterest or unreliability. Ensure you reply promptly to inquiries, 
+showing potential clients that you are attentive and eager to engage.
+
 ### Stay True to Your Style
 
-Authenticity is key in building trust and rapport. Be yourself in all your communications. My approach tends to be informal and straightforward, which resonates well with my client base. This personal touch is what sets me apart in a sea of service providers who might stick strictly to formalities. Your style might differ, but the core principle remains: true personal expression leads to stronger, more genuine business relationships.
+Authenticity is key in building trust and rapport. Be yourself in all your communications. 
+My approach tends to be informal and straightforward, which resonates well with my client base. 
+This personal touch is what sets me apart in a sea of service providers who might stick strictly to formalities. 
+Your style might differ, but the core principle remains: true personal expression leads to stronger, 
+more genuine business relationships.
 
 # Conclusion
 
-As we wrap up this exploration of short-term client acquisition strategies, remember that each approach has its place depending on your specific situation and business goals. From direct outreach and leveraging referrals to navigating the complexities of paid advertising and freelance platforms—each tactic requires a tailored approach. Keep refining your methods and always stay true to your professional identity.
+As we wrap up this exploration of short-term client acquisition strategies, 
+remember that each approach has its place depending on your specific situation and business goals. 
+From direct outreach and leveraging referrals to navigating the complexities of paid advertising and 
+freelance platforms - each tactic requires a tailored approach. 
+Keep refining your methods and always stay true to your professional identity.
 
-Stay tuned for more insights and practical tips on freelancing and web development. Thank you for following along, and here’s to your success in finding and securing more clients swiftly!
+Stay tuned for more insights and practical tips on freelancing and web development. 
+Thank you for following along, and here’s to your success in finding and securing more clients swiftly!
+
