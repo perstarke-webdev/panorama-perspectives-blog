@@ -1,5 +1,5 @@
 ---
-title: "Finding Clients as a (Web Development) Freelancer - part 2"
+title: "Finding Clients as a (Web Development) Freelancer - Part 2"
 permalink: /posts/finding-web-development-freelancing-clients-two
 layout: single
 tags:
@@ -18,9 +18,13 @@ acquire clients immediately. Whether you're just starting out or looking to expa
 I designed these tips to give you practical steps that you can implement right away.
 I regularly apply these tips myself and have learned many lessons that I’m eager to share with you.
 
+<div class="notice--success center">
 It's essential to have a solid foundation in place, which we discussed in the first part of this series. 
-If you haven't yet, I highly recommend [checking that out](/posts/finding-web-development-freelancing-clients-one) 
+If you haven't yet, I highly recommend <a href="/posts/finding-web-development-freelancing-clients-one">checking that out</a>  
 to ensure your long-term success. 
+</div>
+
+
 Now, let's dive into the dynamic world of immediate client acquisition and explore how you can 
 generate quick wins for your freelance business.
 
@@ -37,7 +41,11 @@ Tools like Google Maps, search engines, and social media platforms are invaluabl
 They allow you to pinpoint businesses that either don't have a website or have one that falls short of modern web standards.
 Once you've found a potential client to reach out to, go fo it!
 You can contact them via social media or email, or alternatively - if it's a local business - just walk by and talk
-to them in person. However, I strongly advise against just calling. Many people feel annoyed by that. 
+to them in person. 
+
+<div class="notice--danger center">
+However, I strongly advise against just calling. Many people feel annoyed by that. 
+</div>
 
 ### Crafting Your Approach
 
@@ -48,7 +56,9 @@ For those with an existing site that needs improvement, highlight what changes c
 would enhance the business’s online presence. 
 Always remember, the key is to be direct and to the point to maintain the prospect's attention.
 
+<div class="notice--success">
 Include a personal touch in your message—explain who you are, what you do, and why you are interested in working with them. This personal connection can make a significant difference.
+</div>
 
 ### Example of Effective Outreach
 
@@ -57,15 +67,17 @@ I discovered them through a Google Maps search for vegan eateries without websit
 After checking their social media presence and engaging with their content, 
 I sent them a tailored message. Here’s a breakdown of that outreach:
 
-Hey there, this is Per. I stumbled upon your restaurant on Google Maps and, as a vegan who values high-quality food, 
+<div class="center italic">
+"Hey there, this is Per. I stumbled upon your restaurant on Google Maps and, as a vegan who values high-quality food, 
 I was immediately drawn to your fantastic reviews and offerings. 
 However, I noticed you don’t have a website yet. I specialize in helping businesses like yours build great 
 online presences that can increase reach and customer engagement. 
 I’d love to discuss how a custom website could benefit your restaurant, perhaps over a call, email or WhatsApp, whatever suits you the best. 
 This consultation would be entirely free, with no obligations. 
 I know that web development agencies usually have a hefty price tag, so I focus on delivering quality work for a way more affordable price. 
-Looking forward to working together and visiting soon to try your amazing menu!
-
+Looking forward to working together and visiting soon to try your amazing menu!"
+</div>
+<br>
 I included a link to my portfolio and waited for their response, ready to address any concerns or 
 questions via their preferred communication method, whether it was email, phone, or WhatsApp.
 
@@ -82,7 +94,10 @@ showcasing not only your technical skills but also your commitment to their busi
 
 # Leveraging Referrals and Word of Mouth
 
-As I've emphasized in the previous post, satisfied clients are not just customers; they are your strongest advocates. 
+<div class="notice--success center">
+As I've emphasized in the previous post, satisfied clients are not just customers; they are your strongest advocates.
+</div>
+
 The power of word of mouth cannot be overstated, especially when it comes from those who have firsthand 
 experience of your dedication and quality. Here’s how you can actively harness this powerful tool:
 
@@ -92,17 +107,20 @@ The foundation of effective word-of-mouth marketing is the quality of the relati
 Delivering high-quality work is a given, but adding a personal touch can significantly amplify client satisfaction. 
 This could be as simple as responding promptly to communications, being personable and friendly, 
 or customizing your interaction to suit their preferred communication style. 
+
+<div class="notice--success center">
 It's about making the client feel valued throughout your engagement.
+</div>
 
 ### Encouraging Referrals
 
 While organic referrals will naturally occur when clients are thrilled with your work, 
 you can also take a more proactive stance:
 
-* Direct Requests: Never underestimate the power of simply asking. 
+* **Direct Requests**: Never underestimate the power of simply asking. 
   Encouraging satisfied clients to share their positive experience can lead to new opportunities. 
   A gentle nudge reminding them that referrals are welcome can make a big difference.
-* Referral Programs: Setting up a formal referral program can also incentivize clients to promote your services. 
+* **Referral Programs**: Setting up a formal referral program can also incentivize clients to promote your services. 
   For instance, offering a 20% commission for every successful referral that leads to a new project can 
   be a compelling offer. I’ve also experimented with non-monetary incentives, such as offering free 
   promotional services on social media to clients who bring in referrals, adding value to their own business in return.
@@ -141,7 +159,8 @@ That's a significant **return on investment (ROI)**, and exactly why understandi
 
 Your ideal platform for advertising depends heavily on where your target clients spend their time.
 For web developers, platforms like Google and LinkedIn might be more effective,
-while Instagram or Facebook could be better suited for visually-oriented services. It’s crucial to:
+while Instagram or Facebook could be better suited for services less content-oriented and more in line with
+Instagram's short form content focus. It’s crucial to:
 
 * **Identify and Understand Your Ideal Clients**: Tools like [Answer the Public](https://answerthepublic.com/) 
   can help you understand what potential clients are 
@@ -179,7 +198,45 @@ Just be aware that it takes time, effort and continuous improvement and tweaking
 By understanding the nuances of paid advertising and approaching it with a strategic mindset, 
 you can transform it from a daunting expense into a profitable investment for your freelance business.
 
-// TODO: BOOKS & PODCASTS
+### Recommendations for Further Insights on Paid Ads
+
+To get the most out of paid advertisements, please make sure to dive in deeper into this subject. 
+Here are some recommendations that helped me a lot!
+
+***The Personal MBA: Master the Art of Business***    
+***Josh Kaufman***     
+*[Get the book](https://amzn.to/4cYs8gu)*  
+This book provides a comprehensive overview of essential business concepts across multiple domains including
+entrepreneurship, product development, marketing, sales, and more.
+Reading it not only expanded my understanding and sparked new ideas but also turned it into a go-to reference
+that sits right next to my desk now.
+I experienced this as a valuable resource for inspiration and quick look-ups,
+packed with insights on everything from negotiation and finance to leadership and operations management.
+**In the context here, especially the part about marketing is interesting.**
+
+
+***Sell Like Crazy: How To Get As Many Clients, Customers and Sales As You Can Possibly Handle***   
+***Sabri Suby***   
+*[Get the book](https://amzn.to/49w1GYU)*  
+Despite its overtly salesy title and style of writing, which might be off-putting for some,
+this book provided me with unique insights that I haven't found elsewhere in such a comprehensive manner.
+If you're exploring marketing, this is definitely worth checking out.
+Look past the aggressive sales tone, and you'll discover a wealth of practical advice that goes beyond
+the basic marketing tips commonly found in videos and blog posts.
+
+
+***The Freelancer Podcast***   
+***Kyle Prinsloo***  
+*[Listen on Spotify](https://open.spotify.com/show/27oYFuQyf6VZ18bKP0ffPB?si=010ffa9ec5204324)*  
+This one truly lives up to its tagline,
+*"Freelancing and marketing nuggets for web designers, without the fluff."*
+It delivers precisely what it promises: straightforward, valuable content with no unnecessary filler.
+Although it primarily targets freelancers in web development,
+the insights provided are broadly applicable, benefiting freelancers across various fields as well as
+web developers who aren't freelancing.
+This makes it a standout resource for anyone looking to enhance their freelancing skills.
+**There are some episodes on landing pages, which are especially helpful for the topic of paid advertisements.**
+
 
 # Leveraging Partnerships for Client Acquisition
 
@@ -289,6 +346,7 @@ projects, especially if these align with their evolving needs. Here's how you ca
 
 Here’s an example of how you might approach a past client with a new service offering:
 
+<div class="center italic">
 "Hi there (Insert Name),
 I hope you're doing well! I've been expanding my services and thought of you because I remember our discussion about 
 potentially adding an online store to your website. 
@@ -296,7 +354,8 @@ I've developed some new skills in e-commerce solutions that could really enhance
 sales capability. Would you be interested in discussing this further? 
 I'd love to catch up and share some ideas with you. Let me know what you think!
 Best, Per"
-
+</div>
+<br>
 By reconnecting with former clients and updating them about your new services, 
 you not only increase your chances of securing more work but also strengthen your professional relationships. 
 This approach underscores your commitment to their long-term success, not just a one-off project.
@@ -360,8 +419,12 @@ showing potential clients that you are attentive and eager to engage.
 Authenticity is key in building trust and rapport. Be yourself in all your communications. 
 My approach tends to be informal and straightforward, which resonates well with my client base. 
 This personal touch is what sets me apart in a sea of service providers who might stick strictly to formalities. 
-Your style might differ, but the core principle remains: true personal expression leads to stronger, 
+Your style might differ, but the core principle remains: 
+
+<div class="notice--success center">
+True personal expression leads to stronger, 
 more genuine business relationships.
+</div>
 
 # Conclusion
 
@@ -373,4 +436,3 @@ Keep refining your methods and always stay true to your professional identity.
 
 Stay tuned for more insights and practical tips on freelancing and web development. 
 Thank you for following along, and here’s to your success in finding and securing more clients swiftly!
-
