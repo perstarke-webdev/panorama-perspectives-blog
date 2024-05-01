@@ -96,6 +96,17 @@ I've found the tips so helpful that I've subscribed to Clear's email newsletter,
 which sends reminders and further advice every few days, which helps me to stick to the lessons I learned from the book.
 
 
+## On Writing Well: The Classic Guide to Writing Nonfiction
+***William Zinsser***   
+*[Get the book](https://amzn.to/44mAVFe)*  
+I consider this book an absolute masterpiece! 
+It’s a guide on writing well, so naturally, one would expect it to be well-written, 
+but it truly exceeded my expectations. Zinsser offers a wealth of actionable advice that can be applied immediately, 
+no matter what kind of nonfiction you're tackling. Additionally, the first few pages not only captured my attention 
+but also made me laugh more than I expected. 
+This book is both enjoyable and immensely practical for anyone looking to improve their nonfiction writing skills.
+
+
 ## (Not available in English, sadly) Drei Fragen: Wer bin ich? Wohin gehe ich? Und mit wem?
 ***Jorge Bucay***   
 *[Get the book](https://amzn.to/4apytQB)*  
