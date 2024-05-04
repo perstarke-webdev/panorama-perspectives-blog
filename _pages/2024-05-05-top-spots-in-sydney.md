@@ -5,7 +5,7 @@ layout: single
 tags:
     - traveling
 header:
-    overlay_image: /images/photos/sydney-7.webp
+    overlay_image: /images/posts/sydney/top-places/sydney-top-places-header.webp
     overlay_filter: rgba(0, 0, 0, 0.6)
 excerpt: "This is the first time ever I’m writing about traveling. But my trip to Australia was such a defining part and highlight of my life that I really want to share some more on that. So whether you’re looking for travel tips or just enjoy reading some stories: Here you go! We’ll start at the beginning - my favorite places in Sydney. If you’re ever there, go check them out. If not, just enjoy the read and photos."
 ---
@@ -17,6 +17,8 @@ But there are other places. Less overcrowded, and for me even more worth visitin
 These are my 7 highlight places, I’ll make a separate post about my top hikes, because they deserve their own appreciation!
 
 ## Harbour View Lawn & Macquarie‘s Chair
+
+![Harbour View Lawn in Sydney, a green calm park with view of the Ocean, Opera House and Harbour Bridge](/images/posts/sydney/top-places/sydney-harbour-view-lawn.webp)
 
 One of my first days in Sydney is still vivid in my memory. Jet-lagged from the long flight (thanks to Melatonin, it wasn’t too bad of a jetlag), I was in an Uber on my way to Macquarie's Chair. The driver joked endlessly about the name, suggesting I could get a chair anywhere—a joke I didn’t find particularly funny, though his laughter was infectious and that positive vibe was lovely, that’s why I still recall it so well.
 Well, when the driver dropped me off, a few meters of walking later I had the perfect view of the Opera House and Harbour Bridge. I remember that I was just thinking „woahhhh“ all the time. I was standing in a sweet and peaceful park, with a few other people but not even close to something that would count as “crowded”, and could see these iconic Sydney spots, plus the city skyline, but without the crowd. That was just an incredible start into my adeventures in Sydney, and a great choice for one of my first days.
@@ -34,6 +36,8 @@ Located in Sydney, just east of the Royal Botanic Garden and easily accessible f
 
 
 ## Barrenjoey Lighthouse
+
+![Barenjoey Lighthouse in North Sydney, with stunning views of a narrow strip of land with water on both sides](/images/posts/sydney/top-places/sydney-barrenjoey-lighthouse.webp)
 
 It was a Wednesday afternoon when I decided to ride my motorcycle to one of Sydney's nature gems - Barrenjoey Lighthouse, about an hour north of Sydney downtown (yet, it still belongs to Sydney). The ride itself was something out of a storybook, cruising through a national park forest where the trees seemed to reach for the skies in a way you just don’t see everyday. The forest opened up to a luxury village with houses that looked like they were made for a postcard, all boasting stunning views of the coast. I hadn’t picked a day with good weather, so it was raining a bit and my clothing wasn’t suited for that, but I remember that I couldn’t stop smiling for the full hour drive, because I was so amazed and struck by those views on the road.
 
@@ -56,6 +60,8 @@ I can really much suggest to not only follow the normal path, but also climb aro
 
 ## Marine Parade Lookout
 
+![Marine Parade Lookout in Sydney, with mesmerizing Ocean, City and Cliff Views](/images/posts/sydney/top-places/sydney-marine-parade-lookout.webp)
+
 After smashing a personal best in a powerlifting session, with by far the best gym atmosphere I’ve ever experienced thanks to the amazing powerlifting gang there, I was ready for some evening relaxation with a view.
 A gym mate had swarmed over Marine Parade Lookout, so I decided it was the perfect spot to wind down. It was just a 10-minute scooter ride from the gym, which was already close to the city center.
 
@@ -73,7 +79,6 @@ Remember to bring a camera, or at least your phone camera, as the scenic views h
 
 
 ## Cape Solander
-
 
 When a gym mate recommended Cape Solander, I didn't know I was about to find my most favorite spot on Earth.
 It’s a bit of a ride, about 40 minutes on my scooter from the city, but every minute of that journey is worth it. The area offers easy hikes along dramatic coastlines, featuring a blend of rugged cliff formations as well as vast, open ocean views.
@@ -101,6 +106,8 @@ This spot, especially the secluded area I discovered off the normal path, stands
 
 ## Port Jackson Bay
 
+![Intense Orange Sunset at Port Jackson Bay in Sydney, with the sun setting behind Opera House and Harbour Bridge, seen from a park with the Ocean in front](/images/posts/sydney/top-places/sydney-port-jackson-bay-sunset.webp)
+
 On one of my last days in Sydney, I was looking for a calm and cozy spot to just zone out and enjoy the iconic Sydney skyline. After a sucessful and fun, but tough, day's work remote working (which, by the way, Sydney's vibes and coffee make incredibly satisfying - I’ll definitely talk about that in another post), I wanted to chill out in the evening. That's when I stumbled upon Port Jackson Bay on Google Maps.
 The ride there over was great already, especially since it included crossing the famous Harbour Bridge. Sure, you can't see much from the bridge when you're driving, but just knowing you're cruising over this majestic structure is an awesome experience.
 
@@ -120,6 +127,8 @@ Port Jackson Bay is a must-visit if you're looking to experience Sydney’s natu
 
 
 ## The Rocks Market
+
+![Passionfruit Ice Tea and The Rocks Market in Sydney, with Opera House view from a calm lawn](/images/posts/sydney/top-places/sydney-rocks-market-passionfruit-icetea.webp)
 
 The Rocks Market might not fit the "less-crowded" label, but the half day I spent there was so charming it just had to make my list. Located on the opposite side of the harbour from the Opera House, it's right in the heart of Sydney, bustling with life, but only open on weekends. I explored this spot on my third Sunday in Sydney, at about the midpoint of my stay.
 
@@ -141,6 +150,8 @@ The Rocks Market is a bustling weekend market located near some of Sydney's most
 
 
 ## West head lookout
+
+![West Head Lookout, view of green islands in the Ocean, near Sydney, in a national park with majestic trees](/images/posts/sydney/top-places/sydney-west-head-ocean-lookout.webp)
 
 Technically not in Sydney, but who cares, such an amazing lookout I needed to include this! Do you remember Barrenjoey Lighthouse? I wrote about how I climbed around to the other side of the hill and saw the ocean with the green islands. West Head Lookout is close to that spot, but it involves another ride through Ku-ring-gai Chase National Park, which technically doesn't count as Sydney anymore, but it’s not longer to drive than to the lighthouse.
 
