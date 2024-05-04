@@ -90,7 +90,7 @@ I decided to climb down the cliffs at this point - a decision that led me to the
 This isn’t for everyone though. I want to stress: climbing here can be extremely dangerous. Never attempt it alone, in bad weather, or without some experience in climbing. The risks are real, and falling could be fatal. But for those who can do it safely, the reward is unparalleled.
 
 Down there, now, that’s something I can’t really put in any words. I was surrounded by towering cliffs, with the roar of huge waves crashing into rock pools, looking dangerous and scary, but from safe distance the power of the water was an incredible sight.
-The ocean stretched out endlessly before me, above me, below me and to the left and right were the rugged cliffs, It’s really hard to put into words how mesmerizing it is to be so close to such raw natural beauty. I was completely alone, just nature and me.
+The ocean stretched out endlessly before me, above me, below me and to the left and right were the rugged cliffs, It’s really hard to put into words how magic it is to be so close to such raw natural beauty. I was completely alone, just nature and me.
 I spent hours there, feeling like I never wanted to leave, and returned several times during my stay in Sydney. It’s a place I’m eager to visit again.
 
 
