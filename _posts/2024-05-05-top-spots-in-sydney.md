@@ -48,10 +48,13 @@ Walking a few meters further, closer to the water, it got a little more crowded,
 
 Fun fact: Macquarie’s Chair is also where I had professional photos taken, which I frequently use on my website and this blog. Most of the header images you see are from that very spot!
 
-#### For those looking for the touri-guidish details:
+<div class="notice--info center">
+
+<h4> For those looking for the touri-guidish details: </h4>
 
 Located in Sydney, just east of the Royal Botanic Garden and easily accessible from the city center, Harbour View Lawn and Macquarie's Chair offer stunning views of the Opera House and Harbour Bridge. Macquarie's Chair, a historic sandstone rock formation, provides panoramic vistas of Sydney Harbour. Adjacent to it, Harbour View Lawn is a tranquil green space perfect for relaxing, enjoying the view, or going for walks and runs. These spots offer a serene introduction to Sydney, ideal for anyone starting their exploration of the city.
 
+</div>
 
 
 
@@ -68,14 +71,18 @@ Reaching the top, I was met with a view that took my breath away - a narrow stri
 It felt like I had the place to myself. I danced around, climbed off the path over some big rocks to the other side of the hilltop where I could see the open ocean, and small green islands dotted the horizon.
 It was one of those moments where I felt like I’m exactly where I’m supposed to be.
 
-#### Quick Touri-Guide Info:
+<div class="notice--info center">
+
+<h4> Quick Touri-Guide Info: </h4>
 
 Barrenjoey Lighthouse sits at the tip of Palm Beach and is part of Sydney's Northern Beaches. It’s not just a historical spot but a great place to catch a panoramic view of the coastline and the surrounding national park. The lighthouse dates back to 1881 and is well worth the moderate walk up.
 There is a second path up, known as Smugglers Track, which adds a bit of an adventurous twist to the climb, perfect for those who like a bit of a challenge.
+<br><br>
 Visitors should come prepared with good shoes and water, especially if you plan on exploring around. The area is perfect for a day out, whether you're into photography, need a quiet spot to chill, or just want to soak in some epic views without the city buzz.
-
+<br><br>
 I can really much suggest to not only follow the normal path, but also climb around a bit. But please, be careful with that! Going offroad can always be dangerous, so come prepared and only climb where you are certain that you can handle it. You’ll hear me say and write that a few times, because I went offroad quite often :D
 
+</div>
 
 
 
@@ -90,13 +97,16 @@ I arrived just before sunset, with only a few other people around. The lookout e
 Sitting on the edge of the cliff, I watched the sun dip below the horizon, and if you haven’t seen an australian sunset yet, it’s a completely different and totally breathtaking coloring than in most other places.
 A few minutes later, I also found a bench to enjoy some nice dinner wraps I had prepared earlier back at the hostel. That was such a lovely and calm ending to that adrenaline-filled day!
 
-#### Quick Touri-Guide Info:
+
+<div class="notice--info center">
+
+<h4> Quick Touri-Guide Info: </h4>
 
 Marine Parade Lookout is a lesser-known gem that offers a quit escape from the city life. This spot is ideal for those looking to experience the natural beauty of Sydney's coastline without the crowds and without a far drive. The cliffs offer a dramatic backdrop, perfect for contemplative panorama views or a peaceful afternoon with a book. The area is accessible and provides a few benches where visitors can sit back and enjoy the wide views of the ocean and cliffs. Whether you're winding down after a busy day or just seeking a quiet place to admire nature, Marine Parade Lookout delivers a stunning experience.
-
+<br><br>
 Remember to bring a camera, or at least your phone camera, as the scenic views here are truly worth capturing, and maybe even some snacks to enjoy as you take in the peaceful surroundings. Just like I did, you might find it the ideal spot to reflect on your journey and the adventures of the day.
 
-
+</div>
 
 
 ## Cape Solander
@@ -117,15 +127,17 @@ The ocean stretched out endlessly before me, above me, below me and to the left 
 I spent hours there, feeling like I never wanted to leave, and returned several times during my stay in Sydney. It’s a place I’m eager to visit again.
 
 
-#### Quick Touri-Guide Info:
+<div class="notice--info center">
+
+<h4> Quick Touri-Guide Info: </h4>
 
 Cape Solander is located in the Kamay Botany Bay National Park and is renowned not only for its scenic hiking paths but also as one of Sydney’s prime whale-watching spots during migration season. The cliffs offer breathtaking views of the Pacific Ocean and are a fantastic spot for those looking to escape the city and immerse themselves in nature.
-
+<br><br>
 If you plan to visit, stick to the marked paths and stay safe. For those seeking a bit of adventure, the views from the cliff edges - or, as I did, from slightly below - are extraordinary. Just be sure to always prioritize safety and never climb alone or unprepared.
-
+<br><br>
 This spot, especially the secluded area I discovered off the normal path, stands out as a profoundly memorable encounter with nature. While no photo can fully capture the essence of Cape Solander, I hope the images above can offer a glimpse into the stunning environment that makes this place so special. So, enjoy the photos and maybe catch a little of the atmosphere of my favorite spot on earth!
 
-
+</div>
 
 
 ## Port Jackson Bay
@@ -142,9 +154,13 @@ The local wildlife was pretty cool too, including some animals that looked like 
 
 Then there was the sunset - Sydney is known for its stunning sunsets, but this one was next level. My brain just went „woahhhh“. The sun set directly behind the Opera House and the skyline, painting everything in the most intense shades of orange I've ever seen. It was so spectacular that I made a photo of it my phone wallpaper; I still have it there. I was already on the way back, but the sunset made me stay a lot longer until it was dark. Because of that, the road back was a bit of an adventure, having not much light on that lonely path. Gladly, I made it back safely to my scooter, and on the drive back to my hostel made a quick stop directly at the Opera House, to catch the night-atmosphere of that one last time. After that work-day, this was even better than what I was looking for.
 
-#### Quick Touri-Guide Info:
+<div class="notice--info center">
+
+<h4> Quick Touri-Guide Info: </h4>
 
 Port Jackson Bay is a must-visit if you're looking to experience Sydney’s natural beauty without straying too far from the city. The bay offers easy-to-navigate paths perfect for a leisurely day out, surrounded by lush forest and waterfront views. Whether you're looking to relax, take a gentle hike, or just enjoy some quiet time with nature, this spot has you covered. Plus, it's a fantastic place for photography (I do say that for every spot, don’t I? :D But it’s just so damn true!), especially during the sunset when the city lights start to twinkle against the evening sky. Maybe pack a snack to enjoy by the water - you might find yourself not wanting to leave!
+
+</div>
 
 
 
@@ -168,10 +184,14 @@ To top it off, I enjoyed a freshly made passion fruit ice tea while walking back
 
 Riding off to Darling Square, which is one of my top remote work spots that I found, to get some work done before heading to the gym later, I couldn't have asked for a better start to a weekend workday. The Rocks Market not only filled my stomach with good food, but also provided a lovely morning and a true taste of Sydney's vibrant market scene.
 
-#### Quick Touri-Guide Info:
+
+<div class="notice--info center">
+
+<h4> Quick Touri-Guide Info: </h4>
 
 The Rocks Market is a bustling weekend market located near some of Sydney's most famous landmarks. It offers a variety of goods, from food to crafts, making it a perfect place for those looking to experience the local culture and find unique handmade items. While it's known for being crowded, the atmosphere is surprisingly relaxed, making it a delightful place to spend a morning or afternoon. If you're planning to visit, come with an empty stomach to fill and make sure to try some of the street food and drinks.
 
+</div>
 
 ## West head lookout
 
@@ -185,11 +205,13 @@ There are also some hiking trails that go around from here. I did a short one sp
 
 Spending the evening there was simply lovely, and the awesome 1-hour ride there was just as thrilling on the way back in the dark. Loved every bit of this trip.
 
-#### Quick Touri-Guide Info:
+<div class="notice--info center">
+
+<h4> Quick Touri-Guide Info: </h4>
 
 West Head Lookout offers expansive views over the Pacific Ocean and is a highlight for anyone visiting Ku-ring-gai Chase National Park. Not only can you enjoy the panoramic vistas, but there are also several hiking trails that offer different levels of adventure and exploration. The lookout provides a dramatic vantage point to see the rugged coastline and distant green islands, making it a perfect spot for photography and nature lovers. Whether you're up for a leisurely visit or an adventurous hike down to the water, West Head Lookout is well worth the journey. Just remember to bring a flashlight if you plan on staying until dusk—it's an exhilarating ride back!
 
-
+</div>
 
 
 <hr>
