@@ -8,6 +8,27 @@ header:
     overlay_image: /images/posts/sydney/top-places/sydney-top-places-header.webp
     overlay_filter: rgba(0, 0, 0, 0.6)
 excerpt: "This is the first time ever I’m writing about traveling. But my trip to Australia was such a defining part and highlight of my life that I really want to share some more on that. So whether you’re looking for travel tips or just enjoy reading some stories: Here you go! We’ll start at the beginning - my favorite places in Sydney. If you’re ever there, go check them out. If not, just enjoy the read and photos."
+
+gallery:
+- url: /images/posts/sydney/top-places/sydney-cape-solander-6.webp
+  image_path: /images/posts/sydney/top-places/sydney-cape-solander-6.webp
+  alt: "Cape Solander, Stunning Cliff, Ocean and Coast view in Sydney"
+- url: /images/posts/sydney/top-places/sydney-cape-solander-1.webp
+  image_path: /images/posts/sydney/top-places/sydney-cape-solander-1.webp
+  alt: "Cape Solander, Stunning Cliff, Ocean and Coast view in Sydney"
+- url: /images/posts/sydney/top-places/sydney-cape-solander-2.webp
+  image_path: /images/posts/sydney/top-places/sydney-cape-solander-2.webp
+  alt: "Cape Solander, Stunning Cliff, Ocean and Coast view in Sydney"
+- url: /images/posts/sydney/top-places/sydney-cape-solander-3.webp
+  image_path: /images/posts/sydney/top-places/sydney-cape-solander-3.webp
+  alt: "Cape Solander, Stunning Cliff, Ocean and Coast view in Sydney"
+- url: /images/posts/sydney/top-places/sydney-cape-solander-4.webp
+  image_path: /images/posts/sydney/top-places/sydney-cape-solander-4.webp
+  alt: "Cape Solander, Stunning Cliff, Ocean and Coast view in Sydney"
+- url: /images/posts/sydney/top-places/sydney-cape-solander-5.webp
+  image_path: /images/posts/sydney/top-places/sydney-cape-solander-5.webp
+  alt: "Cape Solander, Stunning Cliff, Ocean and Coast view in Sydney"
+
 ---
 
 Sydney has countless famous and impressive places. So you might wonder if I’ll just list all the famous spots again here. Well, no. I won’t.
@@ -80,6 +101,8 @@ Remember to bring a camera, or at least your phone camera, as the scenic views h
 
 ## Cape Solander
 
+{% include gallery %}
+
 When a gym mate recommended Cape Solander, I didn't know I was about to find my most favorite spot on Earth.
 It’s a bit of a ride, about 40 minutes on my scooter from the city, but every minute of that journey is worth it. The area offers easy hikes along dramatic coastlines, featuring a blend of rugged cliff formations as well as vast, open ocean views.
 
@@ -94,12 +117,13 @@ The ocean stretched out endlessly before me, above me, below me and to the left 
 I spent hours there, feeling like I never wanted to leave, and returned several times during my stay in Sydney. It’s a place I’m eager to visit again.
 
 
-Quick Touri-Guide Info:
+#### Quick Touri-Guide Info:
+
 Cape Solander is located in the Kamay Botany Bay National Park and is renowned not only for its scenic hiking paths but also as one of Sydney’s prime whale-watching spots during migration season. The cliffs offer breathtaking views of the Pacific Ocean and are a fantastic spot for those looking to escape the city and immerse themselves in nature.
 
 If you plan to visit, stick to the marked paths and stay safe. For those seeking a bit of adventure, the views from the cliff edges - or, as I did, from slightly below - are extraordinary. Just be sure to always prioritize safety and never climb alone or unprepared.
 
-This spot, especially the secluded area I discovered off the normal path, stands out as a profoundly memorable encounter with nature. While no photo can fully capture the essence of Cape Solander, I hope the images below can offer a glimpse into the stunning environment that makes this place so special. So, enjoy the photos and maybe catch a little of the atmosphere of my favorite spot on earth!
+This spot, especially the secluded area I discovered off the normal path, stands out as a profoundly memorable encounter with nature. While no photo can fully capture the essence of Cape Solander, I hope the images above can offer a glimpse into the stunning environment that makes this place so special. So, enjoy the photos and maybe catch a little of the atmosphere of my favorite spot on earth!
 
 
 
@@ -168,7 +192,7 @@ West Head Lookout offers expansive views over the Pacific Ocean and is a highlig
 
 
 
-
+<hr>
 
 That wraps up my tour of Sydney's gems! From peaceful markets to breathtaking lookouts, each spot offered its own unique slice of this vibrant city where I had the best travel of my life, to date. I hope you enjoyed exploring these places with me and maybe found some inspiration for your own adventures down under.
 If you liked this journey through Sydney, keep an eye out for more travel posts coming soon. I'll be diving into some of the best hikes and remote work spots in Sydney, sharing tips and personal stories from my travels. So, whether you're planning a trip or just daydreaming about new destinations, stay tuned for more adventures!
