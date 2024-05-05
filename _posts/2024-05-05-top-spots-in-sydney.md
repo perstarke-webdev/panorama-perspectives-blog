@@ -2,6 +2,9 @@
 title: "Explore My Top 7 Favorite Spots in Sydney with Me"
 permalink: /posts/top-spots-in-sydney
 layout: single
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "globe"
 tags:
     - traveling
 header:
@@ -80,7 +83,7 @@ There is a second path up, known as Smugglers Track, which adds a bit of an adve
 <br><br>
 Visitors should come prepared with good shoes and water, especially if you plan on exploring around. The area is perfect for a day out, whether you're into photography, need a quiet spot to chill, or just want to soak in some epic views without the city buzz.
 <br><br>
-I can really much suggest to not only follow the normal path, but also climb around a bit. But please, be careful with that! Going offroad can always be dangerous, so come prepared and only climb where you are certain that you can handle it. You’ll hear me say and write that a few times, because I went offroad quite often :D
+I can highly recommend not only following the normal path, but also climb around a bit. But please, be careful with that! Going offroad can always be dangerous, so come prepared and only climb where you are certain that you can handle it. You’ll hear me say and write that a few times, because I went offroad quite often :D
 
 </div>
 

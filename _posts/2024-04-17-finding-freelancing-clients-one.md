@@ -2,6 +2,8 @@
 title: "Finding Clients as a (Web Development) Freelancer"
 permalink: /posts/finding-web-development-freelancing-clients-one
 layout: single
+toc: true
+toc_label: "Table of Contents"
 tags:
     - web-development
     - freelancing
@@ -15,7 +17,8 @@ In today's post, I'm excited to share strategies and tips that have significantl
 These insights are tailored for web developers but are equally beneficial for freelancers across various fields. 
 So, whether you're coding websites or do any other freelancing work, stick around for some universal freelance wisdom.
 
-#### Building a Solid Foundation:
+***Building a Solid Foundation:***   
+
 We'll start by discussing how to establish a solid foundation for your freelance work. 
 This involves setting up **long-term strategies that enhance all other aspects of your business**. 
 Think of this as assembling your toolkit before diving into the actual building process. 
@@ -39,12 +42,14 @@ Your portfolio is what convinces potential clients that you are the real deal, b
 and the value that you offer.
 The question now is, how do you build one, especially from scratch, when you haven’t done any projects before.
 
-#### The Catch-22 of Freelancing
+***The Catch-22 of Freelancing***   
+
 The catch-22 of freelancing is: 
 You need a portfolio to get work, and you need work to build a portfolio. 
 But don’t worry, because there are ways around this.
 
-#### Your Professional Website
+***Your Professional Website***   
+
 As a web developer, having your own professional website isn't just recommended; it’s essential. 
 It’s the first proof of your skills. 
 Think about it:
@@ -62,7 +67,8 @@ but probably doesn’t need to be the first thing to care about, but as a web de
 this is literally the first thing I would recommend you to get done. 
 </div>
 
-#### Start close to Home
+***Start close to Home***   
+
 Now, to get more references and build your portfolio, one tip is to **start close to home**. 
 Offer to build websites for friends or family if they have anything they do that might profit from a website. 
 You might even have done some projects yourself which you can build websites for, 
