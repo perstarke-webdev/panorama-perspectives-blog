@@ -5,7 +5,7 @@ layout: single
 tags:
     - traveling
 header:
-    overlay_image: /images/posts/sydney/top-places/sydney-top-places-header.webp
+    overlay_image: /images/posts/work-travel/work-from-boat-bar.webp
     overlay_filter: rgba(0, 0, 0, 0.6)
 excerpt: "Ever thought about mixing work with travel? Well, that's exactly what I did during my 8-week
 adventure across Australia. If you're curious about how to successfully combine work responsibilities
@@ -34,6 +34,8 @@ without sacrificing work quality or travel experiences.
 
 ## Essentials for Remote Work on the Go
 
+![Working from Liminal Coffee at Melbourne City, Australia](/images/posts/work-travel/work-from-cafe-melbourne.webp)
+
 ### Pre-Requisites for Remote Work
 Before you pack your bags and set out on your travel adventure, it's crucial to ensure that your 
 job actually supports remote work. If you're self-employed, like I am (well, by now I work partly self-employed and 
@@ -58,13 +60,19 @@ While it might be tempting to city-hop every few days, I've found that staying i
 
 ## Time Management Strategies
 
+![Working with a view, from Library at the Dock, Melbourne City, Australia](/images/posts/work-travel/work-from-library-at-the-dock.webp)
+
 Effective time management is crucial when balancing work with the thrill of exploring new places. Here’s how I kept productive and still managed to soak up the experiences of traveling:
 
 ### Daily Planning
 One key tip to successful remote work while traveling is setting a clear schedule.
 I made it a practice to plan my days the night before, allocating specific blocks of time for work and for exploration or relaxation.
 This structure helped me stay on track with client projects while also carving out enough time to enjoy the destinations I visited.
-Remember, the more you plan, the less you leave to chance, especially when balancing work projects with adventures. Some people argue that overly planning everything can make your days less rewarding. I actually see it very differently: Detailled planning allows to do more of what you love.
+Remember, the more you plan, the less you leave to chance, especially when balancing work projects with adventures. 
+
+<div class="notice--danger center">
+Some people argue that overly planning everything can make your days less rewarding. I actually see it very differently: Detailled planning allows to do more of what you love.
+</div>
 
 ### Efficient Routing
 Travel logistics can make or break your work schedule.
@@ -87,22 +95,29 @@ By integrating these time management strategies, I was able to maintain a produc
 
 ## Finding Ideal Workspaces
 
+![Working from Melbourne Skydeck, with stunning city views](/images/posts/work-travel/work-from-melbourne-skydeck.webp)
 
-Whether you're dialing into morning meetings or coding away on a project, finding the right spot to work can significantly enhance your productivity and enjoyment. I strongly suggest to not work from your accomocation most of the time. Instead, use the exploration of different workspaces as another opportunity to experience more of the area and culture of the place you are visiting. You can make the most of the local coffee culture, get in contact with natives or other travelers at libraries, or find accountability partners for focussed work in co-working spaces.
+
+Whether you're dialing into morning meetings or coding away on a project, finding the right spot to work can significantly enhance your productivity and enjoyment. 
+
+<div class="notice--success center">
+I strongly suggest to not work from your accommodation most of the time.
+Instead, use the exploration of different workspaces as another opportunity to experience more of the area and culture of the place you are visiting. You can make the most of the local coffee culture, get in contact with natives or other travelers at libraries, or find accountability partners for focussed work in co-working spaces.
+</div>
 
 ### Variety of Spaces
 
 It's important to identify what type of environment boosts your productivity and experience. Common options include:
 
 
-* **Cafés**: Great for a relaxed atmosphere. Look for ones with strong WiFi, ample power outlets, and a good vibe. Cafés are ideal for shorter sessions or when you need a change of scenery.
-* **Libraries**: Perfect for deep focus work. They're usually quiet and equipped with all the facilities needed for a productive workday.
-* **Co-working Spaces**: While there's a cost involved, co-working spaces are fantastic for longer sessions. They provide professional amenities and the opportunity to network with other professionals. Costs can vary, but they're generally a good investment if you need a consistent and equipped place to work.
-* **Outdoor Seating Areas**: Weather permitting, these can be uplifting and inspiring. Just make sure your devices are charged, and you have a data plan ready if there’s no WiFi.
+* **Cafés** <i class="fas fa-mug-hot"></i>: Great for a relaxed atmosphere. Look for ones with strong WiFi, ample power outlets, and a good vibe. Cafés are ideal for shorter sessions or when you need a change of scenery.
+* **Libraries** <i class="fas fa-book"></i>: Perfect for deep focus work. They're usually quiet and equipped with all the facilities needed for a productive workday.
+* **Co-working Spaces** <i class="fas fa-user-plus"></i>: While there's a cost involved, co-working spaces are fantastic for longer sessions. They provide professional amenities and the opportunity to network with other professionals. Costs can vary, but they're generally a good investment if you need a consistent and equipped place to work.
+* **Outdoor Seating Areas** <i class="fas fa-cloud-sun"></i>: Weather permitting, these can be uplifting and inspiring. Just make sure your devices are charged, and you have a data plan ready if there’s no WiFi.
 
 ### Personal Experiences in Sydney
 
-In Sydney, I embarked on a mini-mission to discover the best remote work spots. I tried various cafés, each with its unique charm, and eventually found two that fit my needs perfectly. They offered excellent coffee, reliable WiFi, and didn't mind if I camped out for several hours with just a coffee and snack. Randomly, I stumbled upon Darling Square—an outdoor area with communal seating and nearby street food. The open setting meant no worries about opening hours, and the ambiance was just right for a few hours of emails or design work. Libraries became another favorite, especially for tasks requiring deep concentration. Whether it was a public library or a university one, the quiet environment was ideal for productivity.
+In Sydney and Melbourne, I embarked on a mini-mission to discover the best remote work spots. I tried various cafés, each with its unique charm, and eventually found a few that fit my needs perfectly. They offered excellent coffee, reliable WiFi, and didn't mind if I camped out for several hours with just a coffee and snack. Randomly, I stumbled upon Sydney's Darling Square - an outdoor area with communal seating and nearby street food. The open setting meant no worries about opening hours, and the ambiance was just right for a few hours of emails or design work. Libraries became another favorite, especially for tasks requiring deep concentration. Whether it was a public library or a university one, the quiet environment was ideal for productivity.
 
 ### Tips for Finding Workspaces
 
@@ -129,8 +144,9 @@ Conversely, when the forecast promises clear skies and pleasant temperatures, it
 This flexible approach allows you to make the most of your surroundings and ensures that bad weather doesn't derail your travel experiences. By shifting work indoors during rainy days and working a bit more, you can save the sunniest days for adventures, making your travel experience more enjoyable. However, it's also worth mentioning that exploring in the rain can be its own adventure - many cities and landscapes show a different kind of beauty under overcast skies.
 And of course: Don’t let rain spoil your travel and mood!
 
+<div class="notice--success center">
 Using the weather to guide your schedule isn’t just about staying dry or soaking up the sun; it's about making smart choices that enhance your productivity and leisure time. This adaptability is one of the great benefits of remote work while traveling, letting you blend work and play in the most enjoyable and efficient way possible.
-
+</div>
 
 
 
@@ -141,15 +157,22 @@ Balancing nourishment with convenience is a vital aspect of working remotely whi
 
 ### Efficient and Enjoyable Eating
 
-Meal prepping can be a game-changer for the remote worker on the go. By preparing your meals in advance, you ensure that you always have healthy and satisfying options at hand, which saves you the time and hassle of finding food during your workday. For instance, I often prepared my meals for the next day in the evening. Breakfast, lunch, and snacks were packed to eat on the go, allowing me to maximize my time exploring or working without the interruption of frequent stops for food. Wraps, sandwiches, protein or oat bars, fruits and nuts are some great examples for practical on-the-go snacks and meals.
+Meal prepping can be a game-changer for the remote worker on the go. By preparing your meals in advance, you ensure that you always have healthy and satisfying options at hand, which saves you the time and hassle of finding food during your workday. For instance, I often prepared my meals for the next day in the evening. Breakfast, lunch, and snacks were packed to eat on the go, allowing me to maximize my time exploring or working without the interruption of frequent stops for food. 
 
-However, it’s also essential to balance efficiency with enjoyment. While it's practical to snack on the go, it's equally important to occasionally slow down and savor your meals. Some days, I’d have my dinner prepared to enjoy at a scenic spot I'd visit in the evening - having dinner with a view of the coast is incredibly rewarding. Other times, I treated myself to dinner at restaurants or tried local street food, which allowed me to enjoy the local cuisine and culture more deeply.
+<div class="notice--info center">
+Wraps, sandwiches, protein or oat bars, fruits and nuts are some great examples for practical on-the-go snacks and meals.
+</div>
 
+<div class="notice--success center">
+However, it’s also essential to balance efficiency with enjoyment. While it's practical to snack on the go, it's equally important to occasionally slow down and savor your meals. Some days, I’d have my dinner prepared to enjoy at a scenic spot I'd visit in the evening - <b>having dinner with a view of the coast is incredibly rewarding</b>. Other times, I treated myself to dinner at restaurants or tried local street food, which allowed me to enjoy the local cuisine and culture more deeply.
+</div>
 
 
 
 
 ## Balancing Work and Travel
+
+![Wilsons Promontory, Coast View from Green Mountains, Australia](/images/posts/work-travel/wilsons-promontory-coast-mountains.webp)
 
 Finding the right balance between work and leisure is crucial when you're traveling and working remotely. It's about making sure that your work commitments don't prevent you from enjoying the new environments around you.
 
@@ -169,10 +192,11 @@ This day was a perfect blend of meeting work deadlines and enjoying local experi
 
 ### Tech Tips for Remote Work
 
-Leveraging technology effectively is key to a smooth remote work experience:
-* Cloud Storage: Ensure all your documents are accessible no matter where you are by using cloud storage services.
-* VPNs: Maintain security and privacy by using a VPN, especially when accessing public Wi-Fi networks.
-* Productivity Apps: Utilize tools and apps that enhance remote work efficiency, like task managers and time-tracking apps.
+You can leverage technology effectively for a smoother remote work experience:
+* **Cloud Storage**: Ensure all your documents are accessible no matter where you are by using cloud storage services.
+* **VPNs**: Maintain security and privacy by using a VPN, especially when accessing public Wi-Fi networks.
+* **Productivity Apps**: Utilize tools and apps that enhance remote work efficiency, like task managers and time-tracking apps.
+I recommend Google Calendar for planning your work/travel blocks and managing your time.
 
 ### Social Interaction
 
