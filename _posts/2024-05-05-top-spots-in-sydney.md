@@ -64,7 +64,7 @@ Located in Sydney, just east of the Royal Botanic Garden and easily accessible f
 
 ## Barrenjoey Lighthouse
 
-![Barenjoey Lighthouse in North Sydney, with stunning views of a narrow strip of land with water on both sides](/images/posts/sydney/top-places/sydney-barrenjoey-lighthouse.webp)
+![Barrenjoey Lighthouse in North Sydney, with stunning views of a narrow strip of land with water on both sides](/images/posts/sydney/top-places/sydney-barrenjoey-lighthouse.webp)
 
 It was a Wednesday afternoon when I decided to ride my motorcycle to one of Sydney's nature gems - Barrenjoey Lighthouse, about an hour north of Sydney downtown (yet, it still belongs to Sydney). The ride itself was something out of a storybook, cruising through a national park forest where the trees seemed to reach for the skies in a way you just don’t see everyday. The forest opened up to a luxury village with houses that looked like they were made for a postcard, all boasting stunning views of the coast. I hadn’t picked a day with good weather, so it was raining a bit and my clothing wasn’t suited for that, but I remember that I couldn’t stop smiling for the full hour drive, because I was so amazed and struck by those views on the road.
 
