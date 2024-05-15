@@ -95,6 +95,11 @@ actually do break my bad habits.
 I've found the tips so helpful that I've subscribed to Clear's email newsletter, 
 which sends reminders and further advice every few days, which helps me to stick to the lessons I learned from the book.
 
+## Think Again: The Power of Knowing What You Don't Know
+***Adam Grant***  
+*[Get the book](https://amzn.to/4bFCtwK)*  
+This book contains many valuable insights and really made me "think again." It offered new perspectives that I hadn't experienced or thought about before. In today's fast-changing world, questioning your tools, values and many other things is often overlooked but, as this book clearly proves, crucial. Grant provides a good combination of theory and practice with a humble and fun writing style that remains very precise and scientific. It's an enlightening read that challenges you to rethink and embrace the power of doubt.
+
 
 ## On Writing Well: The Classic Guide to Writing Nonfiction
 ***William Zinsser***   
