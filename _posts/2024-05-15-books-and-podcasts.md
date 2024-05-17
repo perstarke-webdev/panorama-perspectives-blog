@@ -131,8 +131,8 @@ I experienced this as a valuable resource for inspiration and quick look-ups,
 packed with insights on everything from negotiation and finance to leadership and operations management.
 
 ## The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life     
-***Mark Manson***
-[Get the book](https://amzn.to/3wHWdkj)
+***Mark Manson***   
+[Get the book](https://amzn.to/3wHWdkj)   
 This thought-provoking read features a very straightforward style of writing, which I enjoyed a lot. Mark's approach is different than other books and therefore very refreshing. I don't fully agree with all his statements (e.g., the blanket "you are not special," because in my point of view that is also a choice you can make), but even those parts were very interesting to read. Many ideas, though, are damn good and valuable! Especially things like "we all have a limited amount of f\*cks to give, so we must choose our f\*cks wisely" or "not everything in your life is your fault, but everything is your own full responsibility" are so good! Recommended and very valuable read for sure.
 
 ## Level Up: Get Focused, Stop Procrastinating and Upgrade Your Life
