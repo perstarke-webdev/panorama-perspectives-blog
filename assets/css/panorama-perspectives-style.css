@@ -175,6 +175,14 @@
     color: red;
 }
 
+
+.positive {
+    color: #005700;
+}
+.negative {
+    color: #a40000;
+}
+
 .url-box {
     border-radius: 5px;
     padding: 5px;
@@ -223,6 +231,11 @@ cookie banner
     z-index: 999;
     font-size: 70%
 }
+
+
+
+
+
 
 
 
