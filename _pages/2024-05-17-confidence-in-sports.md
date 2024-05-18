@@ -61,8 +61,8 @@ Automatismus, also eine Gewissheit in mein eigenes Können und einen Automatismu
 
 ## Mal vorab: Gibt es wissenschaftliche Untersuchungen zu dem Thema, oder ist das eher „arbeiten aus Erfahrung“?
 
-"Ja, es gibt en masse wissenschaftliche Untersuchungen. Es gibt auch eine sehr gute systematische Übersichtsarbeit 
-von Mark Lochbaum. Mark Lochbaum ist jemand, der generell in der Sportpsychologie systematische Übersichtsarbeiten 
+"Ja, es gibt en masse wissenschaftliche Untersuchungen. Es gibt auch eine sehr gute <a href="https://www.mdpi.com/1660-4601/19/11/6381" rel='noopener noreferrer nofollow' target='_blank'> 
+systematische Übersichtsarbeit von Mark Lochbaum</a>. Mark Lochbaum ist jemand, der generell in der Sportpsychologie systematische Übersichtsarbeiten 
 macht und diese sehr gut ausführt. Sie haben 41 Studien aus den Jahren 1986 bis 2020 einbezogen, in denen 
 über 3000 Athlet:innen untersucht wurden. Die Forschung ist in diesem Bereich also sehr präsent und repräsentativ 
 in verschiedenen sportlichen Disziplinen. Deswegen kann man sich darauf gut stützen."
