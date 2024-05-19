@@ -1,241 +1,101 @@
 ---
-title: "Selbstvertrauen im Kraftsport: Interview mit Sportpsychologe Paul Schlütter"
-permalink: /posts/german/selbstvertrauen-im-kraftsport
+title: "Self-Confidence in Strength Sports: Interview with Sports Psychologist Paul Schlütter"
+permalink: /posts/confidence-in-sports
 layout: single
+toc: true
 tags: 
   - competitive-sports
 header:
   overlay_image: /images/posts/confidence/paul-schlütter.webp
   overlay_filter: rgba(0, 0, 0, 0.6)
   actions:
-excerpt: "Ich habe <a rel='noopener noreferrer nofollow' target='_blank' href='https://www.instagram.com/fundamentalkraft'>Paul Schlütter von Fundamentalkraft</a> zu einem meiner Lieblingsthemen interviewt: Confidence im Kraftsport. Paul, ein erfahrener Sportpsychologe, hat uns super spannende Einblicke in die Bedeutung von Selbstvertrauen im Training und Wettkampf gegeben. Diese möchte ich nun gerne mit euch teilen. Erfahrt mehr über die Definition von Selbstvertrauen, wissenschaftliche Hintergründe und praktische Tipps, die euch helfen können, euer volles Potenzial im Training zu entfalten."
+excerpt: "I interviewed <a rel='noopener noreferrer nofollow' target='_blank' href='https://www.instagram.com/fundamentalkraft'>Paul Schlütter from Fundamentalkraft</a> on one of my favorite topics: confidence in strength sports. Paul, an experienced sports psychologist, gave us fascinating insights into the importance of self-confidence in training and competition. I would now like to share these with you. Learn more about the definition of self-confidence, scientific background, and practical tips that can help you unlock your full potential in training."
 ---
 
 <meta name="robots" content="noindex">
 
 <aside class="sidebar__right ">
   <nav class="toc">
-    <header><h4 class="nav__title"><i class="fas fa-file-alt"></i> Inhaltsübersicht</h4></header>
+    <header><h4 class="nav__title"><i class="fas fa-file-alt"></i>Table of Contents</h4></header>
     <ul class="toc__menu">
-      <li><a href="#gib-uns-doch-erstmal-einen-schnellen-überblick-was-mit-confidence-im-kontext-krafttraining-eigentlich-genau-gemeint-ist-und-was-das-thema-so-interessant-macht">Überblick</a></li>
-      <li><a href="#wie-exakt-definiert-man-confidence">Definition</a></li>
-      <li><a href="#mal-vorab-gibt-es-wissenschaftliche-untersuchungen-zu-dem-thema-oder-ist-das-eher-arbeiten-aus-erfahrung">Forschung</a></li>
-      <li><a href="#ist-confidence-eher-ein-angeborener-skill-oder-etwas-was-man-sich-beibringen-oder-lernen-kann">Erlernbarkeit</a></li>
-      <li><a href="#mal-mehr-im-detail-inwiefern-kann-gesteigerte-confidence-einen-positiven-einfluss-auf-das-training-haben">Positive Effekte</a></li>
-      <li><a href="#inwiefern-kann-eine-geringere-confidence-negative-auswirkungen-aufs-training-haben">Negative Effekte</a></li>
-      <li><a href="#wie-steigere-ich-denn-meine-confidence-was-kann-ich-als-athletin-machen">Steigerung von Confidence</a></li>
-      <li><a href="#und-als-coachin-wie-kann-ich-positiven-einfluss-auf-die-confidence-meiner-athletinnen-nehmen">Als Coach:in</a></li>
-      <li><a href="#gibt-es-unterschiede-in-strategien-bei-anfängerinnen-und-erfahrenen-lifterinnen">Anfänger:innen vs erfahrene Lifter:innen</a></li>
-      <li><a href="#wie-kann-man-rückschläge-überwinden-zb-trainings-oder-wettkämpfe-die-nicht-nach-plan-liefen-um-dadurch-keinen-verlust-an-confidence-zu-erleiden">Rückschläge</a></li>
-      <li><a href="#wie-beeinflussen-verletzungen-das-selbstvertrauen-von-athletinnen-und-welche-strategien-gibt-es-um-nach-einer-verletzung-das-vertrauen-in-den-eigenen-körper-wiederzugewinnen">Verletzungen</a></li>
-      <li><a href="#gibt-es-spezifische-herausforderungen-im-hinblick-auf-selbstvertrauen-für-weibliche-athletinnen-und-ebenfalls-für-männliche-athleten">Herausforderungen Frauen/Männer</a></li>
-      <li><a href="#wie-wichtig-ist-das-soziale-umfeld-im-kontext-confidence-im-training">Soziales Umfeld</a></li>
+      <li><a href="#first-can-you-give-us-a-quick-overview-of-what-confidence-in-the-context-of-strength-training-actually-means-and-what-makes-this-topic-so-interesting">Overview</a></li>
+      <li><a href="#how-exactly-do-you-define-confidence">Definition</a></li>
+      <li><a href="#first-are-there-scientific-studies-on-the-topic-or-is-it-more-about-working-from-experience">Research</a></li>
+      <li><a href="#is-confidence-more-of-an-innate-skill-or-something-that-can-be-taught-or-learned">Learnability</a></li>
+      <li><a href="#more-in-detail-how-can-increased-confidence-have-a-positive-impact-on-training">Positive Effects</a></li>
+      <li><a href="#how-can-lower-confidence-negatively-impact-training">Negative Effects</a></li>
+      <li><a href="#how-do-i-increase-my-confidence-what-can-i-do-as-an-athlete">Increasing Confidence</a></li>
+      <li><a href="#and-as-a-coach-how-can-i-positively-influence-the-confidence-of-my-athletes">As a Coach</a></li>
+      <li><a href="#are-there-differences-in-strategies-for-beginners-and-experienced-lifters">Beginners vs. Experienced</a></li>
+      <li><a href="#how-can-setbacks-be-overcome-eg-training-or-competitions-that-didnt-go-as-planned-to-avoid-a-loss-of-confidence">Setbacks</a></li>
+      <li><a href="#how-do-injuries-affect-athletes-self-confidence-and-what-strategies-are-there-to-regain-confidence-in-ones-body-after-an-injury">Injuries</a></li>
+      <li><a href="#are-there-specific-challenges-regarding-self-confidence-for-female-athletes-and-also-for-male-athletes">Challenges Women/Men</a></li>
+      <li><a href="#how-important-is-the-social-environment-in-the-context-of-confidence-in-training">Social Environment</a></li>
     </ul>
   </nav>
 </aside>
 
-Ich freue mich sehr, euch heute ein Interview mit Paul Schlütter von Fundamentalkraft präsentieren zu können. 
-Paul ist ein erfahrener Sportpsychologe und hat spannende Einblicke in das Thema Selbstvertrauen im Kraftsport 
-mit uns geteilt. Wir haben über die Bedeutung von Selbstvertrauen im Training und Wettkampf gesprochen, 
-wie man es als Athlet:in und Coach:in beeinflussen kann, und sind in weitere Nuancen 
-dieses vielfältigen Themas eingetaucht. Aber genug geredet, let's get to the real content :)
+I am very excited to present to you an interview with Paul Schlütter from Fundamentalkraft today. Paul is an experienced sports psychologist and has shared fascinating insights with us on the topic of self-confidence in strength sports. We talked about the importance of self-confidence in training and competition, how athletes and coaches can influence it, and delved into other nuances of this multifaceted subject. But enough talking, let's get to the real content :)
 
-## Gib uns doch erstmal einen schnellen Überblick was mit Confidence im Kontext Krafttraining eigentlich genau gemeint ist und was das Thema so interessant macht
+## First, can you give us a quick overview of what confidence in the context of strength training actually means and what makes this topic so interesting?
 
-"Selbstvertrauen hat ja keinen alleinigen Kraftsportkontext. Es geht bei Selbstvertrauen nicht nur um den Kontext von 
-Krafttraining oder Powerlifting, sondern es ist ein allgemeines Konzept. 
-Das ist spannend, weil es ein Faktor ist, der einen positiven Beitrag zur Leistungsfähigkeit leisten kann, 
-auch wenn es nur einer von vielen ist. Ich finde es vor allem spannend, weil die Arbeit, die ich dort mache, 
-und die ich auch entsprechend den Guidelines aus diesem Bereich mache, das unterstützt. 
-Es ist immer eine super individuelle Sache, und unterschiedliche Leute können ihr Selbstvertrauen auf verschiedene 
-Arten und Weisen anwenden und trainieren."
+"Self-confidence does not have an exclusive context in strength sports. It's not just about confidence in the context of strength training or powerlifting; it's a general concept. It's exciting because it's a factor that can make a positive contribution to performance, even if it's just one of many. I find it especially intriguing because the work I do in this area, and the work I do according to the guidelines from this field, supports this. It's always a very individual matter, and different people can apply and train their self-confidence in various ways."
 
-## Wie exakt definiert man Confidence?
+## How exactly do you define confidence?
 
-"Das ist ein bisschen schwierig. Es gibt auch in der Forschung keine alleinige operationale Definition davon. 
-Das heißt, es gibt an sich nichts, was man eindeutig sagen kann. 
-Die Definition, mit der ich gerne arbeite, ist die von <a href="https://amzn.to/3UUjurw" rel='noopener noreferrer nofollow' target='_blank'>Dr. Nate Zinser</a> bzw. <a href="http://www.rotellaperformanceworkshops.com/about-bob.html" rel='noopener noreferrer nofollow' target='_blank'>Bob Rotella.</a> 
-Und zwar ist Selbstvertrauen eine Empfindung von Gewissheit über meine eigenen Fähigkeiten, welche es mir erlaubt, 
-bewusste Gedanken zu umgehen und eine Aufgabe unbewusst durchzuführen. Das bedeutet, es impliziert einen gewissen 
-Automatismus, also eine Gewissheit in mein eigenes Können und einen Automatismus in den Dingen, die ich tue."
+"That's a bit difficult. There is no single operational definition of it in the research. That means there's nothing you can definitively say. The definition I like to use is from <a href='https://amzn.to/3UUjurw' rel='noopener noreferrer nofollow' target='_blank'>Dr. Nate Zinser</a> and <a href='http://www.rotellaperformanceworkshops.com/about-bob.html' rel='noopener noreferrer nofollow' target='_blank'>Bob Rotella</a>. Self-confidence is a feeling of certainty about my own abilities, which allows me to bypass conscious thoughts and perform a task unconsciously. This means it implies a certain automatism, a certainty in my own abilities, and an automatism in the things I do."
 
-## Mal vorab: Gibt es wissenschaftliche Untersuchungen zu dem Thema, oder ist das eher „arbeiten aus Erfahrung“?
+## First, are there scientific studies on the topic, or is it more about working from experience?
 
-"Ja, es gibt en masse wissenschaftliche Untersuchungen. Es gibt auch eine sehr gute <a href="https://www.mdpi.com/1660-4601/19/11/6381" rel='noopener noreferrer nofollow' target='_blank'> 
-systematische Übersichtsarbeit von Mark Lochbaum</a>. Mark Lochbaum ist jemand, der generell in der Sportpsychologie systematische Übersichtsarbeiten 
-macht und diese sehr gut ausführt. Sie haben 41 Studien aus den Jahren 1986 bis 2020 einbezogen, in denen 
-über 3000 Athlet:innen untersucht wurden. Die Forschung ist in diesem Bereich also sehr präsent und repräsentativ 
-in verschiedenen sportlichen Disziplinen. Deswegen kann man sich darauf gut stützen."
+"Yes, there are plenty of scientific studies. There is also a very good <a href='https://www.mdpi.com/1660-4601/19/11/6381' rel='noopener noreferrer nofollow' target='_blank'>systematic review by Mark Lochbaum</a>. Mark Lochbaum is someone who generally does systematic reviews in sports psychology and does them very well. They included 41 studies from 1986 to 2020, in which over 3000 athletes were studied. The research in this area is therefore very present and representative in various sports disciplines. So you can rely on it quite well."
 
-## Ist Confidence eher ein „angeborener Skill“ oder etwas, was man sich beibringen oder lernen kann?
+## Is confidence more of an "innate skill" or something that can be taught or learned?
 
-"Selbstvertrauen ist erlernt und kontextspezifisch und vor allem auch etwas, was ich trainieren kann. 
-Das heißt, mein Selbstvertrauen im Kontext Mathematik ist deutlich geringer als mein 
-Selbstvertrauen im Kontext Sportpsychologie. Innerhalb der Sportpsychologie ist mein Selbstvertrauen höher 
-im Bereich der achtsamkeitsbasierten Interventionen als vielleicht im Bereich der 
-gestalttherapeutischen Interventionen. Das heißt, Selbstvertrauen ist immer super kontextspezifisch und 
-abhängig von dem Bereich, in dem ich mich bewege. Es ist auch etwas, das man kultivieren muss.
-Es kommt nicht einfach so, sondern ist das Ergebnis davon, wie ich Dinge bewerte.
-Es hat nicht nur mit der tatsächlichen Leistung zu tun, ob gut oder schlecht, sondern vielmehr damit, 
-wie ich diese Leistungen oder Situationen bewerte."
+"Self-confidence is learned and context-specific, and above all, it's something that can be trained. For example, my self-confidence in the context of mathematics is significantly lower than my self-confidence in the context of sports psychology. Within sports psychology, my self-confidence is higher in the area of mindfulness-based interventions than perhaps in the area of gestalt therapy interventions. This means that self-confidence is always highly context-specific and dependent on the area in which I am involved. It is also something that needs to be cultivated. It doesn't come just like that; it is the result of how I evaluate things. It is not only related to actual performance, whether good or bad, but rather to how I evaluate these performances or situations."
 
-## Mal mehr im Detail, inwiefern kann gesteigerte Confidence einen positiven Einfluss auf das Training haben?
+## More in detail, how can increased confidence have a positive impact on training?
 
-"Gesteigertes Selbstvertrauen hilft mir in der Regel, Aufgaben eher als eine Herausforderung wahrzunehmen. 
-Mit gesteigertem Selbstvertrauen habe ich auch eine gesteigerte Wahrnehmung meiner Ressourcen. 
-Dadurch bin ich in der Lage, Aufgaben, die mir gestellt werden, positiver zu bewerten und als machbar zu sehen. 
-Es gibt auch gute Forschung, die zwischen Bedrohungs- und Herausforderungszuständen (Threat und Challenge States) unterscheidet.
-Die Forschung zeigt, dass wenn ich mich in einem Herausforderungszustand befinde, 
-also die Aufgabe als Herausforderung sehe und glaube, dass ich sie bewältigen kann, 
-ich dann auch tatsächlich körperlich besser performen kann. 
-Vor allem im Trainings- und Wettkampfkontext liefert das einen sehr positiven Beitrag. 
-Aber auch abseits davon ist es nützlich, da Selbstvertrauen kontextspezifisch ist und in 
-verschiedenen Lebensbereichen gebraucht werden kann."
+"Increased self-confidence usually helps me perceive tasks as challenges rather than threats. With increased self-confidence, I also have a heightened perception of my resources. This allows me to evaluate tasks given to me more positively and see them as achievable. There is also good research that distinguishes between threat and challenge states. The research shows that when I am in a challenge state—seeing the task as a challenge and believing I can accomplish it—I actually perform better physically. This provides a very positive contribution, especially in the context of training and competition. But even beyond that, it is useful because self-confidence is context-specific and can be used in various areas of life."
 
-## Inwiefern kann eine geringere Confidence negative Auswirkungen aufs Training haben?
+## How can lower confidence negatively impact training?
 
-"Ja, dann halt das Gegenteil davon. Wenn ich sehr niedriges Selbstvertrauen habe, neige ich vielleicht eher dazu, 
-sowohl gute als auch schlechte Leistungen negativ zu bewerten und mich dadurch weiter in ein ewiges Loch des fehlenden 
-Selbstvertrauens zu graben. Dann bin ich vielleicht irgendwann an dem Punkt, an dem ich mich 
-diesen Aufgaben gar nicht mehr stellen möchte.  
-Das kann im negativen Sinne, sehr weit gedacht und natürlich multifaktoriell, dazu führen, dass ich mit dem Sport aufhöre, 
-mir einen anderen Sport oder einen komplett anderen Kontext suche. Es könnte auch sein, dass ich übermäßige 
-Kontrolle ausübe, um mehr Bestätigung für meinen Selbstwert zu bekommen. 
-Das überschneidet sich oft mit Perfektionismus. 
-Wenn es um Dinge wie Selbstwert geht, kann das grandios nach hinten losgehen."
+"Well, it's quite the opposite. If I have very low self-confidence, I may tend to evaluate both good and bad performances negatively, further digging myself into an endless pit of lacking self-confidence. I might eventually reach a point where I don't even want to face these tasks anymore. In the negative sense, and very far-reaching and of course multifactorial, this could lead to me quitting the sport, looking for another sport, or seeking a completely different context. It could also be that I exercise excessive control to gain more validation for my self-worth. This often overlaps with perfectionism. When it comes to things like self-worth, it can backfire spectacularly."
 
-## Wie steigere ich denn meine Confidence? Was kann ich als Athlet:in machen?
+## How do I increase my confidence? What can I do as an athlete?
 
-"Ja, trainieren beziehungsweise üben, üben, üben. Was ich wirklich empfehlen kann, ist das Buch 
-<a href="https://amzn.to/3UUjurw" rel='noopener noreferrer nofollow' target='_blank'> The Confident Mind von Dr. Nate Zinser</a>. Er legt dort einige Ansätze recht deutlich dar, wie man das angehen kann. 
-Da geht es um Auswertungen von Trainingseinheiten, um Auswertungen innerhalb der Trainingseinheiten, 
-um positive selbsterfüllende Prophezeiungen, um Visualisierung und einiges mehr.
-Das Einfachste, was ich zunächst raten kann, ist, sich nach jeder Einheit 
-drei Fragen zu stellen und diese stichpunktartig zu beantworten:
+"Yes, train or practice, practice, practice. What I can really recommend is the book <a href='https://amzn.to/3UUjurw' rel='noopener noreferrer nofollow' target='_blank'>The Confident Mind by Dr. Nate Zinser</a>. He clearly outlines several approaches on how to tackle this. It includes evaluations of training sessions, evaluations within the training sessions, positive self-fulfilling prophecies, visualization, and much more.
+The simplest thing I can initially recommend is to ask yourself three questions after each session and answer them briefly:
 
-* Wobei habe ich mich in dieser Einheit angestrengt? Wo habe ich mich so richtig ins Zeug gelegt?   
-* Welchen kleinen Erfolg nehme ich vielleicht aus der Einheit mit? Das kann auch etwas wirklich sehr Kleines sein.   
-* Worin bin ich als Ergebnis dieser Einheit besser geworden?
+* In which part of this session did I put in effort? Where did I really push myself?
+* What small success do I take away from this session? This can be something really small.
+* What have I improved as a result of this session?
 
-Das heißt, wenn ich zum Beispiel als letzte Übung in meinem Training eine Griffkraftübung habe und mich trotzdem da 
-voll ins Zeug lege und vielleicht einen kleinen PR mache, indem ich meine 150 Kilo für 35 Sekunden gehalten habe, 
-statt nur 30, dann kann ich im Nachhinein schreiben: <span class="positive italic">'Ich habe mich heute angestrengt bei meinem Griffkrafttraining, 
-da habe ich mich ins Zeug gelegt, als Ergebnis daraus habe ich einen kleinen PR gemacht und als Ergebnis der Einheit 
-insgesamt ist meine Griffkraft besser geworden.'</span> 
-Und dann tut man das wieder und wieder. Gerade in dieser Ressourcenarbeit, in der wir uns bewegen, 
-ist es wichtig, sich aktiv die Zeit zu nehmen, über die Dinge zu reflektieren, die man gut gemacht hat und die Dinge, 
-von denen man mehr haben möchte. Das lenkt dann auch innerhalb der Einheiten den Fokus auf 
-diese Dinge und macht die Einheiten angenehmer."
+For example, if the last exercise in my training is a grip strength exercise and I still push myself fully and maybe set a small PR by holding 150 kilos for 35 seconds instead of just 30, then I can write afterwards: <span class='positive italic'> 'I put in effort today in my grip strength training, I pushed myself, as a result, I set a small PR, and as a result of the session overall, my grip strength has improved.'</span>
+And then you do this over and over again. Especially in this resource work, it is important to take the time to actively reflect on the things you did well and the things you want more of. This also directs the focus within the sessions to these things and makes the sessions more enjoyable."
 
-## Und als Coach:in, wie kann ich positiven Einfluss auf die Confidence meiner Athlet:innen nehmen?
+## And as a coach, how can I positively influence the confidence of my athletes?
 
-"Ich kenne es so, dass ich viel Psycho-Education mit meinen Leuten mache und auch schon ein paar Webinare zu dem 
-Thema gehalten habe, um diese Tools zu lehren und den Athlet:innen näherzubringen. 
-Im Verbandssport-Kontext bin ich auch Verbandspsychologe beim Bund Deutscher Radfahrer und arbeite dort mit 
-verschiedenen Bundestrainer:innen zusammen. Manche der Trainer:innen gehen her und bauen beispielsweise die 
-Trainingsauswertung in das formelle Trainingsfeedback ein. Das heißt, die Athlet:innen sind dann angehalten, 
-diese stichpunktartige Auswertung tatsächlich auch nach jeder Einheit zu machen, und so kann man das auch etablieren.
-Ich glaube, darüber hinaus ist es auch wichtig, rein sprachlich darauf zu achten, dass, wenn ich Feedback einhole, 
-aber auch wenn ich Feedback gebe, sprachlich immer das auszudrücken, wovon ich mehr haben will. 
-Es ist wenig wertvoll, als Coach:in zu sagen: <span class="negative italic">'Ja, deine Beuge war hoch.'</span> 
-Viel wertvoller ist es zu sagen: <span class="positive italic">'Achte mal darauf, dass du nächstes Mal tiefer beugst.'</span> 
-Die Instruktionen, die wir geben, und auch die motivationalen Inputs, sollten in der Regel immer das ausdrücken, 
-wovon wir mehr haben wollen. Es gibt Ausnahmen im Ausdauersport, aber darauf brauchen wir hier jetzt nicht einzugehen."
+"I approach this by doing a lot of psycho-education with my people and have also held a few webinars on the topic to teach these tools and bring them closer to the athletes. In the context of competitive sports, I am also a sports psychologist for the German Cycling Federation and work there with various national coaches. Some of the coaches incorporate training evaluations into formal training feedback. This means that athletes are encouraged to actually do these brief evaluations after each session, and this can be established as a routine.
+I believe it is also important to be mindful of language when I ask for feedback, but also when I give feedback, to always express what we want more of. It is not very helpful for a coach to say: <span class='negative italic'> 'Yes, your squat was too high.'</span> It's much more valuable to say: <span class='positive italic'> 'Make sure to squat lower next time.'</span> The instructions we give, and the motivational inputs, should generally always express what we want more of. There are exceptions in endurance sports, but we don't need to go into that here."
 
-## Gibt es Unterschiede in Strategien bei Anfänger:innen und erfahrenen Lifter:innen?
+## Are there differences in strategies for beginners and experienced lifters?
 
-"Nö, nicht wirklich. Das ist generell ein Mythos, der sich hartnäckig hält, dass Leute ab einem gewissen Niveau 
-im organisierten Sport ein extrem krasses Mindset haben, was auch immer das bedeutet. 
-Ich mag das Wort 'Mindset' sowieso nicht. Dem ist tatsächlich einfach nicht so. 
-Natürlich gibt es bestimmte Charaktereigenschaften, die ab einem gewissen Niveau überrepräsentiert sind, 
-aber im Grunde funktioniert der menschliche Kopf relativ ähnlich, was solche Dinge angeht. 
-Es gibt individuelle Unterschiede, und es kann sein, dass die Arbeit im Bereich Selbstvertrauen dem einen mehr hilft
-als dem anderen. Aber unterm Strich kann man sagen, dass die Herangehensweise beim Thema Selbstvertrauen für jemanden, 
-die sich auf eine Landesmeisterschaft vorbereitet, exakt dieselbe ist wie für jemanden, 
-die sich auf eine Weltmeisterschaft vorbereitet."
+"No, not really. It's generally a myth that people at a certain level in organized sports have an extremely strong mindset, whatever that means. I don't even like the word 'mindset.' It's simply not true. Of course, there are certain personality traits that are overrepresented at a certain level, but fundamentally, the human brain works pretty similarly in these matters. There are individual differences, and it may be that work on self-confidence helps one person more than another. But overall, you can say that the approach to the topic of self-confidence for someone preparing for a national championship is exactly the same as for someone preparing for a world championship."
 
-## Wie kann man Rückschläge überwinden, z.B. Trainings oder Wettkämpfe, die nicht nach Plan liefen, um dadurch keinen Verlust an Confidence zu erleiden?
+## How can setbacks be overcome, e.g., training or competitions that didn't go as planned, to avoid a loss of confidence?
 
-"It's all about how you respond. Es ist immer davon abhängig, wie ich auf die Situation reagiere. 
-Natürlich kann ich eine gute Einheit nehmen und die so richtig in Grund und Boden reden und sagen:
-<span class="negative italic">'Ja, die Zahlen waren gut, aber beim Heben war mein Rückenwinkel scheiße, mein Griff hat sich mies angefühlt und 
-vielleicht war mein Ellenbogen beim Bankdrücken bei der einen Wiederholung nicht richtig durchgestreckt. 
-Also war es eine richtig schlechte Einheit.'</span> 
-Im Gegenzug kann ich nach schlechten Wettkämpfen oder schlechten Einheiten sagen:
-<span class="positive italic">'Ja, die Performance war nicht da, wo ich sie haben will, aber ich habe mir Mühe gegeben, richtig hydriert zu sein. 
-Ich habe mein Warm-up richtig getimt. Ich habe nach einem schlechten Versuch schnell damit abgeschlossen. 
-Nächstes Mal möchte ich dafür sorgen, dass ich noch mehr auf mein Essen achte und vielleicht 
-am Tag davor einen etwas entspannteren Tag habe.'</span> 
-Es geht immer darum, auszuwerten und zu überlegen: 
-*'Okay, möchte ich von diesem Bankkonto (das eine gute Metapher für Selbstvertrauen ist) etwas abbuchen in der Art und Weise, 
-wie ich auf diese Situation reagiere, oder möchte ich etwas darauf einzahlen?'*
-Das ist eine Arbeit, die man auch auf rationaler Ebene macht, indem man diese Dinge auswertet 
-und das dann einfach wieder und wieder tut, immer wieder den Fokus darauf lenkt, wovon man mehr haben möchte.
-Es sei aber auch gesagt, dass es vollkommen normal und okay ist, sich nach einem miesen Training oder nach einer miesen 
-Einheit schlecht zu fühlen. Die Frage ist immer: Wo ist die Grenze? Wo ist für mich der Punkt erreicht, an dem 
-dieses sich schlecht fühlen keinen wirklichen Sinn mehr ergibt? Es ist vielleicht sogar 
-stückweit auch wichtig und richtig, dass es einem nach einem schlechten Wettkampf schlecht geht, weil man dann 
-diese Erfahrung gemacht hat und daraus Motivation schöpfen kann, um es besser zu machen.
-Die Idee, dass man sagt: *'Ich hatte eine schlechte Einheit oder einen schlechten Wettkampf und das 
-rutscht mir den Buckel runter'* ist auch nicht das Wahre. 
-Es gibt Unterschiede zwischen den Leuten. Am Ende des Tages ist aus sportpsychologischer Sicht immer die Frage: 
-Wo ist die Grenze für den Leidensdruck? 
-Wenn jemand einen schlechten Wettkampf hat und vier Wochen später immer noch voll am Boden zerstört ist und 
-keine vernünftigen Einheiten mehr hinkriegt, dann ist vielleicht der Punkt erreicht, wo man mal interveniert 
-und sagt: *'Ja, es ist gut langsam.'*
+"It's all about how you respond. It always depends on how I react to the situation. Of course, I can take a good session and completely tear it apart, saying: <span class='negative italic'> 'Yes, the numbers were good, but my back angle was terrible during the lift, my grip felt off, and maybe my elbow wasn't fully extended during one of the bench press reps. So, it was a really bad session.'</span> Conversely, I can say after bad competitions or bad sessions: <span class='positive italic'> 'Yes, the performance wasn't where I wanted it to be, but I made an effort to stay well hydrated. I timed my warm-up correctly. I quickly moved on from a bad attempt. Next time, I want to make sure I pay more attention to my nutrition and maybe have a more relaxed day before.'</span> It's always about evaluating and considering: <span class='italic'> 'Okay, do I want to withdraw from this bank account (which is a good metaphor for self-confidence) in the way I react to this situation, or do I want to make a deposit?' </span> This is work that you do on a rational level by evaluating these things repeatedly and consistently focusing on what you want more of. It should also be said that it's perfectly normal and okay to feel bad after a lousy training session or a bad competition. The question is always: Where is the limit? When does this feeling bad no longer make sense for me? It's maybe even important and right to feel bad after a bad competition because then you can draw motivation from this experience to do better. The idea that you can say: <span class='italic'> 'I had a bad session or a bad competition, and I don't care at all,' </span> isn't realistic either. There are differences between people. At the end of the day, from a sports psychology perspective, the question is always: Where is the limit of the distress? If someone has had a bad competition and is still completely devastated four weeks later and can't get any decent sessions done, then maybe it's time to intervene and say: <span class='italic'> 'Okay, it's enough now.'</span>"
 
-## Wie beeinflussen Verletzungen das Selbstvertrauen von Athlet:innen und welche Strategien gibt es, um nach einer Verletzung das Vertrauen in den eigenen Körper wiederzugewinnen?
+## How do injuries affect athletes' self-confidence, and what strategies are there to regain confidence in one's body after an injury?
 
-"Puh, also da sind wir jetzt ganz schnell im biopsychosozialen Modell von Schmerz und was das mit uns macht. 
-Das ist auch hart kontextabhängig. Natürlich kann eine Verletzung je nach Schweregrad ganz 
-unterschiedliche Auswirkungen haben, je nachdem auch, wie das Supportsystem drumherum aussieht. 
-In meiner Erfahrung ist das Wichtigste bei Verletzungen der Umschwung auf: 
-*'Okay, was kann ich jetzt leisten, statt dem, was ich vielleicht gerade nicht leisten kann?'* 
-Es ist wichtig, sich Zeit zu nehmen, um abzuschließen, wenn es zum Beispiel eine Verletzung vor einem 
-wichtigen Wettkampf ist, und zu sagen: *'Okay, es ist in Ordnung, das doof zu finden und traurig zu sein, 
-dass ich nicht starten kann. Aber was ist jetzt der nächste Schritt?'*
-Worauf möchte ich meine Aufmerksamkeit und meine Ressourcen lenken, damit ich mich langfristig gut entwickeln kann? 
-Diese Umlenkung in der Zielsetzung ist, glaube ich, sehr wichtig. 
-Was das Selbstvertrauen angeht: Natürlich ist es angeknackst, wenn man sich verletzt. 
-Oder kann angeknackst sein, muss aber nicht. Es ist nachvollziehbar, wenn dem so ist. Es ist wichtig, 
-sich die Zeit zu nehmen, mit dieser angepassten Zielsetzung zu überlegen: *'Okay, was sind die Dinge, die ich 
-verbessern kann und wo ich auch Selbstvertrauen daraus schöpfen kann? Was sind die Möglichkeiten?'* 
-Das ist ein vernünftiger Schritt.
-Was das Vertrauen in den eigenen Körper angeht, würde ich das nicht direkt beim Selbstvertrauen einordnen. 
-Da gibt es recht viel, was man im Bereich Selbstmitgefühl, Achtsamkeit und Akzeptanz machen kann. 
-Aber das würde hier den Rahmen sprengen."
+"Well, this brings us quickly into the biopsychosocial model of pain and what it does to us. It's also highly context-dependent. Of course, an injury can have very different impacts depending on the severity and what the support system around the person looks like. In my experience, the most important thing with injuries is to shift focus to: <span class='italic'> 'Okay, what can I achieve now, instead of what I might not be able to do at the moment?' </span> It's important to take time to process it, for example, if it's an injury before an important competition, and to say: <span class='italic'> 'Okay, it's okay to find this annoying and to be sad that I can't compete. But what's the next step?' </span> Where do I want to direct my attention and resources so that I can develop well in the long term? This shift in goal setting is, I believe, very important. Regarding self-confidence, of course, it's affected when you get injured. Or it can be, it doesn't have to be. It's understandable if that's the case. It's important to take the time with this adjusted goal setting to consider: <span class='italic'> 'Okay, what are the things I can improve and where can I draw self-confidence from? What are the possibilities?' </span> That's a reasonable step. When it comes to trust in one's body, I wouldn't directly categorize that under self-confidence. There is a lot you can do in the area of self-compassion, mindfulness, and acceptance. But that would be beyond the scope here."
 
-## Gibt es spezifische Herausforderungen im Hinblick auf Selbstvertrauen für weibliche Athletinnen (und ebenfalls für männliche Athleten)?
+## Are there specific challenges regarding self-confidence for female athletes (and also for male athletes)?
 
-"Ich weiß nicht, ob ich das anhand des Geschlechts festmachen würde. Ich denke, 
-es gibt sicherlich einzelne Personen, die im Kontext ihres Zyklus Schwierigkeiten haben, 
-besonders wenn die Leistungsschwankungen stark mit dem Zyklus zusammenhängen. 
-Das kann schon ein Thema sein, aber ich würde das nicht nur nach Geschlecht verallgemeinern. 
-Es gibt scheinbar einen kleinen Effekt, was die Differenzen zwischen Männern und Frauen angeht. 
-In meiner praktischen Arbeit würde ich das immer von der individuellen Person abhängig machen. 
-Ich glaube, die individuellen Unterschiede sind deutlich größer, als wenn ich sagen würde: 
-*'Ich mache mit allen Männern X und mit allen Frauen Y.'*"
+"I don't know if I would base this on gender. I think there are certainly individuals who have difficulties in the context of their cycle, especially if performance fluctuations are strongly linked to the cycle. That can be an issue, but I wouldn't generalize it by gender. There seems to be a small effect regarding the differences between men and women. In my practical work, I would always make it dependent on the individual person. I believe the individual differences are much greater than saying: <span class='italic'> 'I do X with all men and Y with all women.'</span>"
 
-## Wie wichtig ist das soziale Umfeld im Kontext Confidence im Training?
+## How important is the social environment in the context of confidence in training?
 
-"Schon. Ich denke, was in meiner Erfahrung so ein paar Knackpunkte sind, sind die Grenzen. 
-Also, welche Grenzen kommuniziere ich auch mit Bezug auf ungewünschtes Feedback im Training, 
-wenn ich in einem Trainingsumfeld trainiere, wo mir Leute einfach gerne mal reinreden. 
-Kann ich da eine Grenze setzen? Wird die auch respektiert? Das ist ein wichtiger Punkt.
-Man kann sicherlich auch ein Trainingsumfeld kreieren, und da gebe ich mir üblicherweise auch Mühe, 
-das zu tun, wo kommunikativ eben das gemacht wird, was ich vorhin angesprochen hatte, nämlich dass, 
-wenn Feedback gegeben wird, stets das ausgesprochen wird, wovon man mehr machen möchte.
-Wenn ich als Trainingspartner im Training stehe und ich sehe zum Beispiel einen typischen Bankdrücksatz 
-mit viel zu kurzen Pausen, dann gehe ich nicht her und sage: <span class="negative italic">'Deine Pausen waren viel zu kurz.'</span> 
-Sondern ich nehme mir erstmal einen Moment Zeit und sage:
-<span class="positive italic">'Hey, ich habe gerade deinen Satz gesehen. Bist du offen für Feedback? 
-Kann ich dir gerade ein bisschen Input geben? Möchtest du das haben?'</span> 
-Wenn das mit Ja beantwortet wird, dann gebe ich Feedback, wenn Nein, dann eben nicht. 
-Und dann würde ich eher sowas sagen wie:
-<span class="positive italic">'Mir ist aufgefallen, dass deine Pausen schon noch besser sein könnten. 
-Im Wettkampf werden die sehr wahrscheinlich länger sein.'</span> 
-Das ist natürlich auch sprachlich im Umgang wichtig. Da fließt dieses kommunikative Element stark mit rein und macht
-das Training deutlich besser für die meisten Leute."
+"It is. In my experience, a few key points are boundaries. So, what boundaries do I communicate regarding unwanted feedback in training when I'm in an environment where people like to chime in? Can I set a boundary? Is it respected? That's an important point. You can certainly create a training environment, and I usually make an effort to do so, where communication is focused on what I mentioned earlier, that is, when feedback is given, it's always about expressing what you want more of. If I am a training partner and see, for example, a typical bench press set with too short pauses, I don't go and say: <span class='negative italic'> 'Your pauses were too short.'</span> Instead, I take a moment and say: <span class='positive italic'> 'Hey, I saw your set. Are you open to feedback? Can I give you some input? Do you want that?' </span> If the answer is yes, then I give feedback, if not, then I don't. And then I would say something like: <span class='positive italic'> 'I noticed that your pauses could be a bit longer. In competition, they are likely to be longer.'</span> This kind of communication is important. This communicative element greatly enhances the training experience for most people."
 
-
-**Danke, Paul, dass du dir die Zeit genommen und uns so viele spannende Einblicke in dieses Thema gegeben hast!**
+**Thank you, Paul, for taking the time and giving us so many fascinating insights into this topic!**
