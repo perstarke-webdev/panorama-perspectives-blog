@@ -130,6 +130,11 @@ that sits right next to my desk now.
 I experienced this as a valuable resource for inspiration and quick look-ups, 
 packed with insights on everything from negotiation and finance to leadership and operations management.
 
+## With Winning in Mind   
+***Lanny Bassham***   
+*[Get the book](https://amzn.to/4dNzsMD)*   
+This book offers extremely practical and golden advice on how to prime your mind for winning, whether in sports or other domains. While I didn't find the style of writing particularly engaging, the quality of the advice more than makes up for it. The book is packed with great tips that can help anyone develop a winning mindset. I took away a lot from this invaluable read and highly recommend it to anyone who wants to succeed.
+
 ## The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life     
 ***Mark Manson***   
 [Get the book](https://amzn.to/3wHWdkj)   
