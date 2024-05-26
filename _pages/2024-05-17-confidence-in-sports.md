@@ -11,8 +11,6 @@ header:
 excerpt: "I interviewed <a rel='noopener noreferrer nofollow' target='_blank' href='https://www.instagram.com/fundamentalkraft'>Paul Schlütter from Fundamentalkraft</a> on one of my favorite topics: confidence in strength sports. Paul, an experienced sports psychologist, gave us fascinating insights into the importance of self-confidence in training and competition. I would now like to share these with you. Learn more about the definition of self-confidence, scientific background, and practical tips that can help you unlock your full potential in training."
 ---
 
-<meta name="robots" content="noindex">
-
 <aside class="sidebar__right ">
   <nav class="toc">
     <header><h4 class="nav__title"><i class="fas fa-file-alt"></i>Table of Contents</h4></header>
