@@ -90,7 +90,7 @@ Crafting professional emails can be time-consuming. ChatGPT can help draft clear
 When it comes to writing reports, ChatGPT can assist in structuring and drafting content. You can outline the key sections of your report, and use ChatGPT to expand on each section. It can help with generating content, suggesting relevant data points, and ensuring a logical flow. Always review the generated text for accuracy and coherence.
 
 <div class="notice--info center">
-<h2>Example-Prompt: </h2>
+<b>Example-Prompt: </b>
 "Draft the introduction and conclusion for a quarterly sales report, emphasizing key achievements and future goals."
 </div>
 
