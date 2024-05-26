@@ -1,7 +1,7 @@
 ---
-title: Posts about Time Management
+title: Posts about Productivity
 layout: splash_time
-permalink: /time-management
+permalink: /productivity
 header:
     overlay_image: /images/photos/sydney-9.webp
     overlay_filter: rgba(0, 0, 0, 0.6)
@@ -9,7 +9,7 @@ header:
         - label: "Check out all other posts"
           url: "/posts"
 
-excerpt: "Explore practical strategies and insights on mastering time management in our busy lives. Discover ways to make the most out of your time and find balance while making productivity feel good instead of stressful. Dive into my experiences, lessons learned and practical tips to empower your journey towards achieving your goals and enjoying your time."
+excerpt: "Explore practical strategies and insights on mastering productivity in our busy lives. Discover ways to make the most out of your time and find balance while making productivity feel rewarding instead of stressful. Dive into my experiences, lessons learned, and practical tips to empower your journey towards achieving your goals and enjoying your time."
 
 ---
 
@@ -17,7 +17,7 @@ excerpt: "Explore practical strategies and insights on mastering time management
 
 {% for post in posts %}
 
-    {% if post.tags contains 'time-management' %}
+    {% if post.tags contains 'productivity' %}
 
 <h3>
     <a href="{{ post.permalink }}"
@@ -43,9 +43,9 @@ excerpt: "Explore practical strategies and insights on mastering time management
     </a>&nbsp;
     {% endif %}
 
-    {% if tag == "time-management" %}
-    <a href="/time-management" class="time-management-color">
-        #time-management
+    {% if tag == "productivity" %}
+    <a href="/productivity" class="time-management-color">
+        #productivity
     </a>&nbsp;
     {% endif %}
 

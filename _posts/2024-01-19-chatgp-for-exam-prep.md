@@ -2,10 +2,9 @@
 title: "How I VERY successfully used ChatGPT for Exam Preparation - and how it can help you"
 permalink: /posts/chatgpt-for-exam-prep
 layout: single
-tags: 
-  - other 
+tags:
   - IT
-  - time-management
+  - productivity
 header:
   overlay_image: /images/photos/sydney-11.webp
   overlay_filter: rgba(0, 0, 0, 0.6)

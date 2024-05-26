@@ -4,6 +4,7 @@ permalink: /posts/remote-work-while-traveling
 layout: single
 tags:
     - traveling
+    - productivity
 header:
     overlay_image: /images/posts/work-travel/work-from-boat-bar.webp
     overlay_filter: rgba(0, 0, 0, 0.6)

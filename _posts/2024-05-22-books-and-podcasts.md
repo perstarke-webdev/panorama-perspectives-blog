@@ -7,7 +7,7 @@ tags:
     - IT
     - personal-development
     - sports
-    - time-management
+    - productivity
     - freelancing
     - competitive-sports
     - other
