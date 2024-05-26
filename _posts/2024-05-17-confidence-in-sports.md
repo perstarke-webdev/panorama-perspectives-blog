@@ -13,7 +13,7 @@ excerpt: "I interviewed <a rel='noopener noreferrer nofollow' target='_blank' hr
 
 <aside class="sidebar__right ">
   <nav class="toc">
-    <header><h4 class="nav__title"><i class="fas fa-file-alt"></i>Table of Contents</h4></header>
+    <header><h4 class="nav__title"><i class="fas fa-file-alt"></i> Table of Contents</h4></header>
     <ul class="toc__menu">
       <li><a href="#first-can-you-give-us-a-quick-overview-of-what-confidence-in-the-context-of-strength-training-actually-means-and-what-makes-this-topic-so-interesting">Overview</a></li>
       <li><a href="#how-exactly-do-you-define-confidence">Definition</a></li>
