@@ -11,8 +11,6 @@ header:
 excerpt: "Ich habe <a rel='noopener noreferrer nofollow' target='_blank' href='https://www.instagram.com/fundamentalkraft'>Paul Schlütter von Fundamentalkraft</a> zu einem meiner Lieblingsthemen interviewt: Confidence im Kraftsport. Paul, ein erfahrener Sportpsychologe, hat uns super spannende Einblicke in die Bedeutung von Selbstvertrauen im Training und Wettkampf gegeben. Diese möchte ich nun gerne mit euch teilen. Erfahrt mehr über die Definition von Selbstvertrauen, wissenschaftliche Hintergründe und praktische Tipps, die euch helfen können, euer volles Potenzial im Training zu entfalten."
 ---
 
-<meta name="robots" content="noindex">
-
 <aside class="sidebar__right ">
   <nav class="toc">
     <header><h4 class="nav__title"><i class="fas fa-file-alt"></i> Inhaltsübersicht</h4></header>
