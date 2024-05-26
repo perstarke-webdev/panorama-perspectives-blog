@@ -2,7 +2,6 @@
 title: "Self-Confidence in Strength Sports: Interview with Sports Psychologist Paul Schlütter"
 permalink: /posts/confidence-in-sports
 layout: single
-toc: true
 tags: 
   - competitive-sports
 header:
