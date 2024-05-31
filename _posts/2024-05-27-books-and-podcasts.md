@@ -80,7 +80,7 @@ This book motivated me to challenge myself more than ever, and I'm excited about
 
 ## The Diary of a CEO   
 ***Steven Bartlett***    
-*[Get the book]([https://amzn.to/4cYs8gu](https://amzn.to/3wTB2fm))*    
+*[Get the book](https://amzn.to/3wTB2fm)*    
 I loved the practical advice and out-of-the-box approaches to many aspects of business and life presented in this book. The great structure and relatable style of writing made it an engaging read. One of the last chapters was perhaps the most intense and eye-opening book chapter I've ever read. It discusses how facing one's own mortality can make us more grateful and truly open our eyes to the importance of doing more of what is valuable and fun. This book is a must-read for anyone looking to gain unique insights and a fresh perspective on life and business.
 
 
