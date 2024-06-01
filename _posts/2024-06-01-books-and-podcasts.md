@@ -84,6 +84,12 @@ This book motivated me to challenge myself more than ever, and I'm excited about
 I loved the practical advice and out-of-the-box approaches to many aspects of business and life presented in this book. The great structure and relatable style of writing made it an engaging read. One of the last chapters was perhaps the most intense and eye-opening book chapter I've ever read. It discusses how facing one's own mortality can make us more grateful and truly open our eyes to the importance of doing more of what is valuable and fun. This book is a must-read for anyone looking to gain unique insights and a fresh perspective on life and business.
 
 
+## The 4-Hour Workweek
+***Tim Ferriss***   
+*[Get the book](https://amzn.to/45mV4f7)*  
+I think I've never encountered a book that contains this much practical advice. The general concept behind the book—eliminate, delegate, and automate your work to make more time for life outside of work—is just awesome. I can't recommend enough to internalize this approach! This book is packed with actionable strategies and insights that can revolutionize your approach to work and free up more time for the things you love. It's a must-read for anyone looking to optimize their productivity and live life to the fullest. (Some content is a little outdated, but most advice will still work.)
+
+
 ## 12 Rules for Life: An Antidote to Chaos
 ***Jordan B. Peterson***   
 *[Get the book](https://amzn.to/4cSXc1l)*  
