@@ -274,6 +274,12 @@ the insights provided are broadly applicable, benefiting freelancers across vari
 web developers who aren't freelancing. 
 This makes it a standout resource for anyone looking to enhance their freelancing skills.
 
+## The Subtle Art of Not Giving a F*ck Podcast   
+***Mark Manson***     
+*[Listen on Spotify](https://open.spotify.com/show/11VjrLJfoiNvgjjqov4RWh?si=28cda04e2dff4e65)*  
+I'm already a fan of the book, but the podcast dives even deeper into some of the core topics, providing that same great vibe of getting shit done while enjoying life to the fullest. With Mark Manson's signature straightforward and humorous style, it's a pleasure to listen to. There's also a fantastic episode featuring Ali Abdaal on how to enjoy doing hard things and feel-good productivity, making it a standout. This podcast is a must-check-out for anyone looking to enhance their life with practical, no-nonsense advice.
+
+
 ## Soul sisters in sydney
 *[Listen on Spotify](https://open.spotify.com/show/6Uhn7JW7TaYwkd13YWOb1Q?si=1d79847458634011)*  
 This one is kind of a hidden gem.
