@@ -153,6 +153,13 @@ This book offers extremely practical and golden advice on how to prime your mind
 [Get the book](https://amzn.to/3wHWdkj)   
 This thought-provoking read features a very straightforward style of writing, which I enjoyed a lot. Mark's approach is different than other books and therefore very refreshing. I don't fully agree with all his statements (e.g., the blanket "you are not special," because in my point of view that is also a choice you can make), but even those parts were very interesting to read. Many ideas, though, are damn good and valuable! Especially things like "we all have a limited amount of f\*cks to give, so we must choose our f\*cks wisely" or "not everything in your life is your fault, but everything is your own full responsibility" are so good! Recommended and very valuable read for sure.
 
+
+## Influence: The Psychology of Persuasion   
+***Robert Cialdini***    
+*[Get the book](https://amzn.to/4cEEBpr)*    
+*"Influence"* was one of the most interesting books I've ever read, packed with tons of deep psychological insights. Robert Cialdini masterfully presents very illustrative and eye-opening examples throughout the book, making complex concepts easy to understand and apply. It's a compelling read that delves into the mechanics of persuasion and the subtle ways in which we can be influenced. Highly recommend this book for anyone interested in understanding the intricacies of human behavior and the art of persuasion. Additionally, it provides valuable information on using persuasion ethically and how to protect oneself against its misuse in advertising, sales, and other areas.
+
+
 ## Level Up: Get Focused, Stop Procrastinating and Upgrade Your Life
 ***Rob Dial***   
 *[Get the book](https://amzn.to/49CC0K5)*  
