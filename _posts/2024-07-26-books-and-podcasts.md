@@ -113,6 +113,10 @@ which sends reminders and further advice every few days, which helps me to stick
 *[Get the book](https://amzn.to/4bFCtwK)*  
 This book contains many valuable insights and really made me "think again." It offered new perspectives that I hadn't experienced or thought about before. In today's fast-changing world, questioning your tools, values and many other things is often overlooked but, as this book clearly proves, crucial. Grant provides a good combination of theory and practice with a humble and fun writing style that remains very precise and scientific. It's an enlightening read that challenges you to rethink and embrace the power of doubt.
 
+## Calling Bullshit: The Art of Skepticism in a Data-Driven World
+***Carl T. Bergstrom and Jevin D. West***  
+*[Get the book](https://amzn.to/3zWY0Do)*  
+In today's world, it’s getting harder and harderr to tell what's true and what’s not. *Calling Bullshit* is a book everyone should read. It teaches you how to spot misinformation and nonsense, which is crucial nowadays. Bergstrom and West use insightful language and real-life examples to show you how to think critically about the information you come across. It's a practical and eye-opening read that helps you cut through the BS and find the facts.
 
 ## On Writing Well: The Classic Guide to Writing Nonfiction
 ***William Zinsser***   
