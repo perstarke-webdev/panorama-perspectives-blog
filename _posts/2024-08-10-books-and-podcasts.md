@@ -152,6 +152,13 @@ packed with insights on everything from negotiation and finance to leadership an
 *[Get the book](https://amzn.to/4dNzsMD)*   
 This book offers extremely practical and golden advice on how to prime your mind for winning, whether in sports or other domains. While I didn't find the style of writing particularly engaging, the quality of the advice more than makes up for it. The book is packed with great tips that can help anyone develop a winning mindset. I took away a lot from this invaluable read and highly recommend it to anyone who wants to succeed.
 
+
+## The 12 Week Year   
+***Brian P. Moran and Michael Lennington***  
+[Get the book](https://amzn.to/3zPxXHb)  
+I found "The 12 Week Year" to be packed with practical advice that really makes a difference. The idea of setting goals and making plans for 12 weeks instead of 12 months is a game-changer—let’s be serious, those year-long goals often suck. The focus on personal accountability is especially powerful; it’s a reminder of how crucial it is to take responsibility for your progress. I highly recommend this book to anyone looking to improve their productivity and get real results in a shorter amount of time. I love applying this approach to my own life.
+
+
 ## The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life     
 ***Mark Manson***   
 [Get the book](https://amzn.to/3wHWdkj)   
