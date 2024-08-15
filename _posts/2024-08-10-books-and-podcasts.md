@@ -6,7 +6,6 @@ tags:
     - web-development
     - IT
     - personal-development
-    - sports
     - productivity
     - freelancing
     - competitive-sports
