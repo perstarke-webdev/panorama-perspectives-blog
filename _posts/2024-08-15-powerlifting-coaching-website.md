@@ -15,7 +15,7 @@ excerpt: "Instagram ist oft der erste Schritt, aber eine eigene Website bringt d
 ---
 
 
-Kraftsport seit 2014, Wettkampf-Powerlifting seit 2018, freiberuflich Webentwicklung seit 2021, Informatik-Fan seit gefühlt 1999 - da wird es ja mal Zeit, einen Blogpost über beides zusammen zu schreiben :D Es ist super schön zu sehen, wie der Sport wächst – mehr Athlet:innen, mehr coole Wettkämpfe, einfach mehr von allem! Aber mit dem Wachstum steigt auch die Zahl der Coaches. Und genau da kommt eine Coaching-Website ins Spiel: Sie hilft euch, in der Community nicht nur präsent zu sein, sondern wirklich herauszustechen.
+Kraftsport seit 2014, Wettkampf-Powerlifting seit 2018, freiberuflich Webentwicklung seit 2021, Informatik-Fan seit gefühlt 1999 - da wird es ja mal Zeit, einen Blogpost über beides zusammen zu schreiben :D Es ist super schön zu sehen, wie der Sport wächst – mehr Athlet:Innen, mehr coole Wettkämpfe, einfach mehr von allem! Aber mit dem Wachstum steigt auch die Zahl der Coaches. Und genau da kommt eine Coaching-Website ins Spiel: Sie hilft euch, in der Community nicht nur präsent zu sein, sondern wirklich herauszustechen.
 
 
 ## Warum eine Webseite als Powerlifting Coach / Coaching Team?
@@ -31,7 +31,7 @@ Außerdem macht eine Website das Leben für euch und alle, die euch kontaktieren
 
 ## Inhalt der Seite
 
-Eine gut strukturierte Website für Powerlifting Coaches sollte bestimmte Inhalte unbedingt enthalten, um potenzielle Klient:innen bestmöglich zu informieren und zu überzeugen.
+Eine gut strukturierte Website für Powerlifting Coaches sollte bestimmte Inhalte unbedingt enthalten, um potenzielle Klient:Innen bestmöglich zu informieren und zu überzeugen.
 
 #### Über mich / Über uns: 
 Stellt euch und euer Team vor. Erzählt von eurem Background im Powerlifting und hebt eure Qualifikationen hervor. Menschen wollen wissen, wer hinter dem Coaching steckt.
@@ -43,12 +43,12 @@ Beschreibt detailliert eure Coaching-Angebote. Ob Online-Coaching, Personal Trai
 Ein einfaches Kontaktformular, Links zu euren Social Media Profilen und eine Möglichkeit zur direkten Buchung von Erstgesprächen sollten auf keinen Fall fehlen.
 
 #### Optional:  
-Wenn ihr möchtet, könnt ihr auch **Erfolgsstories und Testimonials** von Athlet:innen integrieren, **häufig gestellte Fragen** in einer FAQ-Sektion beantworten oder in einem **Blog/News-Bereich** regelmäßig Updates und Artikel zu Powerlifting-Themen posten. Diese Inhalte können zusätzliches Vertrauen schaffen und eure Expertise unterstreichen.
+Wenn ihr möchtet, könnt ihr auch **Erfolgsstories und Testimonials** von Athlet:Innen integrieren, **häufig gestellte Fragen** in einer FAQ-Sektion beantworten oder in einem **Blog/News-Bereich** regelmäßig Updates und Artikel zu Powerlifting-Themen posten. Diese Inhalte können zusätzliches Vertrauen schaffen und eure Expertise unterstreichen.
 
 
 ## Design der Seite
 
-Das Design eurer Website sollte die Benutzerfreundlichkeit in den Vordergrund stellen. Eine intuitive Navigation und mobile Optimierung sind entscheidend – schließlich wollen die meisten Besucher:innen schnell und unkompliziert auf die gewünschten Infos zugreifen.
+Das Design eurer Website sollte die Benutzerfreundlichkeit in den Vordergrund stellen. Eine intuitive Navigation und mobile Optimierung sind entscheidend – schließlich wollen die meisten Besucher:Innen schnell und unkompliziert auf die gewünschten Infos zugreifen.
 
 Optisch bietet sich ein dunkles Farbschema an, um die Kraft und Energie des Powerliftings zu unterstreichen. Wettkampfbilder und Videos (gibt’s ja oftmals genug von, danke an [Whit3Media](https://www.instagram.com/whit3_media/) und [Dedicated Sports](https://www.instagram.com/dedicatedsports/) :D) eignen sich hervorragend, um eure Seite lebendig und ansprechend zu gestalten.
 
@@ -58,7 +58,7 @@ Ein einheitliches Farb- und Schriftkonzept passend zu eurem Branding (wenn ihr e
 
 ## Fazit
 
-Eine professionelle Website lohnt sich, um sich als Powerlifting Coach in der wachsenden Community abzuheben. Sie zeigt eure Seriosität, erhöht eure Sichtbarkeit und erleichtert die Kommunikation mit potenziellen Klient:innen.
+Eine professionelle Website lohnt sich, um sich als Powerlifting Coach in der wachsenden Community abzuheben. Sie zeigt eure Seriosität, erhöht eure Sichtbarkeit und erleichtert die Kommunikation mit potenziellen Klient:Innen.
 
 Ich durfte bereits mit mehreren Coaches und Teams zusammenarbeiten und würde mich freuen, auch mit dir zusammenzuarbeiten, wenn du magst! Wir können gerne ganz unverbindlich und kostenlos mal schreiben oder quatschen. Schau dir meine [Services](https://perstarke-webdev.de/services) an, und kontaktiere mich über [meine Kontaktseite](https://perstarke-webdev.de/contact). By the way: Es gibt auch eine Geld-zurück-Zufriedenheitsgarantie bei mir :)
 
