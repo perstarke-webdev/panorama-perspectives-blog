@@ -170,6 +170,12 @@ This thought-provoking read features a very straightforward style of writing, wh
 *"Influence"* was one of the most interesting books I've ever read, packed with tons of deep psychological insights. Robert Cialdini masterfully presents very illustrative and eye-opening examples throughout the book, making complex concepts easy to understand and apply. It's a compelling read that delves into the mechanics of persuasion and the subtle ways in which we can be influenced. Highly recommend this book for anyone interested in understanding the intricacies of human behavior and the art of persuasion. Additionally, it provides valuable information on using persuasion ethically and how to protect oneself against its misuse in advertising, sales, and other areas.
 
 
+## Learn Better: Mastering the Skills for Success in Life, Business, and School
+***Ulrich Boser***  
+[Get the book](https://amzn.to/4dK7VLp)  
+"Learn Better" by Ulrich Boser was a real eye-opener for me. It dives deep into how we can improve the way we learn, which is something most of us don't think about enough. Learning is such a crucial skill, but we often go about it in ineffective ways. Boser breaks down learning into simple, practical strategies that anyone can use. I found his tips on active engagement and the power of self-reflection especially helpful. It's not about working harder, but working smarter. This book is great for anyone who wants to learn better in any area of life—whether it's for school, work, or personal growth. Super useful!
+
+
 ## Level Up: Get Focused, Stop Procrastinating and Upgrade Your Life
 ***Rob Dial***   
 *[Get the book](https://amzn.to/49CC0K5)*  
