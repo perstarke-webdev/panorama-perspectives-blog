@@ -13,7 +13,7 @@ header:
     overlay_image: /images/photos/sydney-11.webp
     overlay_filter: rgba(0, 0, 0, 0.6)
 
-excerpt: "Ich kriege ja manchmal das Grauen, wenn ich Websites, Plakate oder Flyer sehe, bei denen der Text kaum lesbar ist oder Gelb und Lila direkt nebeneinander stehen. Farben haben einen enormen Einfluss auf die Wirkung einer Seite – und genau deshalb ist die bewusste Farbwahl bei jedem meiner Projekte so entscheidend. Sie sind nicht nur dekorativ, sondern spielen eine große Rolle dabei, wie Deine Website auf die Besucher:innen wirkt."
+excerpt: "Ich kriege ja manchmal das Grauen, wenn ich Websites, Plakate oder Flyer sehe, bei denen der Text kaum lesbar ist oder Gelb und Lila direkt nebeneinander stehen :D Farben haben einen enormen Einfluss auf die Wirkung einer Seite – und genau deshalb ist die bewusste Farbwahl bei jedem meiner Projekte so entscheidend. Sie sind nicht nur dekorativ, sondern spielen eine große Rolle dabei, wie Deine Website auf die Besucher:innen wirkt."
 
 ---
 
