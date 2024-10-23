@@ -19,7 +19,7 @@ excerpt: "Ich kriege ja manchmal das Grauen, wenn ich Websites, Plakate oder Fly
 
 ### Farben – der erste Eindruck zählt
 
-Farben sind das erste, was Besucher:innen von Deiner Website wahrnehmen. 
+Farben (neben Bildern) sind das erste, was Besucher:innen von Deiner Website wahrnehmen. 
 Sie können sofort Emotionen und Verbindungen auslösen. 
 Ein Beispiel aus dem Powerlifting: 
 Wenn Du auf einer Website die typischen **<span style="color: blue">Blau</span>- und <span style="color: red">Rottöne</span>** siehst, 
