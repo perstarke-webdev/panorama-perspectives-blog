@@ -60,3 +60,24 @@ I use car rides, walks, hikes, and even casual chats with friends or clients to 
 
 Taking my business seriously has been *transformational*. It’s no longer just something I do on the side – it’s something I actively design my life around. Treating it like it *matters* made it matter even more, and slowly but surely, it’s becoming exactly what I envisioned.
 
+
+### **3. Choosing My Channels and Staying Consistent**
+
+At one point, I thought about trying podcasting too. But the more I considered it, the more I realized: blogging and Instagram just make way more sense for me.
+
+For starters, I know my strengths. While I love the idea that you can learn anything, I also believe in playing to what comes naturally. Writing has always been my thing – I can express myself better and connect more clearly through words.
+
+Instagram is a no-brainer too. Powerlifting coaches and athletes (aka my main niche) are super active there, so it’s the perfect place to share my work, connect with people, and also show some of my personal side (which I’ve realized is just as important).
+
+And of course, as a web developer, my website has to be a reflection of what I can do. Over the past year, I’ve put a lot of work into making it a strong representation of both my professional skills and my personality. It’s where I can really showcase what makes me unique, share references, and send people to see exactly what I do. I’m proud of how it’s turned out – it’s my little digital home.
+
+Consistency is the secret ingredient here. I post at least once a week – usually twice – and I make sure it’s regular. To keep everything running smoothly, I’ve built a system that works for me:
+- A **Kanban board** keeps all my ideas and posts organized. I know exactly what’s in progress, what’s ready to go, and what’s still just an idea.
+- I’ve created structured processes to brainstorm, draft, and schedule posts. Random ideas that pop into my head go straight into my notes, so I always have something ready when it’s time to create.
+
+This approach has been such a game-changer. It’s helped me stay consistent, share content that feels meaningful, and position myself as approachable and passionate – not just about my work, but about connecting with others too.
+
+
+
+
+
