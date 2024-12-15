@@ -78,6 +78,25 @@ Consistency is the secret ingredient here. I post at least once a week – usual
 This approach has been such a game-changer. It’s helped me stay consistent, share content that feels meaningful, and position myself as approachable and passionate – not just about my work, but about connecting with others too.
 
 
+### **4. Sharing the Personal Side – It’s Not Just About Work**
+
+Another big change I made this year was integrating more of my personal side into my business content. I’ve always shared personal stuff – but only on my private Instagram account. This year, I brought that into my business account, my blog, and even my website.
+
+I started showing things like:
+- Where and how I work – whether it’s in cozy cafés, surrounded by nature, or on the go.
+- My powerlifting journey, which is such a huge part of my live. 
+- Small personal moments, like discovering the best vegan snacks or enjoying a great coffee.
+- My vision and passion for the work I do.
+
+Why? Because people connect with people, not just services. Sharing these parts of my life doesn’t just make my content more relatable – it makes my whole business feel more genuine.
+
+This approach has helped me build deeper connections with clients. Many have told me they reached out because they saw my values and personality align with theirs. 
+And it’s not just on Instagram or my blog; 
+my website now reflects this personal touch too, both in content and design.
+It’s not just about showcasing my work – it’s about showing who I am and what I stand for.
+
+By sharing more of my personal side, I’ve created a business that’s not just a job – it’s a true reflection of me.
+
 
 
 
