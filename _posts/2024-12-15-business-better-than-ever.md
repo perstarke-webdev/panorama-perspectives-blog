@@ -265,3 +265,23 @@ Learning so much hasn’t just made me better at what I do—it’s made me feel
 There’s still so much to dive into, and that’s exciting. I don’t see this as a phase but as a mindset I want to keep building on.
 
 
+
+### **11. Always More To Come**
+
+This year has been an incredible journey, but as I like to say: **#AlwaysMoreToCome**. Here’s a glimpse into what’s next for me and my business:
+
+- **A new big project**: I’m currently planning something that could bring even more value to all my past and future clients. Still working out the details, but I'll share the journey!
+- **Exciting collaborations and projects**: I want to keep working with amazing people on bigger, challenging, and rewarding client projects.
+- **Commitment to learning and delivering value**: I’ll stay focused on improving myself and my skills to provide the best results and support for my clients.
+- **Expanding into new niches**: Powerlifting coaches remain my main focus, but I’m planning to branch out into other sports niches, like CrossFit, and work with student startups or side-business founders.
+- **Refining what works**: Everything that went well this year—like my content strategy—I’ll keep doing and make even better.
+- **Balancing work and life in Sydney**: While studying abroad in Australia, I’m committed to growing my business *and* enjoying this once-in-a-lifetime experience to the fullest!
+
+#### **Looking Ahead**
+This year has taught me that with focus, consistency, and openness, incredible things are possible. I’m so excited to see where this journey takes me next.
+
+And finally, a big thank you for reading this chatty and reflective post! I hope sharing what I’ve learned and done this year inspires you to work on your own goals, improve your life, or simply try something new. Your time and attention mean the world to me—thank you so much! 😊
+
+Here’s to what’s next: **#AlwaysMoreToCome**!
+
+
