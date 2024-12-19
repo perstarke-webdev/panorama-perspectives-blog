@@ -35,8 +35,6 @@ The best part? I enjoy my work more than ever. I get to work remotely from anywh
 
 Is it enough to fully live off yet? Not quite – but if this growth continues, I’m confident it will be. And that’s an *incredibly* exciting thought. Knowing that this can work, that I can make this my main thing, motivates me to keep going and keep building.
 
-Here’s the draft for **Part 2: Treating It Like a Real Business**:
-
 
 
 ### **2. Treating It Like a Real Business**
@@ -137,5 +135,65 @@ Another key part of R&D is deciding what to measure. While revenue is an importa
 I review these metrics weekly, looking for trends over time. When I see improvements, I analyze what contributed to them and aim to replicate those strategies. If the numbers drop, I reflect on what could be done differently in the coming weeks.
 
 By building R&D into my regular workflow, I ensure I stay adaptable, efficient, and focused. It’s a practice that not only drives innovation but also keeps my business aligned with my goals and values.
+
+
+### **7. Refining Services and Defining a Clear Vision**
+
+A huge part of my growth this year has been taking a hard look at my services and asking myself one simple question: **“How can I bring more value to my clients?”** This focus on value has shaped how I refine existing offerings and develop new ones. At the same time, I’ve kept revenue in mind, ensuring that every service is a win/win—for my clients and for my business.
+
+#### **Building Clear, Flexible Offerings**
+One of the most significant changes I made was splitting my website services into distinct, clearly defined options tailored to different needs and budgets:
+- **Express Homepage (259€)**: For clients who need a professional website fast. Delivered within 72 hours.
+- **Standard Homepage (499€+)**: My most popular option, offering custom design at an affordable price while minimizing work for the client.
+- **Premium Homepage (999€+)**: For those who want a standout, highly detailed site. This service often includes complex features and personalization.
+- **Comfort Web Success Package (577€ for the first year, then 148€/year)**: A comprehensive solution designed to make the process as smooth and hands-off as possible for the client.
+
+Beyond these main services, I offer additional support like **website revisions, consulting, ongoing maintenance, social media announcements**, and more. Together, these options allow me to cater to a wide range of clients while keeping the focus on providing value.
+
+#### **Defining and Aligning with My Vision**
+Another key change this year was writing down my **vision statement**. I’ve always had a clear sense of what I love about my work, but putting it into words made it even clearer:  
+**I’m passionate about helping my clients focus on what matters most to them by taking the stress of website creation off their shoulders.**
+
+Getting crystal clear on my “why” has made a huge difference. This vision now serves as a guiding star for all my business decisions. It helps me align my services and actions with what I truly value—and also makes it easier to share my passion with potential clients.
+
+#### **Sharing My Vision**
+Sharing this vision has been a great way to connect with others. It’s now featured on my website’s “About Me” section, in my blog, and on Instagram. Not only does this help clients see what I stand for, but it also attracts the kind of people I love working with: passionate, driven individuals who appreciate my personal and professional approach.
+
+By refining my offerings and aligning my work with a clear vision, I’ve created a strong foundation that benefits both my clients and my business. This clarity has not only made my services more effective but has also made my work infinitely more fulfilling.
+
+
+
+
+### **8. Finding (and Expanding) My Niche**
+
+One of the most common pieces of advice for entrepreneurs is to “find your niche.” It might sound cliché, but truly zoning in on a niche has made an **enormous difference** for my business.
+
+#### **Starting with My Vision**
+After writing my vision statement, it became clear to me that I wanted to work with smaller businesses rather than large corporations. For big, wealthy companies, there are plenty of incredible web development agencies that deliver outstanding websites—but often at astronomical prices, sometimes exceeding €10,000.
+
+For smaller businesses or individuals, such prices simply aren’t feasible. Yet, these are the people I want to support. They deserve a stress-free, professional website without needing to navigate the complexity of building one themselves—because that distracts them from the work they care about and that drives their business forward.
+
+So, I focused on **attracting small businesses and individuals** who share my values and need affordable, high-quality websites. That was already a niche, but not unique enough to stand out in a crowded market.
+
+#### **Zooming In: Powerlifting**
+There are thousands of freelance web developers who target smaller businesses. Many don’t share the same vision I have—and yes, many of them (sorrynotsorry) produce shitty work (Some are amazing though!!). But even so, the competition in this market is enormous.
+
+So, I went one step further: I **focused on what I know, where I have connections, and where I’m part of the community.** That led me to powerlifting.
+
+Powerlifting is a growing sport with more and more coaches—many of whom could benefit from having their own website. By specializing in **websites for powerlifting coaches**, I made myself **100% unique in Germany.**
+
+If a powerlifting coach in Germany needs a website, chances are they’ll find me—because that’s my specialty. By narrowing my focus, I’ve positioned myself as an expert in a specific market. This approach has been one of the smartest decisions I’ve made in my business.
+
+#### **The Challenges of a Small Niche**
+Of course, such a specialized niche comes with challenges. The biggest drawback is its size—there are only so many powerlifting coaches in need of a website. The market is relatively small, which limits long-term growth.
+
+That’s why I’ve already started **expanding into other niches**. While powerlifting coaches remain my core focus and area of expertise, I’ve begun targeting:
+- **Other sports coaches**: CrossFit coaches are my top priority for next year as I expand my client base.
+- **Small businesses**: I’ve already worked with cafés, startups, and other freelancers—and I absolutely love these projects.
+
+#### **Balancing Expertise and Growth**
+I still believe in the power of being an expert in a niche. For now, powerlifting coaches remain my main focus and I view my work with other small businesses as complementary “add-ons” to my niche. Balancing these areas allows me to grow strategically while staying true to my vision of helping people focus on what truly matters to them.
+
+By specializing deeply while keeping room for expansion, I’ve built a solid foundation for both short-term and long-term success. This dual approach ensures I remain unique and highly valuable in my niche while also opening doors to exciting new opportunities.
 
 
