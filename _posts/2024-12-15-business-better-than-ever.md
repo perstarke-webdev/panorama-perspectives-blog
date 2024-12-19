@@ -1,7 +1,7 @@
 ---
 title: "How I 15x My Freelance Business in 2024 – and Transformed My Life Along the Way"
 layout: single
-permalink: /posts/business-better-than-ever
+permalink: /posts/how-i-grow-my-freelance-business
 
 toc: true
 toc_label: "Inhaltsverzeichnis"
