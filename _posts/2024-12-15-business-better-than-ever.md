@@ -105,7 +105,7 @@ Why? Because I’m not just delivering a website. I want to see my clients succe
 
 This also ties into another small, personal practice I started recently: sending handwritten and individually printed postcards to my clients after we’ve worked together. It’s a small gesture, but it means a lot to me. I truly appreciate their trust in me to support their vision, and taking the time to send a personal thank-you is one way to show that.
 
-These thoughtful actions – sharing their work, sending postcards, and scheduling regular check-ins to make sure their websites continue to serve them well – are all part of what I call "over-delivering." I don’t just deliver the website and walk away. I go the extra mile to support them, building stronger relationships that bring happiness on both sides.
+These thoughtful actions – sharing their work, sending postcards, and scheduling regular check-ins to make sure their websites continue to serve them well – are all part of what I call "**over-delivering**." I don’t just deliver the website and walk away. I go the extra mile to support them, building stronger relationships that bring happiness on both sides.
 
 Over-delivering isn’t just about business; it’s about care. And in the long run, it always pays off – for them and for me. Stronger business relationships mean more referrals, returning clients, and, most importantly, a sense of fulfillment.
 
