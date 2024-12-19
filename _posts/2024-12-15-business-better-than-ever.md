@@ -10,6 +10,7 @@ tags:
   - web-development
   - freelancing
   - productivity 
+  - personal-development
 header:
   overlay_image: /images/photos/sydney-1.webp
   overlay_filter: rgba(0, 0, 0, 0.6)
