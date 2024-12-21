@@ -26,6 +26,11 @@ excerpt: "All posts, sorted by release-date. You can check out the buttons below
         <i class="fa fa-tags"></i>
         {% for tag in post.tags %}
 
+            {% if tag == "building-an-online-community" %}
+            <a href="/building-an-online-community" class="community-color">
+                #building-an-online-community
+            </a>&nbsp;
+            {% endif %}
 
             {% if tag == "freelancing" %}
             <a href="/freelancing" class="freelancing-color">

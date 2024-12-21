@@ -29,6 +29,11 @@ excerpt: "Join me on my journey of personal development, which began in early 20
     <i class="fa fa-tags"></i>
     {% for tag in post.tags %}
 
+    {% if tag == "building-an-online-community" %}
+    <a href="/building-an-online-community" class="community-color">
+        #building-an-online-community
+    </a>&nbsp;
+    {% endif %}
 
     {% if tag == "freelancing" %}
     <a href="/freelancing" class="freelancing-color">
