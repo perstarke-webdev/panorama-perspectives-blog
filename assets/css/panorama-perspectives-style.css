@@ -8,6 +8,10 @@
     color: #177A8D !important; /* Teal */
 }
 
+.community-color {
+    color: #00CED1 !important; /* Light Aqua */
+}
+
 .freelancing-color {
     color: #483D8B !important; /* Dark Slate Blue */
 }
@@ -60,6 +64,19 @@
     color: white !important;
     background-color: #12676E; /* Slightly darker on hover */
     border-color: #0B3F4E; /* Slightly darker on hover */
+}
+
+.btn-community {
+    color: black !important;
+    background-color: #00CED1;
+    border: 2px solid #177A8D; /* Slightly darker than the inside */
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+.btn-community:hover {
+    color: black !important;
+    background-color: #14B8BB; /* Slightly darker than the original #00CED1 */
+    border-color: #0F8588; /* Slightly darker than the original border color #177A8D */
 }
 
 /* Freelancing Button */

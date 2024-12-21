@@ -1,20 +1,23 @@
 ---
-title: Posts about Other Topics
-layout: splash_other
-permalink: /other
+title: My Journey to Creating a Supportive Community for Freelancers & Small Business Owners
+layout: splash_community
+permalink: /building-an-online-community
 header:
-    overlay_image: /images/photos/sydney-4.webp
+    overlay_image: /images/photos/sydney-1.webp
     overlay_filter: rgba(0, 0, 0, 0.6)
     actions:
-        - label: "Check out all other posts"
-          url: "/posts"
+        - label: "Join my newsletter, stay updated, and share your thoughts!"
+          url: "https://perstarke-webdev.de/en/newsletter-signup"
+
+excerpt: "I’m starting to create a community for freelancers and small business owners to grow, connect, and thrive—and I’d love for you to follow along on this exciting journey! Stay posted with behind-the-scenes updates, share your thoughts, and get exclusive insights and practical tips for your own path.
+"
 ---
 
 {% assign posts = site.posts | sort: 'date' | reverse %}
 
 {% for post in posts %}
 
-    {% if post.tags contains 'other'%}
+    {% if post.tags contains 'building-an-online-community' %}
 
 <h3>
     <a href="{{ post.permalink }}"
@@ -87,6 +90,8 @@ header:
 <p>{{ post.excerpt }}</p>
 
     {% endif %}
+
+
 
 
 

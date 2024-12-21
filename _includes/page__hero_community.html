@@ -23,7 +23,7 @@
 >
   {% if page.header.overlay_color or page.header.overlay_image %}
     <div class="wrapper">
-      <h1 id="page-title" class="page__title" itemprop="headline">
+      <h1 id="page-title" class="page__title" itemprop="headline" style="  text-decoration: underline; text-decoration-color: #00CED1;">
         {% if paginator and site.paginate_show_page_num %}
           {{ site.title }}{% unless paginator.page == 1 %} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}
         {% else %}
@@ -49,14 +49,6 @@
           <a href="{{ action.url | relative_url }}" class="btn btn--light-outline btn--large">{{ action.label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
         {% endfor %}
       {% endif %}
-          <a href="/building-an-online-community" class="btn btn-community">Building an online community</a>
-          <a href="/freelancing" class="btn btn-freelancing">Freelancing</a>
-          <a href="/web-development" class="btn btn-web-dev">Web Development / IT</a>
-          <a href="/traveling" class="btn btn-travel">Traveling</a><br>
-          <a href="/productivity" class="btn btn-time-management">Productivity</a>
-          <a href="/personal-development" class="btn btn-personal-dev">Personal Development</a>
-          <a href="/competitive-sports" class="btn btn-sports">Competitive Sports</a>
-          <a href="/other" class="btn btn-other">Other</a>
     </div>
   {% else %}
     <img src="{{ page.header.image | relative_url }}" alt="{{ image_description }}" class="page__hero-image">
