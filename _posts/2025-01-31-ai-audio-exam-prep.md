@@ -9,6 +9,7 @@ toc_label: "Table of Contents"
 tags:
   - IT
   - productivity
+  - other
 header:
   overlay_image: /images/photos/sydney-1.webp
   overlay_filter: rgba(0, 0, 0, 0.6)

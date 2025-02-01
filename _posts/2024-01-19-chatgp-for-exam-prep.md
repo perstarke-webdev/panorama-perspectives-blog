@@ -5,6 +5,7 @@ layout: single
 tags:
   - IT
   - productivity
+  - other
 header:
   overlay_image: /images/photos/sydney-11.webp
   overlay_filter: rgba(0, 0, 0, 0.6)
