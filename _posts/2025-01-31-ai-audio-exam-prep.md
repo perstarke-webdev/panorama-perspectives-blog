@@ -407,7 +407,7 @@ It’s made the process **less stressful, way more effective, and even enjoyable
 
 I hope this method helps you, too! **Give it a try, and let me know how it works for you.**
 
-And of course—if ChatGPT throws in any hilarious jokes while generating your fun summaries, **drop them in the comments!** I’d love to hear them. 😆
+And of course—if ChatGPT throws in any hilarious jokes while generating your fun summaries, **share them!** I’d love to hear them. 😆
 
 Now go crush that exam. 🚀
 
