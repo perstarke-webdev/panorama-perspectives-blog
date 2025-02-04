@@ -156,7 +156,7 @@ Please create the **fun summary** for this lecture.
 
 
 ### Converting Summaries to Audio
-Once I have a summary, I use **TTSMaker** (a text-to-speech tool, pro version) to convert the text into an audio file. There are plenty of alternatives, but I found this one to be the easiest and most cost-effective.
+Once I have a summary, I use [**TTSMaker**](https://ttsmaker.com/) (a text-to-speech tool, pro version) to convert the text into an audio file. There are plenty of alternatives, but I found this one to be the easiest and most cost-effective.
 
 1. **Copy the summary** → paste it into the TTS tool → generate the audio.
 2. **Listen to the audio while reading along** to check for clarity and make small tweaks if needed, and to rehearse the concepts a first time.
