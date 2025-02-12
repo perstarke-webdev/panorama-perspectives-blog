@@ -4,7 +4,7 @@ layout: single
 permalink: /posts/how-i-grow-my-freelance-business
 
 toc: true
-toc_label: "Inhaltsverzeichnis"
+toc_label: "What's in this post"
 
 tags:
   - web-development
