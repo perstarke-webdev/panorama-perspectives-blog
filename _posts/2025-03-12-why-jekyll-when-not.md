@@ -1,0 +1,151 @@
+---
+title: "Why I Use Jekyll for Custom, Cost-Effective Web Development (And When It’s Not the Right Choice)"
+layout: single
+permalink: /posts/why-jekyll-and-when-not
+
+toc: true
+toc_label: "Table of Contents"
+
+tags:
+  - web-development
+  - IT
+  - freelancing
+header:
+  overlay_image: /images/photos/sydney2025-1.webp
+  overlay_filter: rgba(0, 0, 0, 0.6)
+
+excerpt: "Jekyll is one of my favorite tools for building fast, secure, and cost-effective websites. But it's not always the best choice. In this post, I break down when Jekyll shines for web development—and when another solution is better."
+
+---
+
+## Introduction
+
+When I started my web development business, Jekyll was my tool of choice. I wanted a way to build fast, secure, and customizable websites without unnecessary complexity. Over the past few years—especially in the last 15 months—things have taken off. I’ve worked with over 30 clients across different industries, refining my workflow and testing different tools along the way.
+
+Through all of that, Jekyll has remained one of my go-to solutions. It helps me streamline my development process, deliver affordable, high-performance websites, and create custom designs without bloated platforms.
+
+That said, Jekyll isn’t always the right choice. Some projects require more dynamic features, and in those cases, I turn to other tools.
+
+In this post, I’ll share:
+
+- Why I use Jekyll for many client projects
+- When it’s the best choice—and when it’s not
+- How it fits into my web development workflow
+
+If you're a business owner, freelancer, or developer looking for cost-effective, high-performance websites, this guide will help you understand when Jekyll makes sense—and when to use something else.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2️⃣ Why Jekyll Is My Go-To for Many Projects
+🔹 1. Free, Cost-Effective Hosting
+GitHub Pages, Netlify, Vercel, and others offer free hosting.
+No monthly platform fees like WordPress or Webflow.
+No maintenance costs → No server, database, or CMS updates needed.
+🔹 2. Speed & Performance
+Pre-generated HTML = ultra-fast load times.
+No database queries → Pages are instantly available.
+SEO boost → Google favors fast-loading, static websites.
+Easy CDN integration for global performance optimization.
+🔹 3. Security & Reliability
+No database = fewer security risks (compared to WordPress vulnerabilities).
+No server-side code → Eliminates risks like SQL injection, plugin exploits, and brute force attacks.
+Peace of mind for clients → No unexpected security patches or hacks.
+🔹 4. Full Control & Customization
+Direct access to HTML, CSS, and JS → No restrictive CMS themes.
+Liquid template language allows modular, reusable components.
+🔹 5. Efficient, Templatized Development for Affordable, High-Quality Websites
+Allows me to develop high-quality homepages quickly, at an affordable price.
+Perfect for small businesses that need a great-looking, custom site without high costs.
+Use of pre-built templates accelerates development, but each project is still custom-branded.
+Templatized but flexible approach:
+Clients get a fully responsive, well-designed website without needing a custom-coded solution.
+Easier iterations and future updates since the structure is well-organized.
+Costs stay low while ensuring professional aesthetics and performance.
+Jekyll themes (like Minimal Mistakes) can be customized to fit specific needs, or I create my own reusable components.
+Enables ultra-fast turnarounds → Clients get a site quickly, without sacrificing quality.
+🔹 6. Ideal for Content-Centric Websites
+Markdown-powered blogging & easy content structuring.
+Perfect for small business websites, documentation sites, and personal blogs.
+Clients can update content via GitHub or CMS integrations like Netlify CMS.
+🔹 7. Efficient Developer Workflow
+Git-based version control → Rollbacks and collaboration are seamless.
+Easy local development → Works well with Docker & CI/CD pipelines.
+Preview live changes on test domains before launch.
+3️⃣ When Jekyll Is Not the Right Choice
+❌ 1. When Clients Need a Fully Dynamic Website
+No built-in user authentication, real-time updates, or live interactions.
+E-commerce limitations → Needs third-party tools like Snipcart or Shopify Buy Button.
+Alternatives: Next.js, WordPress, or custom React-based solutions.
+❌ 2. When Clients Need a WYSIWYG CMS
+No built-in content management system (CMS) → Content changes require Markdown & Git.
+Non-technical clients may struggle to edit content.
+Alternatives: Webflow, WordPress, or a headless CMS like Contentful.
+❌ 3. When Scaling Becomes an Issue
+Large sites (1,000+ pages) = Slow build times.
+Frequent content updates require full site rebuilds → Not efficient for news sites or high-traffic blogs.
+Alternatives: Hugo (faster builds), Next.js (hybrid static/dynamic).
+❌ 4. When Clients Want Custom Web Applications or Highly Complex Designs
+No built-in backend/database for storing user-generated content.
+Limited interactivity → Needs external APIs for advanced features.
+Fully custom, highly interactive, or animation-heavy designs are possible but require a lot of manual coding and workarounds.
+Alternatives: React.js (for interactive components), Webflow (for no-code/low-code custom layouts), or full frameworks like Django/Laravel for large-scale applications.
+4️⃣ Workarounds & Customization Strategies for Jekyll
+🔹 1. Making Jekyll More Client-Friendly
+Use headless CMS solutions (Netlify CMS, Forestry, Contentful) for a user-friendly editor.
+Editable sections for clients:
+Clients can update news, blog posts, and announcements easily in Markdown.
+Jekyll templates can be configured for specific sections clients need control over.
+🔹 2. Customizing Jekyll Beyond Its Intended Use
+Handling different layouts per page:
+Most Jekyll themes (like Minimal Mistakes) are designed for uniform layouts.
+If a project requires completely different layouts for subpages, duplicate layout files and assign them via front matter.
+Advanced customization:
+Modify theme includes, Liquid templates, and CSS to allow more unique page variations.
+Use specific layout trackers to differentiate designs per section.
+🔹 3. Extending Jekyll with External Tools
+Forms: Use Formspree, Formspark, Netlify Forms, or similar for form handling.
+Search: Implement Algolia or JavaScript-based search (Minimal Mistakes theme already includes this).
+E-commerce: Use Snipcart, Shopify Buy Button, or Stripe for payments.
+Comments & User Interaction: Add Disqus, Staticman, or Commento for blog discussions.
+5️⃣ Best Use Cases for Jekyll
+✔ Blogs & Developer Blogs → Simple Markdown-based writing & publishing.
+✔ Portfolio & Personal Branding Sites → Fast, lightweight, easy to manage.
+✔ Company Websites with Mostly Static Content → Great for startups, small businesses.
+✔ Documentation Websites → API docs, manuals, and knowledge bases.
+✔ Marketing Landing Pages → SEO-friendly, blazing fast lead capture pages.
+
+6️⃣ Alternatives Depending on the Use Case
+💡 For large-scale static sites → Hugo (faster builds).
+💡 For hybrid static & dynamic features → Next.js, Astro.
+💡 For easy client content updates → WordPress, Webflow, Contentful.
+💡 For full interactivity & web apps → React, Django, Laravel, Strapi.
+💡 For e-commerce → Shopify, Snipcart, WooCommerce.
+
+7️⃣ Conclusion: Is Jekyll Right for Your Project?
+If you need fast, secure, and cost-effective websites, Jekyll is a great choice.
+If your project requires user interactivity, easy content updates (other than blog posts), or heavy dynamic features, alternatives may be better.
+Jekyll remains a powerful tool for developers who value efficiency, security, and low maintenance.
+🚀 Need help choosing the right platform? Let’s chat about whether Jekyll is the best fit for your website!
