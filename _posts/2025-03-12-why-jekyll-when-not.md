@@ -52,6 +52,29 @@ For smaller businesses, freelancers, or individuals with limited budgets, this h
 
 While I’m expanding into working with larger businesses as well, affordability remains a key factor for many of my clients. Jekyll allows me to offer high-quality websites without locking them into expensive long-term costs.
 
+### Speed & Performance
+
+Jekyll’s biggest advantage in performance comes from the fact that it pre-generates every page as static HTML. Unlike database-driven websites that build pages dynamically each time a visitor loads them, Jekyll sites are already fully rendered and ready to go. This means:
+
+- **Ultra-fast load times** – Since there’s no database to query or backend logic to process, pages load almost instantly.
+- **Better SEO** – Google favors fast websites, and speed directly impacts search rankings. A Jekyll site has a natural advantage over heavier platforms that rely on real-time content generation.
+- **Lower server load** – With fewer moving parts, Jekyll sites can handle high traffic effortlessly. There’s no need for caching plugins or performance optimizations just to keep the site running smoothly.
+- **Seamless CDN integration** – Jekyll sites work well with content delivery networks (CDNs), ensuring fast load times worldwide. Since the site is already static, distributing it across global servers is simple and highly effective.
+
+For clients, this speed boost means a better user experience, higher engagement, and in many cases, better conversion rates. A slow-loading website can drive visitors away, while a snappy, responsive one helps keep them engaged.
+
+
+### Security & Reliability
+
+One of the biggest risks with database-driven websites is security. Platforms like WordPress rely on a backend, user authentication, and third-party plugins—all of which can introduce vulnerabilities if not properly maintained. Jekyll, on the other hand, removes many of these risks by eliminating the need for a database or server-side processing.
+
+- **Fewer security risks** – No database means no exposure to SQL injection attacks or unauthorized data access.
+- **No server-side code** – Since Jekyll sites are static, there are no exploitable backend scripts or plugin vulnerabilities.
+- **Peace of mind** – No need for constant security patches, reducing the risk of website hacks or unexpected maintenance issues.
+
+A great example of this came from a client who had his website on WordPress but ran into **security issues, including data breaches**. He liked the design of his site but was tired of the maintenance and security concerns. I rebuilt his website in Jekyll, keeping the same look and feel, while improving responsiveness and user experience. The result? A faster, safer, and more reliable site—without the security headaches he previously dealt with.
+
+For businesses that don’t need frequent backend updates or user authentication, Jekyll offers a **simple, secure alternative** that removes many of the common risks of traditional CMS platforms.
 
 
 
@@ -69,20 +92,6 @@ While I’m expanding into working with larger businesses as well, affordability
 
 
 
-
-
-
-
-2️⃣ Why Jekyll Is My Go-To for Many Projects
-🔹 1. Free, Cost-Effective Hosting
-GitHub Pages, Netlify, Vercel, and others offer free hosting.
-No monthly platform fees like WordPress or Webflow.
-No maintenance costs → No server, database, or CMS updates needed.
-🔹 2. Speed & Performance
-Pre-generated HTML = ultra-fast load times.
-No database queries → Pages are instantly available.
-SEO boost → Google favors fast-loading, static websites.
-Easy CDN integration for global performance optimization.
 🔹 3. Security & Reliability
 No database = fewer security risks (compared to WordPress vulnerabilities).
 No server-side code → Eliminates risks like SQL injection, plugin exploits, and brute force attacks.
