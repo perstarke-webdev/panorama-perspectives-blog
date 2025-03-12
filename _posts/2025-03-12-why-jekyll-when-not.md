@@ -113,6 +113,16 @@ For clients, this system offers several benefits:
 I haven’t used Netlify CMS in a project yet, but I’m currently starting a new project where I’ll most likely implement it for the first time—something I’m really excited about. This will make content updates even easier for clients who prefer a non-technical interface, while still keeping the advantages of Jekyll’s speed and simplicity.
 
 
+### Efficient Developer Workflow
+
+Jekyll integrates seamlessly with **Git-based version control**, making development more flexible, organized, and risk-free. Whether working solo or collaborating with another developer, Git ensures that every change is tracked and reversible—something that’s much harder to manage on platforms like WordPress or Squarespace.
+
+- **Version control & rollbacks** – There have been times, especially early on, when I experimented with a design idea and completely messed things up (if you're a developer, you know the feeling 😆). With Git, which works perfectly with Jekyll, I can simply revert to a previous version and start fresh without losing anything.
+- **Seamless collaboration** – When working with other developers, Git allows us to make changes in parallel without worrying about overwriting each other’s work—unlike platforms like WordPress or Squarespace, where simultaneous edits can cause conflicts.
+- **Easy local development** – I love deploying Jekyll in a Docker environment, allowing me to preview changes instantly on my local machine before pushing anything live. This makes testing and refining the site much faster and more reliable.
+- **Preview live changes before launch** – Since Jekyll builds static files, it’s easy to set up test domains or local previews so clients can see the site before going live, without affecting the production version.
+
+These features make Jekyll a **developer-friendly platform** that encourages risk-free experimentation, smooth teamwork, and a structured workflow. 
 
 
 
@@ -125,11 +135,6 @@ I haven’t used Netlify CMS in a project yet, but I’m currently starting a ne
 
 
 
-
-🔹 7. Efficient Developer Workflow
-Git-based version control → Rollbacks and collaboration are seamless.
-Easy local development → Works well with Docker & CI/CD pipelines.
-Preview live changes on test domains before launch.
 3️⃣ When Jekyll Is Not the Right Choice
 ❌ 1. When Clients Need a Fully Dynamic Website
 No built-in user authentication, real-time updates, or live interactions.
