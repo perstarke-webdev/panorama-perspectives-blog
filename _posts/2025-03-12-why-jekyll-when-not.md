@@ -76,6 +76,41 @@ A great example of this came from a client who had his website on WordPress but 
 
 For businesses that don’t need frequent backend updates or user authentication, Jekyll offers a **simple, secure alternative** that removes many of the common risks of traditional CMS platforms.
 
+### Full Control & Customization
+
+Many CMS platforms offer customization, but they often come with limitations—locked-down themes, rigid templates, or complex plugin dependencies. With Jekyll, customization is straightforward because I can **edit the HTML, CSS, and JavaScript directly**. There’s no need to work around theme restrictions—every part of the site is accessible and fully adjustable.
+
+Jekyll also uses **Liquid**, a templating language that makes it easier to structure content dynamically. Instead of repeating the same HTML code across multiple pages, I can create **reusable components** for headers, footers, or blog post previews. Liquid allows me to insert dynamic content, loop through lists (like blog posts or project portfolios), and conditionally display elements—without needing a database or backend scripting.
+
+And on a personal note—it’s just more fun to write code than to drag and drop elements around. 😆
+
+### Efficient, Templatized Development for Affordable, High-Quality Websites
+
+Jekyll allows for **theme-based development**, making it possible to build high-quality websites quickly while keeping costs low for clients. Themes like [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) and [OneFlow](https://oneflow-jekyll-theme.github.io/)(which is a theme I build myself and use for many projects) provide a strong foundation with pre-built components such as navigation menus, content boxes, notices, galleries, and typography styles. These reusable elements help structure the site efficiently while still allowing for complete customization.
+
+Unlike many CMS platforms where themes can be restrictive, Jekyll gives full access to all theme files, including CSS, JavaScript, and Liquid templates. This means I can adjust everything—from layout structure to interactive elements—while still benefiting from the efficiency of a theme-based workflow. Each page can also include fully custom elements/code, making it easy to tailor the design to a client’s brand and needs.
+
+- **Faster development with templates** – By starting with a structured theme instead of coding everything from scratch, I can build websites much faster, which means lower costs for clients.
+- **Affordable but custom** – Clients get a well-designed, responsive website without paying for a fully custom-coded solution. The structure is efficient, but every project is still unique.
+- **Easy future updates** – Since the codebase is clean and modular, making changes later is simple, allowing businesses to expand their site without a full rebuild.
+- **Fast turnaround without sacrificing quality** – With structured themes and reusable components, I can deliver high-quality websites quickly while maintaining performance, security, and scalability.
+
+This approach has been a key factor in my business success. By streamlining my development like this, I can offer **affordable, high-quality websites** due to the efficiency of the process.
+
+### Ideal for Content-Centric Websites
+
+Jekyll is an excellent choice for **content-driven websites**, whether they focus on text, images, or a mix of both. It works well for sites that need frequent updates, like blogs and documentation pages, but is also great for simple business websites that don’t require constant changes.
+
+I use Jekyll myself for my **Panorama Perspectives blog ([blog.perstarke-webdev.de](https://blog.perstarke-webdev.de/))**, built with the Minimal Mistakes theme. Writing new content is as easy as creating a Markdown file, pushing it to Git, and the website updates automatically.
+
+For clients, this system offers several benefits:
+
+- **Simple content management** – Markdown makes formatting easy without requiring technical skills. Clients can edit or add content without touching complex HTML or code.
+- **No costly CMS subscriptions** – Unlike WordPress, Squarespace, or similar platforms, Jekyll doesn’t require monthly fees for content management. Clients can publish content for free.
+- **Great for static or frequently updated sites** – Jekyll works just as well for businesses that only need a simple, well-designed site with no ongoing updates, as it does for blogs or documentation pages that require regular content changes.
+- **Options for even easier editing** – If a client needs a more user-friendly editing experience, I can integrate a tool like Netlify CMS, which provides a simple web-based interface for updating content—without needing direct access to the code or files.
+
+I haven’t used Netlify CMS in a project yet, but I’m currently starting a new project where I’ll most likely implement it for the first time—something I’m really excited about. This will make content updates even easier for clients who prefer a non-technical interface, while still keeping the advantages of Jekyll’s speed and simplicity.
 
 
 
@@ -91,28 +126,6 @@ For businesses that don’t need frequent backend updates or user authentication
 
 
 
-
-🔹 3. Security & Reliability
-No database = fewer security risks (compared to WordPress vulnerabilities).
-No server-side code → Eliminates risks like SQL injection, plugin exploits, and brute force attacks.
-Peace of mind for clients → No unexpected security patches or hacks.
-🔹 4. Full Control & Customization
-Direct access to HTML, CSS, and JS → No restrictive CMS themes.
-Liquid template language allows modular, reusable components.
-🔹 5. Efficient, Templatized Development for Affordable, High-Quality Websites
-Allows me to develop high-quality homepages quickly, at an affordable price.
-Perfect for small businesses that need a great-looking, custom site without high costs.
-Use of pre-built templates accelerates development, but each project is still custom-branded.
-Templatized but flexible approach:
-Clients get a fully responsive, well-designed website without needing a custom-coded solution.
-Easier iterations and future updates since the structure is well-organized.
-Costs stay low while ensuring professional aesthetics and performance.
-Jekyll themes (like Minimal Mistakes) can be customized to fit specific needs, or I create my own reusable components.
-Enables ultra-fast turnarounds → Clients get a site quickly, without sacrificing quality.
-🔹 6. Ideal for Content-Centric Websites
-Markdown-powered blogging & easy content structuring.
-Perfect for small business websites, documentation sites, and personal blogs.
-Clients can update content via GitHub or CMS integrations like Netlify CMS.
 🔹 7. Efficient Developer Workflow
 Git-based version control → Rollbacks and collaboration are seamless.
 Easy local development → Works well with Docker & CI/CD pipelines.
