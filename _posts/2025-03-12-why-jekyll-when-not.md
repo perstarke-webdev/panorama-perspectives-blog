@@ -34,6 +34,10 @@ In this post, I’ll share:
 
 If you're a business owner, freelancer, or developer looking for cost-effective, high-performance websites, this guide will help you understand when Jekyll makes sense—and when to use something else.
 
+<div class="notice--success">
+This is a deep dive—so grab a coffee, find a chill spot, and enjoy reading! 🚀
+</div>
+
 ## A Quick Detour: What is Jekyll?
 
 Jekyll is a tool that builds websites as simple, static files instead of relying on a database-driven system like WordPress. Instead of generating pages dynamically on each visit, Jekyll pre-builds the entire site in advance, turning content written in Markdown, HTML, CSS, and JavaScript into a fully functional website that is fast, secure, and easy to host.
@@ -72,7 +76,12 @@ One of the biggest risks with database-driven websites is security. Platforms li
 - **No server-side code** – Since Jekyll sites are static, there are no exploitable backend scripts or plugin vulnerabilities.
 - **Peace of mind** – No need for constant security patches, reducing the risk of website hacks or unexpected maintenance issues.
 
-A great example of this came from a client who had his website on WordPress but ran into **security issues, including data breaches**. He liked the design of his site but was tired of the maintenance and security concerns. I rebuilt his website in Jekyll, keeping the same look and feel, while improving responsiveness and user experience. The result? A faster, safer, and more reliable site—without the security headaches he previously dealt with.
+<div class="notice--danger">
+A great example of this came from a client who had his website on WordPress but ran into security issues, including data breaches. He liked the design of his site but was tired of the maintenance and security concerns.
+</div>
+<div class="notice--success">
+I rebuilt his website in Jekyll, keeping the same look and feel, while improving responsiveness and user experience. The result? A faster, safer, and more reliable site—without the security headaches he previously dealt with.
+</div>
 
 For businesses that don’t need frequent backend updates or user authentication, Jekyll offers a **simple, secure alternative** that removes many of the common risks of traditional CMS platforms.
 
@@ -82,7 +91,9 @@ Many CMS platforms offer customization, but they often come with limitations—l
 
 Jekyll also uses **Liquid**, a templating language that makes it easier to structure content dynamically. Instead of repeating the same HTML code across multiple pages, I can create **reusable components** for headers, footers, or blog post previews. Liquid allows me to insert dynamic content, loop through lists (like blog posts or project portfolios), and conditionally display elements—without needing a database or backend scripting.
 
+<div class="notice--success">
 And on a personal note—it’s just more fun to write code than to drag and drop elements around. 😆
+</div>
 
 ### Efficient, Templatized Development for Affordable, High-Quality Websites
 
@@ -95,7 +106,9 @@ Unlike many CMS platforms where themes can be restrictive, Jekyll gives full acc
 - **Easy future updates** – Since the codebase is clean and modular, making changes later is simple, allowing businesses to expand their site without a full rebuild.
 - **Fast turnaround without sacrificing quality** – With structured themes and reusable components, I can deliver high-quality websites quickly while maintaining performance, security, and scalability.
 
-This approach has been a key factor in my business success. By streamlining my development like this, I can offer **affordable, high-quality websites** due to the efficiency of the process.
+<div class="notice--info">
+This approach has been a key factor in my business success. By streamlining my development like this, I can offer affordable, high-quality websites due to the efficiency of the process.
+</div>
 
 ### Ideal for Content-Centric Websites
 
@@ -110,7 +123,9 @@ For clients, this system offers several benefits:
 - **Great for static or frequently updated sites** – Jekyll works just as well for businesses that only need a simple, well-designed site with no ongoing updates, as it does for blogs or documentation pages that require regular content changes.
 - **Options for even easier editing** – If a client needs a more user-friendly editing experience, I can integrate a tool like Netlify CMS, which provides a simple web-based interface for updating content—without needing direct access to the code or files.
 
+<div class="notice--warning">
 I haven’t used Netlify CMS in a project yet, but I’m currently starting a new project where I’ll most likely implement it for the first time—something I’m really excited about. This will make content updates even easier for clients who prefer a non-technical interface, while still keeping the advantages of Jekyll’s speed and simplicity.
+</div>
 
 
 ### Efficient Developer Workflow
