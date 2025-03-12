@@ -34,9 +34,23 @@ In this post, I’ll share:
 
 If you're a business owner, freelancer, or developer looking for cost-effective, high-performance websites, this guide will help you understand when Jekyll makes sense—and when to use something else.
 
+## A Quick Detour: What is Jekyll?
 
+Jekyll is a tool that builds websites as simple, static files instead of relying on a database-driven system like WordPress. Instead of generating pages dynamically on each visit, Jekyll pre-builds the entire site in advance, turning content written in Markdown, HTML, CSS, and JavaScript into a fully functional website that is fast, secure, and easy to host.
 
+Originally created for GitHub Pages, Jekyll works well with Git, a version control and collaboration tool widely used in IT projects, making it easy to update and deploy changes. It’s built with Ruby and uses Liquid templates to create reusable layouts and dynamic content without needing a backend.
 
+Since everything is pre-built before the site goes live, Jekyll sites load quickly, work well with content delivery networks for global performance, and don’t require ongoing maintenance. Jekyll sites can be hosted for free on platforms like GitHub Pages, Netlify, and Vercel, keeping costs low.
+
+## Why Jekyll Is My Go-To for Many Projects
+
+### Free, Cost-Effective Hosting
+
+One of the biggest advantages of Jekyll is that it eliminates ongoing hosting costs. Websites built with Jekyll can be hosted for free on platforms like GitHub Pages, Netlify, or Vercel, meaning clients only need to pay for a domain. There are no monthly platform fees like with WordPress, Webflow, or other hosted solutions, and no maintenance costs for server updates or security patches.
+
+For smaller businesses, freelancers, or individuals with limited budgets, this has been a game-changer. Many of my clients were expecting ongoing fees for hosting and CMS subscriptions, and they were extremely happy to realize that their website could run at zero cost. This has been especially valuable for those just starting out, where every dollar saved matters.
+
+While I’m expanding into working with larger businesses as well, affordability remains a key factor for many of my clients. Jekyll allows me to offer high-quality websites without locking them into expensive long-term costs.
 
 
 
