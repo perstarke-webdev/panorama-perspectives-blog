@@ -222,8 +222,11 @@ Use specific layout trackers to differentiate designs per section.
 🔹 3. Extending Jekyll with External Tools
 Forms: Use Formspree, Formspark, Netlify Forms, or similar for form handling.
 Search: Implement Algolia or JavaScript-based search (Minimal Mistakes theme already includes this).
+Tailwind, gsap also can be mentioned here again for styling
+tools like sociablekit, although I'm not the biggest fan of this one because they come with some limiations and problems, can integrate social media feeds easily. Still have used those and actually use it on ym own website as well, desite its limitaions it can work well!
 E-commerce: Use Snipcart, Shopify Buy Button, or Stripe for payments.
 Comments & User Interaction: Add Disqus, Staticman, or Commento for blog discussions.
+
 5️⃣ Best Use Cases for Jekyll
 ✔ Blogs & Developer Blogs → Simple Markdown-based writing & publishing.
 ✔ Portfolio & Personal Branding Sites → Fast, lightweight, easy to manage.
@@ -231,15 +234,8 @@ Comments & User Interaction: Add Disqus, Staticman, or Commento for blog discuss
 ✔ Documentation Websites → API docs, manuals, and knowledge bases.
 ✔ Marketing Landing Pages → SEO-friendly, blazing fast lead capture pages.
 
-6️⃣ Alternatives Depending on the Use Case
-💡 For large-scale static sites → Hugo (faster builds).
-💡 For hybrid static & dynamic features → Next.js, Astro.
-💡 For easy client content updates → WordPress, Webflow, Contentful.
-💡 For full interactivity & web apps → React, Django, Laravel, Strapi.
-💡 For e-commerce → Shopify, Snipcart, WooCommerce.
 
 7️⃣ Conclusion: Is Jekyll Right for Your Project?
 If you need fast, secure, and cost-effective websites, Jekyll is a great choice.
 If your project requires user interactivity, easy content updates (other than blog posts), or heavy dynamic features, alternatives may be better.
 Jekyll remains a powerful tool for developers who value efficiency, security, and low maintenance.
-🚀 Need help choosing the right platform? Let’s chat about whether Jekyll is the best fit for your website!
