@@ -170,6 +170,7 @@ For clients who need an **easy-to-use CMS**, I typically recommend:
 
 - **Webflow** – A visual builder with CMS functionality, great for clients who want full design and content control.
 - **WordPress** – A widely used CMS with a familiar editing interface and a large plugin ecosystem.
+- **SquareSpace** – A simple yet relatively powerful DIY tool.
 - **Netlify CMS (or other headless CMS solutions)** – A **headless CMS** provides a content management interface without being tied to a specific frontend. It allows clients to edit content in a user-friendly dashboard, while Jekyll pulls in the content during site builds. This keeps the website fast and secure while making content updates easier, and can also be used in combination with Jekyll.
 
 ### When Scaling Becomes an Issue
@@ -206,36 +207,119 @@ That said, Jekyll can still be extended with modern front-end tools to improve s
 Jekyll can handle custom designs, but if a project requires extensive interactivity or unconventional layouts, modern front-end frameworks or design-focused tools are often more efficient. However, for Jekyll-based projects, Tailwind CSS and GSAP are great additions that enhance styling and animation while keeping the site lightweight and fast.
 
 
-4️⃣ Workarounds & Customization Strategies for Jekyll
-🔹 1. Making Jekyll More Client-Friendly
-Use headless CMS solutions (Netlify CMS, Forestry, Contentful) for a user-friendly editor.
-Editable sections for clients:
-Clients can update news, blog posts, and announcements easily in Markdown.
-Jekyll templates can be configured for specific sections clients need control over.
-🔹 2. Customizing Jekyll Beyond Its Intended Use
-Handling different layouts per page:
-Most Jekyll themes (like Minimal Mistakes) are designed for uniform layouts.
-If a project requires completely different layouts for subpages, duplicate layout files and assign them via front matter.
-Advanced customization:
-Modify theme includes, Liquid templates, and CSS to allow more unique page variations.
-Use specific layout trackers to differentiate designs per section.
-🔹 3. Extending Jekyll with External Tools
-Forms: Use Formspree, Formspark, Netlify Forms, or similar for form handling.
-Search: Implement Algolia or JavaScript-based search (Minimal Mistakes theme already includes this).
-Tailwind, gsap also can be mentioned here again for styling
-tools like sociablekit, although I'm not the biggest fan of this one because they come with some limiations and problems, can integrate social media feeds easily. Still have used those and actually use it on ym own website as well, desite its limitaions it can work well!
-E-commerce: Use Snipcart, Shopify Buy Button, or Stripe for payments.
-Comments & User Interaction: Add Disqus, Staticman, or Commento for blog discussions.
-
-5️⃣ Best Use Cases for Jekyll
-✔ Blogs & Developer Blogs → Simple Markdown-based writing & publishing.
-✔ Portfolio & Personal Branding Sites → Fast, lightweight, easy to manage.
-✔ Company Websites with Mostly Static Content → Great for startups, small businesses.
-✔ Documentation Websites → API docs, manuals, and knowledge bases.
-✔ Marketing Landing Pages → SEO-friendly, blazing fast lead capture pages.
 
 
-7️⃣ Conclusion: Is Jekyll Right for Your Project?
-If you need fast, secure, and cost-effective websites, Jekyll is a great choice.
-If your project requires user interactivity, easy content updates (other than blog posts), or heavy dynamic features, alternatives may be better.
-Jekyll remains a powerful tool for developers who value efficiency, security, and low maintenance.
+## Workarounds & Customization Strategies for Jekyll
+
+### Making Jekyll More Client-Friendly
+
+Jekyll is developer-friendly by default, but with some adjustments, it can also work well for clients who want to update their content without touching code. While Jekyll doesn’t have a built-in CMS, there are a few strategies to make content management easier:
+
+- **Use a headless CMS** – Services like Netlify CMS, Forestry, or Contentful provide a web-based editor where clients can manage content without accessing the code directly. These tools integrate with Jekyll and allow for easier updates while keeping the site static and fast.
+- **Editable sections within Jekyll’s `include` folder** – Instead of limiting content editing to blog posts, specific sections of a Jekyll site can be made editable using Markdown. By structuring content inside the `include` folder and referencing these files in the layout, clients can easily update **news, announcements, or other key areas** without modifying the site’s structure.
+- **Guided GitHub workflow** – With a short introduction to GitHub’s user interface, many clients can manage basic content updates themselves. Since Jekyll works seamlessly with Git, they can edit Markdown files directly in the GitHub repository, commit changes, and see the site update automatically.
+
+These workarounds allow clients to have more control over their content without needing a full CMS, keeping Jekyll’s efficiency and simplicity while making updates more accessible.
+
+
+### Customizing Jekyll Beyond Its Intended Use
+
+Jekyll is designed for structured, template-based websites. However, some projects require more flexible, custom designs—like pages with completely different hero sections, alternate footers, special landing pages without navigation, or multilingual setups. While these features aren't available "out of the box," Jekyll still makes them possible with just a few customizations.
+
+Here’s exactly how I handle such cases clearly and efficiently:
+
+#### Creating Custom Layouts for Specific Page Types
+
+In standard Jekyll themes (such as [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)), all pages typically share the same layout (e.g., `default.html`). If a project demands unique designs or layouts per page, I take the following steps:
+
+**1. Create custom components (includes)**
+
+- If I need a different **hero section**, for example:
+    - Duplicate the existing `hero.html` in the `_includes/` folder.
+    - Rename the duplicated file (e.g., `hero-custom.html`) and customize its design or content.
+
+**2. Duplicate and modify the layout file**
+
+- In the `_layouts/` folder, duplicate the default layout (usually `default.html`).
+- Rename the copy (e.g., `custom-hero.html`) and assign the newly created custom include:
+```
+{% raw %}{% include hero-custom.html %}{% endraw %}
+```
+
+**3. Assign this new layout to specific pages**
+
+- In the front matter of the relevant pages, specify the new layout:
+  ```
+  ---
+  layout: custom-hero
+  title: Custom Hero Page
+  ---
+  ```
+
+This way, only the selected pages will feature the custom hero, while the rest remain on the default layout.
+
+#### More Customization Ideas:
+
+This same approach works equally well for:
+
+- **Alternate footers**:
+    - Create variations like `footer-simple.html` for minimal footers or special landing page footers.
+- **Special landing pages without navigation**:
+    - Create a layout without the navigation include for better conversions on landing or lead-capture pages.
+- **Multilingual websites**:
+    - For bilingual sites, create separate layouts like `default_en.html` and `default_de.html`.
+    - Each layout then includes language-specific navigation (`nav-en.html`, `nav-de.html`) and footers, ensuring visitors see only content in their chosen language.
+
+By following this modular, structured approach, I can offer clients fully customized designs while maintaining Jekyll's simplicity, speed, and maintainability.
+
+
+
+### Extending Jekyll with External Tools
+
+Jekyll, on its own, is intentionally simple, but it can be easily extended with external tools and services to add functionality typically associated with dynamic websites. Here are some of my go-to options for adding functionality typically associated with dynamic websites:
+
+- **Form Handling**
+  - [Netlify Forms](https://www.netlify.com/products/forms/)
+  - [Formspree](https://formspree.io/)
+  - [Formspark](https://formspark.io/)
+
+- **Search Functionality**
+  - [Algolia](https://www.algolia.com/) (powerful search service)
+  - JavaScript-based search libraries (already built into [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme)
+
+- **Enhanced Styling & Animations**
+  - [Tailwind CSS](https://tailwindcss.com/) (Utility-first CSS framework for rapid styling)
+  - [GSAP (GreenSock Animation Platform)](https://greensock.com/gsap/) (JavaScript animation library for advanced animations and interactions)
+
+- **Embedding Social Media Feeds**
+  - [SociableKIT](https://www.sociablekit.com/) (Embed social media feeds from Instagram, Facebook, Twitter, etc.)
+  - I use this occasionally, including on my own site, though it comes with some styling limitations and can slightly impact site speed.
+
+- **E-commerce & Payments**
+  - [Snipcart](https://snipcart.com/)
+  - [Shopify Buy Button](https://www.shopify.com/buy-button)
+  - [Stripe Checkout](https://stripe.com/checkout)
+
+- **Comment Systems & User Interaction**
+  - [Disqus](https://disqus.com/)
+  - [Staticman](https://staticman.net/)
+  - [Commento](https://commento.io/)
+
+These integrations enable Jekyll websites to offer richer functionalities while still benefiting from simplicity, performance, and security.
+
+
+## Best Use Cases for Jekyll
+
+- **Blogs & Developer Blogs** → Simple Markdown-based writing & publishing.
+- **Portfolio & Personal Branding Sites** → Fast, lightweight, easy to manage.
+- **Company Websites with Mostly Static Content** → Great for startups and small businesses.
+- **Documentation Websites** → API docs, manuals, and knowledge bases.
+- **Marketing Landing Pages** → SEO-friendly, blazing-fast lead capture pages.
+
+## Conclusion: Is Jekyll Right for Your Project?
+
+If you need fast, secure, and cost-effective websites, Jekyll is an excellent choice. It allows you to quickly build performant, SEO-friendly sites without ongoing maintenance headaches.
+
+However, if your project demands highly dynamic features, extensive user interactivity, or content management that's intuitive for non-technical users beyond basic blog posts, alternative solutions might serve you better.
+
+Jekyll remains a powerful, flexible tool—especially if you're a developer or tech-savvy individual looking for efficiency, simplicity, security, low maintenance and affordability.
