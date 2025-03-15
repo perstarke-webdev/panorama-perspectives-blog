@@ -141,33 +141,71 @@ These features make Jekyll a **developer-friendly platform** that encourages ris
 
 
 
+## When Jekyll Is Not the Right Choice
+
+### When Clients Need a Fully Dynamic Website
+
+Jekyll is great for static websites, but it’s not designed for projects that require real-time interactions, user authentication, or constantly changing content. Since Jekyll pre-generates all pages as static files, it doesn't have a built-in way to handle dynamic features like:
+
+- **User logins and authentication** – No built-in system for memberships, dashboards, or personalized content.
+- **Live updates** – Content changes require rebuilding the site, making it impractical for things like social feeds, live stock updates, or real-time booking systems.
+- **Advanced e-commerce functionality** – While it's possible to integrate third-party solutions like Snipcart or Shopify Buy Button, Jekyll doesn't support a built-in shopping cart, dynamic product management, or customer accounts.
+
+For projects that require these kinds of interactive features, I turn to other tools:
+
+- **Next.js** – Great for hybrid static/dynamic websites with React-based frontends.
+- **WordPress** – Still a solid choice for content-heavy sites that need plugins and user management.
+- **Custom React-based solutions** – Best for fully custom web applications requiring flexibility and scalability.
 
 
+### When Clients Need a WYSIWYG CMS
+
+Jekyll doesn’t come with a built-in visual editor like traditional content management systems. Instead of using a WYSIWYG (What You See Is What You Get) editor, content updates are made using Markdown and Git. While Markdown is simple, it still requires a basic understanding of file structures and commits, which can be a challenge for non-technical clients.
+
+- **No built-in CMS interface** – There’s no visual dashboard where clients can log in and edit content with a rich text editor.
+- **Requires Markdown & Git** – Content updates need to be written in Markdown and pushed via Git, which isn’t always intuitive for non-developers.
+- **Not ideal for frequent content updates** – If a client wants to make regular changes to their website without touching code, Jekyll may not be the best choice.
+
+For clients who need an **easy-to-use CMS**, I typically recommend:
+
+- **Webflow** – A visual builder with CMS functionality, great for clients who want full design and content control.
+- **WordPress** – A widely used CMS with a familiar editing interface and a large plugin ecosystem.
+- **Netlify CMS (or other headless CMS solutions)** – A **headless CMS** provides a content management interface without being tied to a specific frontend. It allows clients to edit content in a user-friendly dashboard, while Jekyll pulls in the content during site builds. This keeps the website fast and secure while making content updates easier, and can also be used in combination with Jekyll.
+
+### When Scaling Becomes an Issue
+
+Jekyll works well for small to medium-sized websites, but when a project grows beyond a certain point, performance limitations can appear. Since Jekyll pre-builds every page as a static file, sites with thousands of pages or frequent updates can experience slow build times.
+
+- **Large sites (1,000+ pages) = Slow build times** – The more pages a Jekyll site has, the longer it takes to generate new versions, making publishing updates inefficient.
+- **Frequent content updates require full site rebuilds** – Every time content is changed, the entire site needs to be rebuilt and redeployed, which can be time-consuming for news sites or high-traffic blogs with daily updates.
+
+For projects that require better scalability, I would consider other options:
+
+- **Hugo** – A static site generator like Jekyll but significantly faster when handling large content-heavy sites.
+- **Next.js** – A hybrid static/dynamic framework that allows for incremental builds, making it more efficient for websites with frequent updates.
 
 
+### When Clients Want Custom Highly Complex Designs
+
+Jekyll allows for full customization, but when it comes to highly complex or unconventional designs, it may not always be the most efficient choice. Since Jekyll relies on static HTML and templating, achieving intricate layouts, advanced animations, or highly interactive visual effects often requires manual coding and workarounds.
+
+- **Fully custom or unconventional designs require extra effort** – While Jekyll lets me edit everything at the code level, designs that deviate heavily from standard layouts (e.g., overlapping elements, dynamic transitions, or non-traditional navigation structures) often take significantly more time to implement.
+- **Advanced animations and microinteractions** – Jekyll doesn’t come with built-in tools for animations, so everything must be coded manually using CSS or JavaScript.
+- **Limited design flexibility compared to modern page builders** – Platforms like Webflow allow for more visual control without requiring extensive custom CSS, making them faster for design-heavy projects.
+
+For projects requiring extensive visual complexity, alternative tools are often a better fit:
+
+- **React.js** – A JavaScript framework ideal for highly interactive layouts, complex UI components, and web applications.
+- **Webflow** – A no-code/low-code design tool that makes it easy to create advanced, pixel-perfect designs and animations, great for clients who want more control without coding.
+
+That said, Jekyll can still be extended with modern front-end tools to improve styling and interactivity while keeping the benefits of a static site:
+
+- **Tailwind CSS** – A utility-first CSS framework that speeds up custom styling by providing pre-defined classes for spacing, typography, colors, and more. This allows for rapid design iterations without writing extensive custom CSS. Tailwind integrates easily into Jekyll projects, making styling more efficient.
+- **GSAP (GreenSock Animation Platform)** – A powerful JavaScript library for creating animations and motion effects. It’s widely used for smooth transitions, parallax scrolling, and interactive elements. Adding GSAP to a Jekyll project allows for dynamic animations without the need for a full JavaScript framework.
+
+Jekyll can handle custom designs, but if a project requires extensive interactivity or unconventional layouts, modern front-end frameworks or design-focused tools are often more efficient. However, for Jekyll-based projects, Tailwind CSS and GSAP are great additions that enhance styling and animation while keeping the site lightweight and fast.
 
 
-
-
-
-3️⃣ When Jekyll Is Not the Right Choice
-❌ 1. When Clients Need a Fully Dynamic Website
-No built-in user authentication, real-time updates, or live interactions.
-E-commerce limitations → Needs third-party tools like Snipcart or Shopify Buy Button.
-Alternatives: Next.js, WordPress, or custom React-based solutions.
-❌ 2. When Clients Need a WYSIWYG CMS
-No built-in content management system (CMS) → Content changes require Markdown & Git.
-Non-technical clients may struggle to edit content.
-Alternatives: Webflow, WordPress, or a headless CMS like Contentful.
-❌ 3. When Scaling Becomes an Issue
-Large sites (1,000+ pages) = Slow build times.
-Frequent content updates require full site rebuilds → Not efficient for news sites or high-traffic blogs.
-Alternatives: Hugo (faster builds), Next.js (hybrid static/dynamic).
-❌ 4. When Clients Want Custom Web Applications or Highly Complex Designs
-No built-in backend/database for storing user-generated content.
-Limited interactivity → Needs external APIs for advanced features.
-Fully custom, highly interactive, or animation-heavy designs are possible but require a lot of manual coding and workarounds.
-Alternatives: React.js (for interactive components), Webflow (for no-code/low-code custom layouts), or full frameworks like Django/Laravel for large-scale applications.
 4️⃣ Workarounds & Customization Strategies for Jekyll
 🔹 1. Making Jekyll More Client-Friendly
 Use headless CMS solutions (Netlify CMS, Forestry, Contentful) for a user-friendly editor.
