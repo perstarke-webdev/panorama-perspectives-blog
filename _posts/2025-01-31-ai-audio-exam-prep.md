@@ -22,7 +22,7 @@ After **nine semesters of Cognitive Science (B.Sc.)** and **two semesters of App
 
 At first, I was *hella* anxious about this one. Not only was the subject insanely challenging, but I also had **a lot on my plate**—a major study project, building my own business, a part-time job, planning my move to Australia, and prepping for a **competitive powerlifting** event. My goal? Just survive and pass.
 
-But guess what? I didn’t just pass—I walked away with a **2.0**, and (somehow) the whole prep process turned out to be **relaxing and even fun**.  
+But guess what? I didn’t just pass—I walked away with a **1.3**, and (somehow) the whole prep process turned out to be **relaxing and even fun**.  
 Sounds impossible? Keep reading—because Ethan Hunt isn’t the only one pulling off impossible missions. 😆
 
 ---
